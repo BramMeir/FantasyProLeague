@@ -1,0 +1,50 @@
+{
+    "ANT": {
+        "name": "Royal Antwerp FC"
+    },
+    "AND": {
+        "name": "RSC Anderlecht"
+    },
+    "CLU": {
+        "name": "Club Brugge"
+    },
+    "GNK": {
+        "name": "KRC Genk"
+    },
+    "GNT": {
+        "name": "KAA Gent"
+    },
+    "BEE": {
+        "name": "Beerschot"
+    },
+    "CER": {
+        "name": "Cercle Brugge"
+    },
+    "DEN": {
+        "name": "FCV Dender EH"
+    },
+    "KOR": {
+        "name": "KV Kortrijk"
+    },
+    "KVM": {
+        "name": "KV Mechelen"
+    },
+    "WES": {
+        "name": "KVC Westerlo"
+    },
+    "OHL": {
+        "name": "Oud-Heverlee Leuven"
+    },
+    "USG": {
+        "name": "Union Saint-Gilloise"
+    },
+    "CHA": {
+        "name": "Sporting Charleroi"
+    },
+    "STA": {
+        "name": "Standard Liège"
+    },
+    "STV": {
+        "name": "STVV"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FantasyProLeague",
+  "version": "1.0.0",
+  "description": "Fantasy Pro League application to optimize team choice",
+  "main": "index.js",
+  "repository": "https://github.com/BramMeir/FantasyProLeague.git",
+  "author": "Bram Meir <Bram.Meir@ugent.be>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^24.1.1"
+  }
+}

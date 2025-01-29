@@ -1,0 +1,3926 @@
+[
+  {
+    "name": "Lammens",
+    "team": "Royal Antwerp FC",
+    "position": "Doelman",
+    "points": "153",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Coosemans",
+    "team": "RSC Anderlecht",
+    "position": "Doelman",
+    "points": "150",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Roef",
+    "team": "KAA Gent",
+    "position": "Doelman",
+    "points": "143",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Vanaken",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "140",
+    "goals": "6",
+    "assists": "8",
+    "price": "11"
+  },
+  {
+    "name": "Chery",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "137",
+    "goals": "9",
+    "assists": "5",
+    "price": "7"
+  },
+  {
+    "name": "Epolo",
+    "team": "Standard Liège",
+    "position": "Doelman",
+    "points": "136",
+    "goals": "0",
+    "assists": "1",
+    "price": "4.5"
+  },
+  {
+    "name": "Watanabe",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "133",
+    "goals": "1",
+    "assists": "2",
+    "price": "6.5"
+  },
+  {
+    "name": "Mechele",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "132",
+    "goals": "3",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Leysen",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Doelman",
+    "points": "129",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Vuskovic",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "122",
+    "goals": "6",
+    "assists": "1",
+    "price": "4.5"
+  },
+  {
+    "name": "Tolu",
+    "team": "KRC Genk",
+    "position": "Aanvaller",
+    "points": "121",
+    "goals": "14",
+    "assists": "5",
+    "price": "9"
+  },
+  {
+    "name": "Moris",
+    "team": "Union Saint-Gilloise",
+    "position": "Doelman",
+    "points": "120",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Steuckers",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "118",
+    "goals": "7",
+    "assists": "4",
+    "price": "8"
+  },
+  {
+    "name": "Sadiki",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "118",
+    "goals": "1",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Fossey",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "117",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Dolberg",
+    "team": "RSC Anderlecht",
+    "position": "Aanvaller",
+    "points": "116",
+    "goals": "12",
+    "assists": "1",
+    "price": "10"
+  },
+  {
+    "name": "Tzolis",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "116",
+    "goals": "7",
+    "assists": "5",
+    "price": "8"
+  },
+  {
+    "name": "Zorgane",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "115",
+    "goals": "0",
+    "assists": "4",
+    "price": "7"
+  },
+  {
+    "name": "Simic",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "111",
+    "goals": "3",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Brown",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "110",
+    "goals": "1",
+    "assists": "3",
+    "price": "5.5"
+  },
+  {
+    "name": "Schoofs",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "109",
+    "goals": "3",
+    "assists": "2",
+    "price": "10"
+  },
+  {
+    "name": "Janssen",
+    "team": "Royal Antwerp FC",
+    "position": "Aanvaller",
+    "points": "109",
+    "goals": "8",
+    "assists": "6",
+    "price": "9"
+  },
+  {
+    "name": "Cools",
+    "team": "FCV Dender EH",
+    "position": "Verdediger",
+    "points": "108",
+    "goals": "0",
+    "assists": "1",
+    "price": "4"
+  },
+  {
+    "name": "Mac Allister",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "107",
+    "goals": "2",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "De Wolf",
+    "team": "KV Mechelen",
+    "position": "Doelman",
+    "points": "105",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Kayembe",
+    "team": "KRC Genk",
+    "position": "Verdediger",
+    "points": "104",
+    "goals": "0",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Heymans",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "102",
+    "goals": "8",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "De Cuyper",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "102",
+    "goals": "1",
+    "assists": "2",
+    "price": "7"
+  },
+  {
+    "name": "Mignolet",
+    "team": "Club Brugge",
+    "position": "Doelman",
+    "points": "102",
+    "goals": "0",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Hautekiet",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "102",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Sutalo",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "100",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Seys",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "100",
+    "goals": "2",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Alderweireld",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "99",
+    "goals": "3",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Ruyssen",
+    "team": "FCV Dender EH",
+    "position": "Verdediger",
+    "points": "98",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Vanhoutte",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "97",
+    "goals": "0",
+    "assists": "3",
+    "price": "7"
+  },
+  {
+    "name": "Ravych",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "97",
+    "goals": "1",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Lawrence",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "97",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Verschaeren",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "96",
+    "goals": "3",
+    "assists": "4",
+    "price": "7"
+  },
+  {
+    "name": "Petris",
+    "team": "Sporting Charleroi",
+    "position": "Verdediger",
+    "points": "96",
+    "goals": "0",
+    "assists": "2",
+    "price": "4.5"
+  },
+  {
+    "name": "Hrosovsky",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "95",
+    "goals": "6",
+    "assists": "2",
+    "price": "6.5"
+  },
+  {
+    "name": "Ivanovic",
+    "team": "Union Saint-Gilloise",
+    "position": "Aanvaller",
+    "points": "94",
+    "goals": "9",
+    "assists": "2",
+    "price": "8"
+  },
+  {
+    "name": "El Ouahdi",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "94",
+    "goals": "3",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Rodes",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "94",
+    "goals": "3",
+    "assists": "1",
+    "price": "4.5"
+  },
+  {
+    "name": "Sayyadmanesh",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "93",
+    "goals": "6",
+    "assists": "4",
+    "price": "5"
+  },
+  {
+    "name": "Verrips",
+    "team": "FCV Dender EH",
+    "position": "Doelman",
+    "points": "93",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Pupe",
+    "team": "FCV Dender EH",
+    "position": "Verdediger",
+    "points": "93",
+    "goals": "0",
+    "assists": "4",
+    "price": "4"
+  },
+  {
+    "name": "N'Diaye",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "92",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Delorge",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "91",
+    "goals": "1",
+    "assists": "3",
+    "price": "8.5"
+  },
+  {
+    "name": "Zeqiri",
+    "team": "Standard Liège",
+    "position": "Aanvaller",
+    "points": "91",
+    "goals": "8",
+    "assists": "2",
+    "price": "7"
+  },
+  {
+    "name": "Bertaccini",
+    "team": "STVV",
+    "position": "Aanvaller",
+    "points": "91",
+    "goals": "11",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Ogawa",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "91",
+    "goals": "2",
+    "assists": "2",
+    "price": "4.5"
+  },
+  {
+    "name": "Kerk",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "90",
+    "goals": "5",
+    "assists": "3",
+    "price": "6.5"
+  },
+  {
+    "name": "Sadick",
+    "team": "KRC Genk",
+    "position": "Verdediger",
+    "points": "90",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Raemaekers",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "89",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Kone",
+    "team": "Sporting Charleroi",
+    "position": "Doelman",
+    "points": "88",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Ferraro",
+    "team": "FCV Dender EH",
+    "position": "Verdediger",
+    "points": "88",
+    "goals": "0",
+    "assists": "3",
+    "price": "4"
+  },
+  {
+    "name": "Banzuzi",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "87",
+    "goals": "1",
+    "assists": "5",
+    "price": "6"
+  },
+  {
+    "name": "Machida",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "87",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Kvet",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "87",
+    "goals": "4",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Haspolat",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "87",
+    "goals": "1",
+    "assists": "4",
+    "price": "5.5"
+  },
+  {
+    "name": "Dragsnes",
+    "team": "Sporting Charleroi",
+    "position": "Verdediger",
+    "points": "87",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Van Den Bosch",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "86",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Stroeykens",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "85",
+    "goals": "3",
+    "assists": "4",
+    "price": "8.5"
+  },
+  {
+    "name": "Heynen",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "85",
+    "goals": "0",
+    "assists": "2",
+    "price": "8"
+  },
+  {
+    "name": "Godeau",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "85",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Delanghe",
+    "team": "Cercle Brugge",
+    "position": "Doelman",
+    "points": "85",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Foulon",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "84",
+    "goals": "2",
+    "assists": "3",
+    "price": "7"
+  },
+  {
+    "name": "Andreou",
+    "team": "Sporting Charleroi",
+    "position": "Verdediger",
+    "points": "84",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Rits",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "83",
+    "goals": "1",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Van Helden",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "83",
+    "goals": "1",
+    "assists": "1",
+    "price": "5.5"
+  },
+  {
+    "name": "Nilsson",
+    "team": "Club Brugge",
+    "position": "Aanvaller",
+    "points": "82",
+    "goals": "8",
+    "assists": "5",
+    "price": "8"
+  },
+  {
+    "name": "Gandelman",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "82",
+    "goals": "4",
+    "assists": "3",
+    "price": "7.5"
+  },
+  {
+    "name": "Smets",
+    "team": "KRC Genk",
+    "position": "Verdediger",
+    "points": "82",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Baah",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "82",
+    "goals": "2",
+    "assists": "3",
+    "price": "5.5"
+  },
+  {
+    "name": "Francis",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "82",
+    "goals": "0",
+    "assists": "4",
+    "price": "5"
+  },
+  {
+    "name": "Ousou",
+    "team": "Sporting Charleroi",
+    "position": "Verdediger",
+    "points": "82",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Pflucke",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "81",
+    "goals": "4",
+    "assists": "4",
+    "price": "6.5"
+  },
+  {
+    "name": "N'Dri",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "81",
+    "goals": "3",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Guiagon",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "80",
+    "goals": "4",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Verlinden",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "79",
+    "goals": "2",
+    "assists": "5",
+    "price": "7"
+  },
+  {
+    "name": "Maziz",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "78",
+    "goals": "3",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Verstraete",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "78",
+    "goals": "0",
+    "assists": "3",
+    "price": "6.5"
+  },
+  {
+    "name": "Burgess",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "78",
+    "goals": "0",
+    "assists": "1",
+    "price": "6.5"
+  },
+  {
+    "name": "Torunarigha",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "78",
+    "goals": "0",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Magnee",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "78",
+    "goals": "0",
+    "assists": "2",
+    "price": "5.5"
+  },
+  {
+    "name": "Hrncar",
+    "team": "FCV Dender EH",
+    "position": "Verdediger",
+    "points": "78",
+    "goals": "1",
+    "assists": "2",
+    "price": "5"
+  },
+  {
+    "name": "Diakite",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "78",
+    "goals": "1",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Kokubo",
+    "team": "STVV",
+    "position": "Doelman",
+    "points": "78",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Ito",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "77",
+    "goals": "2",
+    "assists": "3",
+    "price": "8"
+  },
+  {
+    "name": "Storm",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "77",
+    "goals": "4",
+    "assists": "3",
+    "price": "6.5"
+  },
+  {
+    "name": "Rommens",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "77",
+    "goals": "0",
+    "assists": "2",
+    "price": "5"
+  },
+  {
+    "name": "Ferri",
+    "team": "KV Kortrijk",
+    "position": "Aanvaller",
+    "points": "76",
+    "goals": "6",
+    "assists": "1",
+    "price": "7.5"
+  },
+  {
+    "name": "Somers",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "76",
+    "goals": "2",
+    "assists": "2",
+    "price": "7"
+  },
+  {
+    "name": "Reynolds",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "76",
+    "goals": "1",
+    "assists": "3",
+    "price": "5.5"
+  },
+  {
+    "name": "Castro-Montes",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "75",
+    "goals": "1",
+    "assists": "3",
+    "price": "6.5"
+  },
+  {
+    "name": "Van der Bruggen",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "75",
+    "goals": "1",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Touba",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "75",
+    "goals": "2",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Fujita",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "74",
+    "goals": "0",
+    "assists": "2",
+    "price": "5.5"
+  },
+  {
+    "name": "Akimoto",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "74",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Al-Sahafi",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "73",
+    "goals": "5",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Leysen",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "73",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Marsa",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "73",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Talbi",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "73",
+    "goals": "5",
+    "assists": "2",
+    "price": "4"
+  },
+  {
+    "name": "Devine",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "72",
+    "goals": "4",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Raman",
+    "team": "KV Mechelen",
+    "position": "Aanvaller",
+    "points": "72",
+    "goals": "8",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Eckert",
+    "team": "Standard Liège",
+    "position": "Aanvaller",
+    "points": "72",
+    "goals": "4",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "O'Neill",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "72",
+    "goals": "0",
+    "assists": "1",
+    "price": "5.5"
+  },
+  {
+    "name": "Jashari",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "71",
+    "goals": "1",
+    "assists": "2",
+    "price": "7"
+  },
+  {
+    "name": "Surdez",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "71",
+    "goals": "2",
+    "assists": "5",
+    "price": "6"
+  },
+  {
+    "name": "Bataille",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "71",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Van Crombrugge",
+    "team": "KRC Genk",
+    "position": "Doelman",
+    "points": "71",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Kakou",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "71",
+    "goals": "1",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Shinton",
+    "team": "Beerschot",
+    "position": "Doelman",
+    "points": "71",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Mrabti",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "69",
+    "goals": "2",
+    "assists": "1",
+    "price": "8"
+  },
+  {
+    "name": "Nsimba",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "69",
+    "goals": "4",
+    "assists": "2",
+    "price": "7"
+  },
+  {
+    "name": "Frigan",
+    "team": "KVC Westerlo",
+    "position": "Aanvaller",
+    "points": "69",
+    "goals": "6",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Scheidler",
+    "team": "FCV Dender EH",
+    "position": "Aanvaller",
+    "points": "69",
+    "goals": "5",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Silva",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "69",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Bernier",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "67",
+    "goals": "2",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Fuji",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "67",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Gambor",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "67",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Leoni",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "66",
+    "goals": "2",
+    "assists": "0",
+    "price": "9.5"
+  },
+  {
+    "name": "Sardella",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "66",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "David",
+    "team": "Union Saint-Gilloise",
+    "position": "Aanvaller",
+    "points": "66",
+    "goals": "7",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Ricca",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "65",
+    "goals": "1",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Karetsas",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "64",
+    "goals": "2",
+    "assists": "1",
+    "price": "6.5"
+  },
+  {
+    "name": "Ordonez",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "64",
+    "goals": "1",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Agyekum",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "63",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Fadiga",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "63",
+    "goals": "3",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Ito",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "62",
+    "goals": "1",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Kuavita",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "62",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Sykes",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "61",
+    "goals": "2",
+    "assists": "1",
+    "price": "5.5"
+  },
+  {
+    "name": "De Neve",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "61",
+    "goals": "2",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Schrijvers",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "60",
+    "goals": "1",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Camara",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "60",
+    "goals": "0",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Lauberbach",
+    "team": "KV Mechelen",
+    "position": "Aanvaller",
+    "points": "60",
+    "goals": "3",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Konstantopoulos",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "60",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Plat",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "59",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Dean",
+    "team": "KAA Gent",
+    "position": "Aanvaller",
+    "points": "58",
+    "goals": "6",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Kadri",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "57",
+    "goals": "0",
+    "assists": "5",
+    "price": "7"
+  },
+  {
+    "name": "Ikwuemesi",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Aanvaller",
+    "points": "57",
+    "goals": "4",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Sissako",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "57",
+    "goals": "2",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Bulat",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "57",
+    "goals": "1",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Bos",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "57",
+    "goals": "3",
+    "assists": "3",
+    "price": "5.5"
+  },
+  {
+    "name": "Van den Eynden",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "57",
+    "goals": "3",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Mbe Soh",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "57",
+    "goals": "1",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Patris",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "56",
+    "goals": "0",
+    "assists": "4",
+    "price": "5"
+  },
+  {
+    "name": "Ominami",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "56",
+    "goals": "1",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Ambrose",
+    "team": "KV Kortrijk",
+    "position": "Aanvaller",
+    "points": "55",
+    "goals": "2",
+    "assists": "2",
+    "price": "6.5"
+  },
+  {
+    "name": "Sonko",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "55",
+    "goals": "2",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Yow",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "54",
+    "goals": "3",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Berte",
+    "team": "FCV Dender EH",
+    "position": "Aanvaller",
+    "points": "54",
+    "goals": "4",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Onyedika",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "54",
+    "goals": "1",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Gudjohnsen",
+    "team": "KAA Gent",
+    "position": "Aanvaller",
+    "points": "53",
+    "goals": "3",
+    "assists": "1",
+    "price": "8"
+  },
+  {
+    "name": "Henderson",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "53",
+    "goals": "2",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Mbenza",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "53",
+    "goals": "2",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Olaigbe",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "53",
+    "goals": "3",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Piedfort",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "53",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Valencia",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "53",
+    "goals": "2",
+    "assists": "2",
+    "price": "4.5"
+  },
+  {
+    "name": "Adedeji-Sternberg",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "53",
+    "goals": "3",
+    "assists": "2",
+    "price": "4"
+  },
+  {
+    "name": "Zahiroleslam",
+    "team": "STVV",
+    "position": "Aanvaller",
+    "points": "52",
+    "goals": "3",
+    "assists": "2",
+    "price": "7"
+  },
+  {
+    "name": "Mebude",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "52",
+    "goals": "2",
+    "assists": "1",
+    "price": "6.5"
+  },
+  {
+    "name": "Kurucay",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "52",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Dendoncker",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "51",
+    "goals": "0",
+    "assists": "0",
+    "price": "9"
+  },
+  {
+    "name": "Balikwisha",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "51",
+    "goals": "1",
+    "assists": "1",
+    "price": "8.5"
+  },
+  {
+    "name": "Titraoui",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "51",
+    "goals": "1",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Bates",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "51",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Taniguchi",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "51",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Mitrovic",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "51",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Keita",
+    "team": "Beerschot",
+    "position": "Aanvaller",
+    "points": "51",
+    "goals": "1",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Bayram",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "51",
+    "goals": "1",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Lagae",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "51",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Khalaili",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "50",
+    "goals": "0",
+    "assists": "2",
+    "price": "7.5"
+  },
+  {
+    "name": "Amuzu",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "50",
+    "goals": "2",
+    "assists": "2",
+    "price": "6.5"
+  },
+  {
+    "name": "Odoi",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "49",
+    "goals": "0",
+    "assists": "2",
+    "price": "5.5"
+  },
+  {
+    "name": "Ouattara",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "49",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Doumbia",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "49",
+    "goals": "2",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Belghali",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "48",
+    "goals": "1",
+    "assists": "1",
+    "price": "4.5"
+  },
+  {
+    "name": "Vlietinck",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "48",
+    "goals": "1",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Oh",
+    "team": "KRC Genk",
+    "position": "Aanvaller",
+    "points": "47",
+    "goals": "4",
+    "assists": "1",
+    "price": "8"
+  },
+  {
+    "name": "Augusto",
+    "team": "Cercle Brugge",
+    "position": "Aanvaller",
+    "points": "47",
+    "goals": "2",
+    "assists": "2",
+    "price": "7"
+  },
+  {
+    "name": "Fuseini",
+    "team": "Union Saint-Gilloise",
+    "position": "Aanvaller",
+    "points": "47",
+    "goals": "4",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Kums",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "47",
+    "goals": "2",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Gerkens",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "47",
+    "goals": "1",
+    "assists": "1",
+    "price": "6.5"
+  },
+  {
+    "name": "Edozie",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "46",
+    "goals": "2",
+    "assists": "1",
+    "price": "8"
+  },
+  {
+    "name": "Hairemans",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "46",
+    "goals": "1",
+    "assists": "2",
+    "price": "7.5"
+  },
+  {
+    "name": "Sattlberger",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "46",
+    "goals": "1",
+    "assists": "0",
+    "price": "7.5"
+  },
+  {
+    "name": "Vetlesen",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "46",
+    "goals": "1",
+    "assists": "1",
+    "price": "6.5"
+  },
+  {
+    "name": "Sanusi",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "46",
+    "goals": "1",
+    "assists": "1",
+    "price": "5.5"
+  },
+  {
+    "name": "Ferrari",
+    "team": "STVV",
+    "position": "Aanvaller",
+    "points": "45",
+    "goals": "3",
+    "assists": "1",
+    "price": "7.5"
+  },
+  {
+    "name": "Dejaegere",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "45",
+    "goals": "1",
+    "assists": "0",
+    "price": "7.5"
+  },
+  {
+    "name": "Stulic",
+    "team": "Sporting Charleroi",
+    "position": "Aanvaller",
+    "points": "45",
+    "goals": "4",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Mitrovic",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "44",
+    "goals": "1",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Erick",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "44",
+    "goals": "0",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Vermant",
+    "team": "Club Brugge",
+    "position": "Aanvaller",
+    "points": "44",
+    "goals": "2",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Jutgla",
+    "team": "Club Brugge",
+    "position": "Aanvaller",
+    "points": "43",
+    "goals": "3",
+    "assists": "0",
+    "price": "8.5"
+  },
+  {
+    "name": "Brahimi",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "43",
+    "goals": "1",
+    "assists": "2",
+    "price": "7.5"
+  },
+  {
+    "name": "Vazquez",
+    "team": "RSC Anderlecht",
+    "position": "Aanvaller",
+    "points": "43",
+    "goals": "2",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Nazinho",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "43",
+    "goals": "0",
+    "assists": "3",
+    "price": "4.5"
+  },
+  {
+    "name": "Dagba",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "42",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Mehssatou",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "42",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Gil",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "42",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Minda",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "41",
+    "goals": "0",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Sor",
+    "team": "KRC Genk",
+    "position": "Aanvaller",
+    "points": "41",
+    "goals": "1",
+    "assists": "4",
+    "price": "6"
+  },
+  {
+    "name": "Bafdili",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "41",
+    "goals": "2",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Bangoura",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "41",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Alcocer",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "40",
+    "goals": "1",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Al-Ghamdi",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "39",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Viltard",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "39",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Lapoussin",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "38",
+    "goals": "1",
+    "assists": "1",
+    "price": "6.5"
+  },
+  {
+    "name": "Bolat",
+    "team": "KVC Westerlo",
+    "position": "Doelman",
+    "points": "38",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Van Langendonck",
+    "team": "KVC Westerlo",
+    "position": "Doelman",
+    "points": "38",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Cuesta",
+    "team": "KRC Genk",
+    "position": "Verdediger",
+    "points": "37",
+    "goals": "1",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Camara",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "37",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Reyners",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "37",
+    "goals": "1",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Utkus",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "37",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Corbanie",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "37",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Dahl",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "36",
+    "goals": "1",
+    "assists": "1",
+    "price": "6.5"
+  },
+  {
+    "name": "Foket",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "36",
+    "goals": "0",
+    "assists": "2",
+    "price": "6"
+  },
+  {
+    "name": "Goncalves",
+    "team": "FCV Dender EH",
+    "position": "Verdediger",
+    "points": "36",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Vanwesemael",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "36",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Colassin",
+    "team": "Beerschot",
+    "position": "Aanvaller",
+    "points": "36",
+    "goals": "2",
+    "assists": "3",
+    "price": "4"
+  },
+  {
+    "name": "Ait El Hadj",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "35",
+    "goals": "1",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Keita",
+    "team": "Sporting Charleroi",
+    "position": "Verdediger",
+    "points": "35",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Neustadter",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "34",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Sabbe",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "34",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Dewaele",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "34",
+    "goals": "1",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Hens",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "33",
+    "goals": "0",
+    "assists": "1",
+    "price": "5.5"
+  },
+  {
+    "name": "Gunnarrson",
+    "team": "KV Kortrijk",
+    "position": "Doelman",
+    "points": "33",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Samoise",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "32",
+    "goals": "0",
+    "assists": "0",
+    "price": "8.5"
+  },
+  {
+    "name": "Kyei",
+    "team": "Sporting Charleroi",
+    "position": "Aanvaller",
+    "points": "32",
+    "goals": "1",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Siquet",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "32",
+    "goals": "2",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Yamamoto",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "32",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Fayed",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "32",
+    "goals": "0",
+    "assists": "1",
+    "price": "4.5"
+  },
+  {
+    "name": "Weymans",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "32",
+    "goals": "1",
+    "assists": "1",
+    "price": "4"
+  },
+  {
+    "name": "Praet",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "31",
+    "goals": "0",
+    "assists": "0",
+    "price": "9"
+  },
+  {
+    "name": "Niang",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "31",
+    "goals": "1",
+    "assists": "0",
+    "price": "7.5"
+  },
+  {
+    "name": "Maertens",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "31",
+    "goals": "1",
+    "assists": "1",
+    "price": "6.5"
+  },
+  {
+    "name": "Oratmangoen",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "31",
+    "goals": "1",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Vandenberghe",
+    "team": "KAA Gent",
+    "position": "Doelman",
+    "points": "31",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Miangue",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "31",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Skoras",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "30",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Dierckx",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "29",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Rasmussen",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "28",
+    "goals": "0",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Alexandropoulos",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "28",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Tshimanga",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "28",
+    "goals": "1",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Augustinsson",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "27",
+    "goals": "1",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Warleson",
+    "team": "Cercle Brugge",
+    "position": "Doelman",
+    "points": "27",
+    "goals": "0",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Spileers",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "27",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Bruno",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "27",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Pletinckx",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "26",
+    "goals": "0",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Romero",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "26",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Dumont",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "26",
+    "goals": "1",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Rodriguez",
+    "team": "Union Saint-Gilloise",
+    "position": "Aanvaller",
+    "points": "25",
+    "goals": "1",
+    "assists": "0",
+    "price": "7.5"
+  },
+  {
+    "name": "Martha",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "25",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Henkinet",
+    "team": "Standard Liège",
+    "position": "Doelman",
+    "points": "25",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Osifo",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "25",
+    "goals": "0",
+    "assists": "1",
+    "price": "4"
+  },
+  {
+    "name": "Lazare",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "24",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Ashimeru",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "24",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Nielsen",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "23",
+    "goals": "0",
+    "assists": "1",
+    "price": "6"
+  },
+  {
+    "name": "Angulo",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "23",
+    "goals": "0",
+    "assists": "2",
+    "price": "5.5"
+  },
+  {
+    "name": "Alebiosu",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "23",
+    "goals": "0",
+    "assists": "2",
+    "price": "4.5"
+  },
+  {
+    "name": "Meijer",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "22",
+    "goals": "0",
+    "assists": "2",
+    "price": "5.5"
+  },
+  {
+    "name": "Penders",
+    "team": "KRC Genk",
+    "position": "Doelman",
+    "points": "22",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Delavallee",
+    "team": "Sporting Charleroi",
+    "position": "Doelman",
+    "points": "22",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Janssens",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "22",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Fila",
+    "team": "FCV Dender EH",
+    "position": "Verdediger",
+    "points": "21",
+    "goals": "1",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Boufal",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "20",
+    "goals": "0",
+    "assists": "2",
+    "price": "9"
+  },
+  {
+    "name": "Goncalves",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "20",
+    "goals": "1",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Riedewald",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "20",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Dabbagh",
+    "team": "Sporting Charleroi",
+    "position": "Aanvaller",
+    "points": "20",
+    "goals": "1",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Ouattara",
+    "team": "Cercle Brugge",
+    "position": "Aanvaller",
+    "points": "20",
+    "goals": "2",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Mampassi",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "20",
+    "goals": "1",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Hazard",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "19",
+    "goals": "1",
+    "assists": "1",
+    "price": "8.5"
+  },
+  {
+    "name": "Van de Perre",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "19",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Hjulsager",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "19",
+    "goals": "0",
+    "assists": "1",
+    "price": "5"
+  },
+  {
+    "name": "Belaid",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "19",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Huiberts",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "18",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Matijas",
+    "team": "Beerschot",
+    "position": "Doelman",
+    "points": "18",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Rogelj",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "17",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Renders",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "17",
+    "goals": "0",
+    "assists": "1",
+    "price": "4.5"
+  },
+  {
+    "name": "Kosiah",
+    "team": "Beerschot",
+    "position": "Aanvaller",
+    "points": "16",
+    "goals": "1",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Sydorchuk",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "16",
+    "goals": "0",
+    "assists": "1",
+    "price": "5.5"
+  },
+  {
+    "name": "Nkuba",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "16",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "El Idrissy",
+    "team": "KV Kortrijk",
+    "position": "Aanvaller",
+    "points": "16",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Walsh",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "15",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Vanheusden",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "15",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Bolingoli",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "15",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Ngoy",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "15",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Degreef",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "15",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Fossum",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "15",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Cagro",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "15",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Pirard",
+    "team": "KV Kortrijk",
+    "position": "Doelman",
+    "points": "14",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Udoh",
+    "team": "Royal Antwerp FC",
+    "position": "Aanvaller",
+    "points": "14",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Acquah",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "14",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Nhaili",
+    "team": "STVV",
+    "position": "Aanvaller",
+    "points": "14",
+    "goals": "0",
+    "assists": "1",
+    "price": "4"
+  },
+  {
+    "name": "Vertonghen",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "13",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Van Cleemput",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "13",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Sylla",
+    "team": "FCV Dender EH",
+    "position": "Verdediger",
+    "points": "13",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Efekele",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "13",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Calut",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "13",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Flips",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "12",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Barnes",
+    "team": "STVV",
+    "position": "Aanvaller",
+    "points": "12",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Akman",
+    "team": "FCV Dender EH",
+    "position": "Aanvaller",
+    "points": "12",
+    "goals": "1",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Nzita",
+    "team": "Sporting Charleroi",
+    "position": "Verdediger",
+    "points": "12",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Van den Keybus",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "12",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Maamar",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "12",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Verstraeten",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "12",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Devriendt",
+    "team": "FCV Dender EH",
+    "position": "Doelman",
+    "points": "12",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Brunner",
+    "team": "Cercle Brugge",
+    "position": "Aanvaller",
+    "points": "11",
+    "goals": "0",
+    "assists": "0",
+    "price": "8"
+  },
+  {
+    "name": "Valera",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "11",
+    "goals": "0",
+    "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Sakamoto",
+    "team": "KVC Westerlo",
+    "position": "Aanvaller",
+    "points": "11",
+    "goals": "1",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Adryelson",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "11",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Karamoko",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "11",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Huerta",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "10",
+    "goals": "1",
+    "assists": "0",
+    "price": "8"
+  },
+  {
+    "name": "Wright-Phillips",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "10",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Scott",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "10",
+    "goals": "0",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Teklab",
+    "team": "Union Saint-Gilloise",
+    "position": "Middenvelder",
+    "points": "10",
+    "goals": "0",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Noubi",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "10",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Doumbia",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "10",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Badamosi",
+    "team": "Standard Liège",
+    "position": "Aanvaller",
+    "points": "9",
+    "goals": "0",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Hammar",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "8",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Deman",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "8",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Mbarki",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "8",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Bozhinov",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "8",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Goto",
+    "team": "RSC Anderlecht",
+    "position": "Aanvaller",
+    "points": "8",
+    "goals": "1",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "De Meyer",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "8",
+    "goals": "1",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Kikkenborg",
+    "team": "RSC Anderlecht",
+    "position": "Doelman",
+    "points": "8",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Lamkel Ze",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "7",
+    "goals": "1",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Dermane",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "7",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Ngoy",
+    "team": "KV Mechelen",
+    "position": "Aanvaller",
+    "points": "7",
+    "goals": "0",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Ortakaya",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "7",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Vandeplas",
+    "team": "Royal Antwerp FC",
+    "position": "Aanvaller",
+    "points": "7",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "De Wilde",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "7",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Balikwisha",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "6",
+    "goals": "0",
+    "assists": "0",
+    "price": "8"
+  },
+  {
+    "name": "Lopes",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "6",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Ilaimaharitra",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "6",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Gumuskaya",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "6",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Jordanov",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "6",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "George",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "6",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Vancsa",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "8"
+  },
+  {
+    "name": "Kruger",
+    "team": "Beerschot",
+    "position": "Aanvaller",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Djukanovic",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Sahabo",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Francois",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Van Oudenhove",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Gillekens",
+    "team": "KVC Westerlo",
+    "position": "Doelman",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Kongolo",
+    "team": "KRC Genk",
+    "position": "Verdediger",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Sow",
+    "team": "Sporting Charleroi",
+    "position": "Verdediger",
+    "points": "5",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Delpupo",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Zeefuik",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Aanvaller",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Araujo",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Jungdal",
+    "team": "KVC Westerlo",
+    "position": "Doelman",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Asante",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Tsunoda",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Adekami",
+    "team": "Royal Antwerp FC",
+    "position": "Middenvelder",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Coppens",
+    "team": "STVV",
+    "position": "Doelman",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Benaets",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Lapage",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "4",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Hountondji",
+    "team": "Standard Liège",
+    "position": "Aanvaller",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "8"
+  },
+  {
+    "name": "Slimani",
+    "team": "KVC Westerlo",
+    "position": "Aanvaller",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Gueye",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Welsh",
+    "team": "KV Mechelen",
+    "position": "Verdediger",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Tsoungui",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Mbalanda",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Lietaert",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Fixelles",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Diriken",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Engwanda",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "De Vlieger",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "3",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Konate",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "2",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Defourny",
+    "team": "Sporting Charleroi",
+    "position": "Doelman",
+    "points": "2",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Lambotte",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "2",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Masangu",
+    "team": "FCV Dender EH",
+    "position": "Middenvelder",
+    "points": "2",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Fortuna",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "2",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Smits",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "2",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Antonio",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Komori",
+    "team": "STVV",
+    "position": "Aanvaller",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Vanrafelghem",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "6.5"
+  },
+  {
+    "name": "Szalai",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Hey",
+    "team": "RSC Anderlecht",
+    "position": "Verdediger",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Alexis",
+    "team": "STVV",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Yeboah",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Lokembo Lokaso",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Oyen",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Juklerod",
+    "team": "STVV",
+    "position": "Verdediger",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Boukamir A.",
+    "team": "Sporting Charleroi",
+    "position": "Verdediger",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Dietsch",
+    "team": "FCV Dender EH",
+    "position": "Doelman",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Himpe",
+    "team": "KV Kortrijk",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Vargas",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Stanic",
+    "team": "Sporting Charleroi",
+    "position": "Aanvaller",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Opuku",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Mayoka-Tika",
+    "team": "Sporting Charleroi",
+    "position": "Middenvelder",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Omgba",
+    "team": "KAA Gent",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "8"
+  },
+  {
+    "name": "Ngoura",
+    "team": "Cercle Brugge",
+    "position": "Aanvaller",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Palacios",
+    "team": "KRC Genk",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Jackers",
+    "team": "Club Brugge",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Medina",
+    "team": "KRC Genk",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Bayo",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Diawara",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Placias",
+    "team": "KVC Westerlo",
+    "position": "Aanvaller",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Pierre",
+    "team": "KRC Genk",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Kana",
+    "team": "RSC Anderlecht",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Lallemand",
+    "team": "FCV Dender EH",
+    "position": "Aanvaller",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Thoelen",
+    "team": "KV Mechelen",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Haidara",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Gomis",
+    "team": "Cercle Brugge",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Doucoure",
+    "team": "Beerschot",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Imbrechts",
+    "team": "Union Saint-Gilloise",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Miras",
+    "team": "KV Mechelen",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Kotto",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Claes",
+    "team": "KRC Genk",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
+    "name": "Ayinde",
+    "team": "KAA Gent",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Dony",
+    "team": "Union Saint-Gilloise",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Langenbick",
+    "team": "Cercle Brugge",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Yameogo",
+    "team": "Club Brugge",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Engels",
+    "team": "Royal Antwerp FC",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Ghalidi",
+    "team": "Standard Liège",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "De Schrevel",
+    "team": "KAA Gent",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Thiam",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Souanga",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "van den Heuvel",
+    "team": "Club Brugge",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Nzouango",
+    "team": "Beerschot",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Asante",
+    "team": "KV Mechelen",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "De Stobbeleir",
+    "team": "Beerschot",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Fortin",
+    "team": "KAA Gent",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Monticelli",
+    "team": "RSC Anderlecht",
+    "position": "Aanvaller",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Van Gils",
+    "team": "Royal Antwerp FC",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Lendfers",
+    "team": "STVV",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Huygevelde",
+    "team": "KV Kortrijk",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Olivier",
+    "team": "Standard Liège",
+    "position": "Verdediger",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Jochmans",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Smekens",
+    "team": "KVC Westerlo",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Radelet",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Chambaere",
+    "team": "Union Saint-Gilloise",
+    "position": "Doelman",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
+    "name": "Seigers",
+    "team": "KVC Westerlo",
+    "position": "Verdediger",
+    "points": "-1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  }
+]
