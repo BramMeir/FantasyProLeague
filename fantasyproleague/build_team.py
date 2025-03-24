@@ -1,12 +1,12 @@
 """Module for building the best team using a given budget."""
 from pulp import LpMaximize, LpProblem, LpVariable, lpSum
-from logic.best_eleven import get_players
+from fetch_data.help_functions import get_data
 
 
 def build_best_15(budget=100):
     """Build the best team of 15 players within the given budget."""
     # Get players from the dataset
-    players = get_players("data/players.json")
+    players = get_data("data/players.json")
 
     # Define the ILP problem
     problem = LpProblem("Best_Team", LpMaximize)

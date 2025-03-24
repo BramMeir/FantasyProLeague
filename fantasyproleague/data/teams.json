@@ -1,6 +1,6 @@
 {
     "ANT": {
-        "name": "Royal Antwerp FC"
+        "name": "R. Antwerp FC"
     },
     "AND": {
         "name": "RSC Anderlecht"
@@ -12,10 +12,10 @@
         "name": "KRC Genk"
     },
     "GNT": {
-        "name": "KAA Gent"
+        "name": "Gent"
     },
     "BEE": {
-        "name": "Beerschot"
+        "name": "K. Beerschot V.A."
     },
     "CER": {
         "name": "Cercle Brugge"
@@ -42,7 +42,7 @@
         "name": "Sporting Charleroi"
     },
     "STA": {
-        "name": "Standard Liège"
+        "name": "Standard de Liège"
     },
     "STV": {
         "name": "STVV"

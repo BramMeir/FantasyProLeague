@@ -14,7 +14,6 @@ const main = async () => {
 
     let allData = []; // Store extracted data
     let hasNextPage = true;
-    let lastFirstPlayerName = ''; // Store the name of the first player for comparison
 
     while (hasNextPage) {
         // Extract table data from current page
