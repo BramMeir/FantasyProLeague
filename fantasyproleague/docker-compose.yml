@@ -1,18 +1,25 @@
 services:
   backend:
-    build: ./backend
-    volumes:
-      - ./backend:/app
+    container_name: backend
+    build:
+      context: ./backend
     ports:
       - "8000:8000"
+    volumes:
+      - ./backend:/app   # optional for live reload
+    command: uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
   frontend:
-    build: ./frontend
-    volumes:
-      - ./frontend:/app
-      - /app/node_modules   # <--- prevents overwriting node_modules
+    container_name: frontend
+    build:
+      context: ./frontend
     ports:
       - "5173:5173"
+    volumes:
+      - ./frontend:/app          # Mount your source code
+      - frontend_node_modules:/app/node_modules  # Keep dependencies in container
     depends_on:
       - backend
 
+volumes:
+  frontend_node_modules:
