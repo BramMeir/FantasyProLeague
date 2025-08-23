@@ -1,11 +1,11 @@
 """This module contains the logic to select the best players."""
-from fetch_data.help_functions import get_data
+from functions.help_functions import get_data
 
 
 def best_price_wise(n, position=None):
     """Return the best n players based on their performance/price ratio."""
     # Get the players from the data/players.json file
-    players = get_data("../data/players.json")
+    players = get_data("players.json")
 
     # Sort the players based on their performance/price ratio
     sorted_players = sorted(players, key=lambda x: float(x["points"]) / float(x["price"]),

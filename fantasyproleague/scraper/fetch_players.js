@@ -4,7 +4,7 @@ import fs from "fs";
 const url = "https://fantasy.proleague.be/stats";
 
 // Load the mapping between team names and their abbreviations
-const teams = JSON.parse(fs.readFileSync("../data/teams.json", "utf-8"));
+const teams = JSON.parse(fs.readFileSync("../backend/data/teams.json", "utf-8"));
 
 const main = async () => {
 
@@ -20,15 +20,15 @@ const main = async () => {
         const data = await page.evaluate((teams) => {
             const rows = document.querySelectorAll("tr.ant-table-row"); // Select all table rows
             return Array.from(rows).map(row => {
-                const columns = row.querySelectorAll("td"); // Get all columns
+                const columns = row.querySelectorAll("td");             // Get all columns
                 return {
-                    name: columns[1]?.innerText.trim(),   // Player Name
-                    team: teams[columns[2]?.innerText.trim()].name,   // Team
-                    position: columns[3]?.innerText.trim(), // Position
-                    points: columns[4]?.innerText.trim(), // Points
-                    goals: columns[5]?.innerText.trim(),  // Goals
-                    assists: columns[6]?.innerText.trim(), // Assists
-                    price: columns[7]?.innerText.trim().   // Price (€), remove € and M sign
+                    name: columns[1]?.innerText.trim(),                 // Player Name
+                    team: teams[columns[2]?.innerText.trim()].name,     // Team
+                    position: columns[3]?.innerText.trim(),             // Position
+                    points: columns[4]?.innerText.trim(),               // Points
+                    goals: columns[5]?.innerText.trim(),                // Goals
+                    assists: columns[6]?.innerText.trim(),              // Assists
+                    price: columns[7]?.innerText.trim().                // Price (€), remove € and M sign
                         replace("€", "").replace("M", ""),
                 };
             });
@@ -67,11 +67,8 @@ const main = async () => {
         }
     }
 
-    // Print the number of players extracted
-    console.log(`Total players extracted: ${allData.length}`);
-
     // Save the extracted data to a JSON file
-    fs.writeFileSync("../data/players.json", JSON.stringify(allData, null, 2));
+    fs.writeFileSync("../backend/data/players.json", JSON.stringify(allData, null, 2));
 
     await browser.close();
 };

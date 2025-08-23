@@ -1,0 +1,13 @@
+{
+  "name": "fantasyproleague",
+  "private": true,
+  "scripts": {
+    "dev": "npm-run-all -p dev:*",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && uvicorn main:app --reload --port 8000",
+    "dev:scraper": "cd scraper && node fetch_players.js"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}

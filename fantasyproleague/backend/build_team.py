@@ -1,6 +1,6 @@
 """Module for building the best team using a given budget."""
 from pulp import LpMaximize, LpProblem, LpVariable, lpSum
-from fetch_data.help_functions import get_data
+from backend.functions.help_functions import get_data
 
 
 def build_best_15(budget=100):

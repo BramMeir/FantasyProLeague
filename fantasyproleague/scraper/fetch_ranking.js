@@ -33,7 +33,7 @@ const main = async () => {
     });
 
     // Save the extracted data to a JSON file
-    fs.writeFileSync("../data/ranking.json", JSON.stringify(matchData, null, 2));
+    fs.writeFileSync("../backend/data/ranking.json", JSON.stringify(matchData, null, 2));
 
     await browser.close();
 };

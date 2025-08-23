@@ -1,0 +1,27 @@
+# Node dependencies (in case someone runs npm/yarn locally)
+**/node_modules
+
+# Python venv
+**/venv
+**/.venv
+
+# Bytecode
+**/__pycache__/
+**/*.pyc
+
+# Docker
+*.log
+*.pid
+*.seed
+*.cover
+*.env
+.env.*
+
+# Build outputs
+**/dist
+**/build
+
+# IDE/editor
+.vscode
+.idea
+.DS_Store

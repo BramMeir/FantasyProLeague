@@ -1,6 +1,6 @@
 """This module contains the logic to predict the team that will perform the best in the next weeks,
 based on the current performance of the players and the next fixtures."""
-from fetch_data.help_functions import get_data
+from functions.help_functions import get_data
 
 # Variable that contains the current gameweek
 CURRENT_GAMEWEEK = 24

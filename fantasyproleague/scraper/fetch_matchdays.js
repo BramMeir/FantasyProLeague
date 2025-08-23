@@ -40,7 +40,6 @@ const main = async () => {
                 }) 
             };
         });
-        console.log(matchData);
 
         matchdays.push(matchData); // Append new data
 
@@ -74,7 +73,7 @@ const main = async () => {
     }
 
     // Save the extracted data to a JSON file
-    fs.writeFileSync("../data/fixtures.json", JSON.stringify(matchdays, null, 2));
+    fs.writeFileSync("../backend/data/fixtures.json", JSON.stringify(matchdays, null, 2));
 
     await browser.close();
 };

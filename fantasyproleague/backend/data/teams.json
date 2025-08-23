@@ -14,17 +14,14 @@
     "GNT": {
         "name": "Gent"
     },
-    "BEE": {
-        "name": "K. Beerschot V.A."
-    },
     "CER": {
         "name": "Cercle Brugge"
     },
     "DEN": {
         "name": "FCV Dender EH"
     },
-    "KOR": {
-        "name": "KV Kortrijk"
+    "LAL": {
+        "name": "RAAL La Louvière"
     },
     "KVM": {
         "name": "KV Mechelen"
@@ -46,5 +43,8 @@
     },
     "STV": {
         "name": "STVV"
+    },
+    "ZWA": {
+        "name": "Zulte Waregem"
     }
 }
