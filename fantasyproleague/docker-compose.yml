@@ -1,25 +1,60 @@
+############################# NETWORKS
+
+networks:
+  fantasy_network:
+    name: fantasy_network
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 192.168.91.0/24
+
+############################# EXTENSIONS
+
+x-common-keys-fantasy: &common-keys-fantasy
+  networks:
+    - fantasy_network
+  security_opt:
+    - no-new-privileges:true
+  restart: unless-stopped
+  environment:
+    TZ: $TZ
+    PUID: $PUID
+    PGID: $PGID
+  env_file:
+    - .env
+  dns:
+    - 1.1.1.1
+    - 4.4.4.4
+    - 8.8.8.8
+
+############################# SERVICES
+
 services:
   backend:
+    <<: *common-keys-fantasy
     container_name: backend
     build:
-      context: ./backend
+      context: $BACKEND_DIR
+      dockerfile: Dockerfile.dev
+    # Add this ports section
     ports:
       - "8000:8000"
+    command: sh -c "uvicorn main:app --reload --host 0.0.0.0 --port 8000"
     volumes:
-      - ./backend:/app   # optional for live reload
-    command: uvicorn main:app --reload --host 0.0.0.0 --port 8000
+      - ${BACKEND_DIR}:/code
 
   frontend:
+    <<: *common-keys-fantasy
     container_name: frontend
     build:
-      context: ./frontend
+      context: $FRONTEND_DIR
+      dockerfile: Dockerfile.dev
+    # Add this ports section
     ports:
       - "5173:5173"
+    command: npm run host
     volumes:
-      - ./frontend:/app          # Mount your source code
-      - frontend_node_modules:/app/node_modules  # Keep dependencies in container
+      - ${FRONTEND_DIR}:/app
+      - /app/node_modules
     depends_on:
       - backend
-
-volumes:
-  frontend_node_modules:
