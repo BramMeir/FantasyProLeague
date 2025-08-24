@@ -1,6 +1,18 @@
 [
   {
     "rank": "1",
+    "name": "STVV",
+    "points": "13",
+    "matches": "5",
+    "wins": "4",
+    "draws": "1",
+    "losses": "0",
+    "goals_for": "10",
+    "goals_against": "3",
+    "goal_difference": "7"
+  },
+  {
+    "rank": "2",
     "name": "Union SG",
     "points": "10",
     "matches": "4",
@@ -10,18 +22,6 @@
     "goals_for": "12",
     "goals_against": "3",
     "goal_difference": "9"
-  },
-  {
-    "rank": "2",
-    "name": "STVV",
-    "points": "10",
-    "matches": "4",
-    "wins": "3",
-    "draws": "1",
-    "losses": "0",
-    "goals_for": "8",
-    "goals_against": "3",
-    "goal_difference": "5"
   },
   {
     "rank": "3",
@@ -49,30 +49,42 @@
   },
   {
     "rank": "5",
-    "name": "KV Mechelen",
-    "points": "8",
-    "matches": "4",
+    "name": "Royal Antwerp FC",
+    "points": "9",
+    "matches": "5",
     "wins": "2",
-    "draws": "2",
+    "draws": "3",
     "losses": "0",
-    "goals_for": "5",
-    "goals_against": "3",
-    "goal_difference": "2"
+    "goals_for": "8",
+    "goals_against": "5",
+    "goal_difference": "3"
   },
   {
     "rank": "6",
+    "name": "KV Mechelen",
+    "points": "8",
+    "matches": "5",
+    "wins": "2",
+    "draws": "2",
+    "losses": "1",
+    "goals_for": "6",
+    "goals_against": "5",
+    "goal_difference": "1"
+  },
+  {
+    "rank": "7",
     "name": "Cercle Brugge",
     "points": "7",
     "matches": "5",
     "wins": "2",
     "draws": "1",
     "losses": "2",
-    "goals_for": "5",
+    "goals_for": "7",
     "goals_against": "5",
-    "goal_difference": "0"
+    "goal_difference": "2"
   },
   {
-    "rank": "7",
+    "rank": "8",
     "name": "Standard de Liège",
     "points": "7",
     "matches": "5",
@@ -80,20 +92,8 @@
     "draws": "1",
     "losses": "2",
     "goals_for": "5",
-    "goals_against": "6",
-    "goal_difference": "-1"
-  },
-  {
-    "rank": "8",
-    "name": "Royal Antwerp FC",
-    "points": "6",
-    "matches": "4",
-    "wins": "1",
-    "draws": "3",
-    "losses": "0",
-    "goals_for": "6",
-    "goals_against": "4",
-    "goal_difference": "2"
+    "goals_against": "8",
+    "goal_difference": "-3"
   },
   {
     "rank": "9",
@@ -109,7 +109,7 @@
   },
   {
     "rank": "10",
-    "name": "SV Zulte Waregem",
+    "name": "KAA Gent",
     "points": "4",
     "matches": "4",
     "wins": "1",
@@ -121,15 +121,15 @@
   },
   {
     "rank": "11",
-    "name": "KAA Gent",
+    "name": "SV Zulte Waregem",
     "points": "4",
-    "matches": "4",
+    "matches": "5",
     "wins": "1",
     "draws": "1",
-    "losses": "2",
+    "losses": "3",
     "goals_for": "5",
-    "goals_against": "7",
-    "goal_difference": "-2"
+    "goals_against": "9",
+    "goal_difference": "-4"
   },
   {
     "rank": "12",

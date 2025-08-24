@@ -4,7 +4,8 @@
   "description": "",
   "main": "fetch_matchdays.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node fetch_matchdays.js && node fetch_players.js && node fetch_ranking.js"
   },
   "keywords": [],
   "author": "",

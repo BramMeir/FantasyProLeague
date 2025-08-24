@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, watch } from 'vue';
 import { usePlayer } from '@/composables/services/data.service.ts';
 import Button from 'primevue/button';
-import InputText from 'primevue/inputtext';
+import Select from 'primevue/select';
 import InputNumber from 'primevue/inputnumber';
 import DataTable from 'primevue/datatable';
 import Column from 'primevue/column';
@@ -13,7 +13,15 @@ import ProgressSpinner from 'primevue/progressspinner';
 const { players, getBestPerformingPlayers } = usePlayer();
 
 /* Refs for user input and component state */
-const position = ref('Middenvelder');
+const positionOptions = [
+  { label: 'Alle posities', value: 'Alle posities' },
+  { label: 'Aanvaller', value: 'Aanvaller' },
+  { label: 'Middenvelder', value: 'Middenvelder' },
+  { label: 'Verdediger', value: 'Verdediger' },
+  { label: 'Doelman', value: 'Doelman' },
+];
+
+const position = ref(positionOptions[0].value)
 const numberOfPlayers = ref(10);
 const isLoading = ref(false);
 
@@ -39,27 +47,42 @@ onMounted(() => {
     fetchBestPerformingPlayers();
 });
 
+watch([numberOfPlayers, position], () => {
+    fetchBestPerformingPlayers();
+});
+
 </script>
 
 <template>
     <div class="player-performance-finder">
         <Card>
             <template #title>
-                <h2 class="m-0">Find Best Performing Players</h2>
+                <h2 class="m-0">Best presterende spelers</h2>
             </template>
             <template #content>
-                <p>Select a position and the number of players you want to see.</p>
                 <div class="form-container">
                     <div class="p-field">
-                        <label for="position">Position</label>
-                        <InputText id="position" v-model="position" placeholder="e.g., Forward" />
+                        <label for="position">Positie</label>
+                        <Select
+                            id="position"
+                            v-model="position"
+                            :options="positionOptions"
+                            optionLabel="label"
+                            optionValue="value"
+                            placeholder="Selecteer positie"
+                        />
                     </div>
                     <div class="p-field">
-                        <label for="numberOfPlayers">Number of Players</label>
-                        <InputNumber id="numberOfPlayers" v-model="numberOfPlayers" :min="1" :max="50" />
+                        <label for="numberOfPlayers">Aantal Spelers</label>
+                        <InputNumber
+                            id="numberOfPlayers"
+                            v-model="numberOfPlayers"
+                            :min="1"
+                            :max="50"
+                        />
                     </div>
                     <Button
-                        label="Search"
+                        label="Zoeken"
                         icon="pi pi-search"
                         @click="fetchBestPerformingPlayers"
                         :loading="isLoading"
@@ -76,16 +99,23 @@ onMounted(() => {
                  <DataTable :value="players" responsiveLayout="scroll">
                     <template #header>
                         <div class="table-header">
-                            Results for '{{ position }}'
+                            Resultaten voor '{{ position }}'
                         </div>
                     </template>
 
-                    <Column field="name" header="Name"></Column>
+                    <Column header="#" style="width: 3rem; text-align: center;">
+                        <template #body="slotProps">
+                            {{ slotProps.index + 1 }}
+                        </template>
+                    </Column>
+
+                    <Column field="name" header="Naam"></Column>
                     <Column field="team" header="Team"></Column>
-                    <Column field="price" header="Price" sortable></Column>
-                    <Column field="goals" header="Goals" sortable></Column>
+                    <Column field="position" header="Positie"></Column>
+                    <Column field="goals" header="Doelpunten" sortable></Column>
                     <Column field="assists" header="Assists" sortable></Column>
-                    <Column field="points" header="Points" sortable>
+                    <Column field="price" header="Prijs" sortable></Column>
+                    <Column field="points" header="Punten" sortable>
                         <template #body="slotProps">
                             <strong>{{ slotProps.data.points }}</strong>
                         </template>
@@ -94,7 +124,7 @@ onMounted(() => {
                 </DataTable>
             </div>
             <div v-else class="no-results">
-                <p>No players found for the selected criteria. Try a different search.</p>
+                <p>Geen spelers gevonden voor de geselecteerde criteria. Probeer een andere zoekopdracht.</p>
             </div>
         </div>
     </div>
@@ -102,7 +132,7 @@ onMounted(() => {
 
 <style scoped>
 .player-performance-finder {
-    max-width: 800px;
+    max-width: 900px;
     margin: 2rem auto;
 }
 
