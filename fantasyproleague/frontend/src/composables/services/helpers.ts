@@ -41,9 +41,11 @@ export async function getList<T>(
     try {
         const response = await apiClient.get(endpoint);
 
-        if (response.data.results && response.data.results.length > 0) {
-            ref.value = response.data.results.map(fromJson);
-        } else if (! response.data.results){
+        console.log(response);
+
+        if (response.data && response.data.length > 0) {
+            ref.value = response.data.map(fromJson);
+        } else if (! response.data){
             ref.value = [fromJson(response.data)];
         }
     } catch (error: any) {

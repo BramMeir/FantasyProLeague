@@ -27,6 +27,7 @@ const fetchBestPerformingPlayers = async () => {
     isLoading.value = true;
     try {
         await getBestPerformingPlayers(numberOfPlayers.value, position.value);
+        console.log(players.value);
     } catch (error) {
         console.error("Failed to fetch players:", error);
     } finally {
@@ -81,13 +82,15 @@ onMounted(() => {
 
                     <Column field="name" header="Name"></Column>
                     <Column field="team" header="Team"></Column>
-                    <Column field="goals" header="Goals"></Column>
-                    <Column field="assists" header="Assists"></Column>
-                     <Column field="score" header="Performance Score" sortable>
+                    <Column field="price" header="Price" sortable></Column>
+                    <Column field="goals" header="Goals" sortable></Column>
+                    <Column field="assists" header="Assists" sortable></Column>
+                    <Column field="points" header="Points" sortable>
                         <template #body="slotProps">
-                            <strong>{{ slotProps.data.score }}</strong>
+                            <strong>{{ slotProps.data.points }}</strong>
                         </template>
-                     </Column>
+                    </Column>
+
                 </DataTable>
             </div>
             <div v-else class="no-results">
