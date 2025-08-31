@@ -3,10 +3,7 @@ This is a personal project that I have been working on for a while. The goal of 
 
 # How to use
 ## Main team
-By running the JavaScript files in the `help` folder, you can obtain the necessary data (statistics from the players, current ranking and following matchdays). This data will be stored in JSON format in the `data` folder. The main `build_team.py` file will then use this data to compute the best team.
-
-## Transfers
-The `best_transfer.py` file will compute the best transfer(s) to make in order to improve the team, based on the performance of players and the next matchdays of their teams.
+By running the `npm run dev:scraper` command inside the `fantasyproleague` directory, you can obtain the necessary data (statistics from the players, current ranking and following matchdays). This data will be stored in JSON format in the `data` folder inside the backend. Running the docker container for the frontend and backend will allow you to access the web interface.
 
 # Future work
 - Improve on transfer optimization.
