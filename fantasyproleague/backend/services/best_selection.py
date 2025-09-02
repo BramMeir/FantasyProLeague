@@ -1,12 +1,11 @@
-"""Module for building the best team using a given budget."""
 from pulp import LpMaximize, LpProblem, LpVariable, lpSum
-from backend.functions.help_functions import get_data
+from functions.help_functions import get_data
 
 
-def build_best_15(budget=100):
+def best_selection(budget=100):
     """Build the best team of 15 players within the given budget."""
     # Get players from the dataset
-    players = get_data("data/players.json")
+    players = get_data("players.json")
 
     # Define the ILP problem
     problem = LpProblem("Best_Team", LpMaximize)
@@ -39,19 +38,3 @@ def build_best_15(budget=100):
     # Extract the selected team
     selected_team = [p for p in players if player_vars[p["name"]].varValue == 1]
     return selected_team
-
-
-if __name__ == "__main__":
-    best_team = build_best_15()
-    print("Best team of 15 players within the budget:")
-
-    # Print headers for clarity
-    print(f"{'Name':<20} {'Team':<20} {'Points':<20} {'Price':<20}")
-    print("-" * 100)
-
-    for player in best_team:
-        # Format the player data with alignment and spacing
-        print(f"{player['name']:<20} {player['team']:<20} {player['points']:<20} {player['price']:<20}")
-
-    print("\nTotal points:", sum(float(player['points']) for player in best_team))
-    print("Total price:", sum(float(player['price']) for player in best_team))

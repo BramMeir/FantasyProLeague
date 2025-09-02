@@ -1,42 +1,5 @@
 [
   {
-    "matchday": "6",
-    "matches": [
-      {
-        "home": "Cercle Brugge",
-        "away": "STVV"
-      },
-      {
-        "home": "KV Mechelen",
-        "away": "RAAL La Louvière"
-      },
-      {
-        "home": "KVC Westerlo",
-        "away": "Royal Antwerp FC"
-      },
-      {
-        "home": "Sporting Charleroi",
-        "away": "FCV Dender EH"
-      },
-      {
-        "home": "KAA Gent",
-        "away": "Club Brugge"
-      },
-      {
-        "home": "OH Leuven",
-        "away": "Standard de Liège"
-      },
-      {
-        "home": "Union SG",
-        "away": "RSC Anderlecht"
-      },
-      {
-        "home": "KRC Genk",
-        "away": "SV Zulte Waregem"
-      }
-    ]
-  },
-  {
     "matchday": "7",
     "matches": [
       {

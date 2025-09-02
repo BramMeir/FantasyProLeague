@@ -37,11 +37,9 @@ export async function getList<T>(
     endpoint: string,
     ref: Ref<T[] | null>,
     fromJson: (data: any) => T,
-): Promise<void> {
+): Promise<T[]> {
     try {
         const response = await apiClient.get(endpoint);
-
-        console.log(response);
 
         if (response.data && response.data.length > 0) {
             ref.value = response.data.map(fromJson);
@@ -50,5 +48,7 @@ export async function getList<T>(
         }
     } catch (error: any) {
         console.error(error); // Log the error for debugging
+    } finally {
+        return ref.value;
     }
 }

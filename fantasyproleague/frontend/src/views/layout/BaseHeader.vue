@@ -1,38 +1,62 @@
 <script setup lang="ts">
 import { RouterLink } from 'vue-router';
+import Toolbar from 'primevue/toolbar';
+import Button from 'primevue/button';
 </script>
 
 <template>
-    <header class="base-header">
-        <nav class="navigation">
-            <RouterLink to="/" class="nav-link">Best Performing Players</RouterLink>
-            <RouterLink to="/best-price" class="nav-link">Price-Wise Players</RouterLink>
-        </nav>
-    </header>
+    <div class="card">
+        <Toolbar class="base-header">
+            <template #start>
+                <div class="flex align-items-center gap-2">
+                    <i class="pi pi-chart-bar" style="font-size: 1.5rem"></i>
+                    <span class="font-bold text-lg">Fantasy Pro League Optimizer</span>
+                </div>
+            </template>
+
+            <template #end>
+                <div class="flex align-items-center gap-2">
+                    <RouterLink to="/" v-slot="{ isActive }">
+                        <Button
+                            label="Best Performing"
+                            icon="pi pi-star"
+                            :class="['p-button-text', { 'active-link': isActive }]"
+                        />
+                    </RouterLink>
+                    <RouterLink to="/best-price" v-slot="{ isActive }">
+                         <Button
+                            label="Best Value"
+                            icon="pi pi-euro"
+                            :class="['p-button-text', { 'active-link': isActive }]"
+                        />
+                    </RouterLink>
+                    <RouterLink to="/best-team" v-slot="{ isActive }">
+                        <Button
+                            label="Best Team"
+                            icon="pi pi-users"
+                            :class="['p-button-text', { 'active-link': isActive }]"
+                        />
+                    </RouterLink>
+                </div>
+            </template>
+        </Toolbar>
+    </div>
 </template>
 
 <style scoped>
 .base-header {
-    background-color: #f8f9fa;
-    padding: 1rem 2rem;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 2rem;
+    border-radius: 8px;
+    background-color: var(--surface-card);
+    border: 1px solid var(--surface-border);
 }
 
-.navigation {
-    display: flex;
-    gap: 1.5rem;
+.active-link {
+    color: var(--primary-color) !important;
+    background-color: var(--primary-color-text);
 }
 
-.nav-link {
+a {
     text-decoration: none;
-    color: #333;
-    font-weight: 600;
-    transition: color 0.3s;
-}
-
-.nav-link:hover,
-.nav-link.router-link-active {
-    color: #007bff;
 }
 </style>
