@@ -39,7 +39,7 @@
     "name": "David",
     "team": "Union Saint-Gilloise",
     "position": "Aanvaller",
-    "points": "3",
+    "points": "4",
     "goals": "1",
     "assists": "0",
     "price": "10.5"
@@ -57,7 +57,7 @@
     "name": "Khalaili",
     "team": "Union Saint-Gilloise",
     "position": "Middenvelder",
-    "points": "16",
+    "points": "20",
     "goals": "1",
     "assists": "0",
     "price": "10"
@@ -75,7 +75,7 @@
     "name": "Zorgane",
     "team": "Union Saint-Gilloise",
     "position": "Middenvelder",
-    "points": "20",
+    "points": "25",
     "goals": "1",
     "assists": "2",
     "price": "9.5"
@@ -111,7 +111,7 @@
     "name": "Schoofs",
     "team": "KV Mechelen",
     "position": "Middenvelder",
-    "points": "13",
+    "points": "16",
     "goals": "1",
     "assists": "0",
     "price": "9.5"
@@ -120,9 +120,9 @@
     "name": "Janssen",
     "team": "R. Antwerp FC",
     "position": "Aanvaller",
-    "points": "20",
+    "points": "26",
     "goals": "2",
-    "assists": "0",
+    "assists": "1",
     "price": "9.5"
   },
   {
@@ -140,15 +140,6 @@
     "position": "Aanvaller",
     "points": "3",
     "goals": "0",
-    "assists": "0",
-    "price": "9"
-  },
-  {
-    "name": "Frigan",
-    "team": "KVC Westerlo",
-    "position": "Aanvaller",
-    "points": "9",
-    "goals": "1",
     "assists": "0",
     "price": "9"
   },
@@ -174,7 +165,7 @@
     "name": "Florucz",
     "team": "Union Saint-Gilloise",
     "position": "Middenvelder",
-    "points": "33",
+    "points": "36",
     "goals": "3",
     "assists": "1",
     "price": "9"
@@ -210,7 +201,7 @@
     "name": "Vanhoutte",
     "team": "Union Saint-Gilloise",
     "position": "Middenvelder",
-    "points": "16",
+    "points": "18",
     "goals": "0",
     "assists": "1",
     "price": "8.5"
@@ -237,23 +228,23 @@
     "name": "Schrijvers",
     "team": "Oud-Heverlee Leuven",
     "position": "Middenvelder",
-    "points": "11",
+    "points": "18",
     "goals": "0",
-    "assists": "0",
+    "assists": "1",
     "price": "8.5"
   },
   {
     "name": "Ait El Hadj",
     "team": "Union Saint-Gilloise",
     "position": "Middenvelder",
-    "points": "16",
+    "points": "17",
     "goals": "0",
     "assists": "1",
     "price": "8"
   },
   {
     "name": "Scheidler",
-    "team": "FCV Dender EH",
+    "team": "Sporting Charleroi",
     "position": "Aanvaller",
     "points": "7",
     "goals": "0",
@@ -273,7 +264,7 @@
     "name": "Nsimba",
     "team": "FCV Dender EH",
     "position": "Middenvelder",
-    "points": "4",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "8"
@@ -390,7 +381,7 @@
     "name": "Kvet",
     "team": "FCV Dender EH",
     "position": "Middenvelder",
-    "points": "18",
+    "points": "20",
     "goals": "1",
     "assists": "0",
     "price": "8"
@@ -408,8 +399,8 @@
     "name": "Somers",
     "team": "R. Antwerp FC",
     "position": "Middenvelder",
-    "points": "12",
-    "goals": "0",
+    "points": "20",
+    "goals": "1",
     "assists": "0",
     "price": "8"
   },
@@ -426,7 +417,7 @@
     "name": "Mohr",
     "team": "Standard de Liège",
     "position": "Middenvelder",
-    "points": "11",
+    "points": "15",
     "goals": "0",
     "assists": "0",
     "price": "8"
@@ -462,7 +453,7 @@
     "name": "Ferrari",
     "team": "STVV",
     "position": "Aanvaller",
-    "points": "15",
+    "points": "16",
     "goals": "1",
     "assists": "1",
     "price": "7.5"
@@ -471,7 +462,7 @@
     "name": "Raman",
     "team": "KV Mechelen",
     "position": "Aanvaller",
-    "points": "12",
+    "points": "13",
     "goals": "1",
     "assists": "1",
     "price": "7.5"
@@ -534,7 +525,7 @@
     "name": "Erenbjerg",
     "team": "Zulte Waregem",
     "position": "Middenvelder",
-    "points": "22",
+    "points": "24",
     "goals": "2",
     "assists": "0",
     "price": "7.5"
@@ -561,7 +552,7 @@
     "name": "Mrabti",
     "team": "KV Mechelen",
     "position": "Middenvelder",
-    "points": "20",
+    "points": "22",
     "goals": "1",
     "assists": "1",
     "price": "7.5"
@@ -570,7 +561,7 @@
     "name": "Mac Allister",
     "team": "Union Saint-Gilloise",
     "position": "Verdediger",
-    "points": "18",
+    "points": "26",
     "goals": "0",
     "assists": "0",
     "price": "7.5"
@@ -579,7 +570,7 @@
     "name": "Fossey",
     "team": "Standard de Liège",
     "position": "Verdediger",
-    "points": "20",
+    "points": "22",
     "goals": "1",
     "assists": "0",
     "price": "7.5"
@@ -606,7 +597,7 @@
     "name": "Niang",
     "team": "Union Saint-Gilloise",
     "position": "Middenvelder",
-    "points": "15",
+    "points": "14",
     "goals": "1",
     "assists": "1",
     "price": "7.5"
@@ -615,9 +606,9 @@
     "name": "Ito",
     "team": "STVV",
     "position": "Middenvelder",
-    "points": "35",
+    "points": "41",
     "goals": "3",
-    "assists": "0",
+    "assists": "1",
     "price": "7.5"
   },
   {
@@ -669,7 +660,7 @@
     "name": "Maziz",
     "team": "Oud-Heverlee Leuven",
     "position": "Middenvelder",
-    "points": "6",
+    "points": "7",
     "goals": "1",
     "assists": "0",
     "price": "7.5"
@@ -687,7 +678,7 @@
     "name": "Abid",
     "team": "Standard de Liège",
     "position": "Middenvelder",
-    "points": "2",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -705,7 +696,7 @@
     "name": "Minda",
     "team": "Cercle Brugge",
     "position": "Middenvelder",
-    "points": "17",
+    "points": "20",
     "goals": "1",
     "assists": "0",
     "price": "7"
@@ -714,7 +705,7 @@
     "name": "Castro-Montes",
     "team": "Union Saint-Gilloise",
     "position": "Verdediger",
-    "points": "6",
+    "points": "7",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -768,7 +759,7 @@
     "name": "Antonio",
     "team": "KV Mechelen",
     "position": "Middenvelder",
-    "points": "2",
+    "points": "3",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -786,7 +777,7 @@
     "name": "Burgess",
     "team": "Union Saint-Gilloise",
     "position": "Verdediger",
-    "points": "15",
+    "points": "23",
     "goals": "0",
     "assists": "1",
     "price": "7"
@@ -795,7 +786,7 @@
     "name": "Foulon",
     "team": "R. Antwerp FC",
     "position": "Verdediger",
-    "points": "14",
+    "points": "16",
     "goals": "0",
     "assists": "1",
     "price": "7"
@@ -804,7 +795,7 @@
     "name": "Praet",
     "team": "R. Antwerp FC",
     "position": "Middenvelder",
-    "points": "11",
+    "points": "9",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -822,7 +813,7 @@
     "name": "Hammar",
     "team": "KV Mechelen",
     "position": "Middenvelder",
-    "points": "10",
+    "points": "11",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -840,7 +831,7 @@
     "name": "Van der Bruggen",
     "team": "Cercle Brugge",
     "position": "Middenvelder",
-    "points": "13",
+    "points": "16",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -858,7 +849,7 @@
     "name": "Hautekiet",
     "team": "Standard de Liège",
     "position": "Verdediger",
-    "points": "3",
+    "points": "4",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -885,7 +876,7 @@
     "name": "Sebaoui",
     "team": "STVV",
     "position": "Middenvelder",
-    "points": "12",
+    "points": "16",
     "goals": "0",
     "assists": "1",
     "price": "7"
@@ -921,7 +912,7 @@
     "name": "Liongola",
     "team": "RAAL La Louvière",
     "position": "Middenvelder",
-    "points": "8",
+    "points": "10",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -930,7 +921,7 @@
     "name": "Agyekum",
     "team": "Cercle Brugge",
     "position": "Middenvelder",
-    "points": "17",
+    "points": "21",
     "goals": "0",
     "assists": "1",
     "price": "7"
@@ -966,16 +957,25 @@
     "name": "Doumbia",
     "team": "R. Antwerp FC",
     "position": "Middenvelder",
-    "points": "19",
-    "goals": "1",
+    "points": "26",
+    "goals": "2",
     "assists": "1",
+    "price": "7"
+  },
+  {
+    "name": "Diakhon",
+    "team": "Club Brugge",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
     "price": "7"
   },
   {
     "name": "Ilaimaharitra",
     "team": "Standard de Liège",
     "position": "Middenvelder",
-    "points": "15",
+    "points": "16",
     "goals": "1",
     "assists": "0",
     "price": "7"
@@ -1092,7 +1092,7 @@
     "name": "Pflucke",
     "team": "KV Mechelen",
     "position": "Middenvelder",
-    "points": "12",
+    "points": "13",
     "goals": "0",
     "assists": "1",
     "price": "7"
@@ -1110,7 +1110,7 @@
     "name": "Said",
     "team": "Standard de Liège",
     "position": "Middenvelder",
-    "points": "8",
+    "points": "10",
     "goals": "0",
     "assists": "1",
     "price": "7"
@@ -1128,7 +1128,7 @@
     "name": "Boufal",
     "team": "Union Saint-Gilloise",
     "position": "Middenvelder",
-    "points": "10",
+    "points": "12",
     "goals": "0",
     "assists": "1",
     "price": "7"
@@ -1200,7 +1200,7 @@
     "name": "Terho",
     "team": "Oud-Heverlee Leuven",
     "position": "Middenvelder",
-    "points": "6",
+    "points": "9",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1209,7 +1209,7 @@
     "name": "Erick",
     "team": "Cercle Brugge",
     "position": "Middenvelder",
-    "points": "8",
+    "points": "9",
     "goals": "0",
     "assists": "1",
     "price": "6.5"
@@ -1281,7 +1281,7 @@
     "name": "Mijatovic",
     "team": "Oud-Heverlee Leuven",
     "position": "Aanvaller",
-    "points": "10",
+    "points": "12",
     "goals": "0",
     "assists": "1",
     "price": "6.5"
@@ -1308,7 +1308,7 @@
     "name": "Rodriguez",
     "team": "Union Saint-Gilloise",
     "position": "Aanvaller",
-    "points": "26",
+    "points": "28",
     "goals": "3",
     "assists": "0",
     "price": "6.5"
@@ -1335,7 +1335,7 @@
     "name": "Viltard",
     "team": "FCV Dender EH",
     "position": "Middenvelder",
-    "points": "13",
+    "points": "14",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1353,7 +1353,7 @@
     "name": "El Hankouri",
     "team": "Standard de Liège",
     "position": "Middenvelder",
-    "points": "0",
+    "points": "2",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1362,7 +1362,7 @@
     "name": "Sahi",
     "team": "FCV Dender EH",
     "position": "Aanvaller",
-    "points": "3",
+    "points": "4",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1380,7 +1380,7 @@
     "name": "Nsingi",
     "team": "Oud-Heverlee Leuven",
     "position": "Aanvaller",
-    "points": "2",
+    "points": "1",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1389,7 +1389,7 @@
     "name": "Rodes",
     "team": "FCV Dender EH",
     "position": "Middenvelder",
-    "points": "10",
+    "points": "13",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1398,7 +1398,7 @@
     "name": "Mehssatou",
     "team": "Standard de Liège",
     "position": "Middenvelder",
-    "points": "6",
+    "points": "8",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1407,7 +1407,7 @@
     "name": "Gerkens",
     "team": "Cercle Brugge",
     "position": "Middenvelder",
-    "points": "17",
+    "points": "22",
     "goals": "1",
     "assists": "0",
     "price": "6.5"
@@ -1416,7 +1416,7 @@
     "name": "Oratmangoen",
     "team": "FCV Dender EH",
     "position": "Middenvelder",
-    "points": "2",
+    "points": "3",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1425,7 +1425,7 @@
     "name": "Merlen",
     "team": "STVV",
     "position": "Middenvelder",
-    "points": "2",
+    "points": "3",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1434,7 +1434,7 @@
     "name": "Gueulette",
     "team": "RAAL La Louvière",
     "position": "Middenvelder",
-    "points": "4",
+    "points": "6",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1443,7 +1443,7 @@
     "name": "Akimoto",
     "team": "Oud-Heverlee Leuven",
     "position": "Middenvelder",
-    "points": "14",
+    "points": "17",
     "goals": "0",
     "assists": "0",
     "price": "6.5"
@@ -1461,7 +1461,7 @@
     "name": "Traore",
     "team": "Oud-Heverlee Leuven",
     "position": "Aanvaller",
-    "points": "3",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1470,7 +1470,7 @@
     "name": "Sissako",
     "team": "STVV",
     "position": "Middenvelder",
-    "points": "9",
+    "points": "12",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1506,7 +1506,7 @@
     "name": "Ementa",
     "team": "Zulte Waregem",
     "position": "Aanvaller",
-    "points": "0",
+    "points": "2",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1515,7 +1515,7 @@
     "name": "Bafdili",
     "team": "KV Mechelen",
     "position": "Middenvelder",
-    "points": "17",
+    "points": "20",
     "goals": "1",
     "assists": "1",
     "price": "6"
@@ -1525,15 +1525,6 @@
     "team": "Club Brugge",
     "position": "Verdediger",
     "points": "18",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Sutalo",
-    "team": "Standard de Liège",
-    "position": "Verdediger",
-    "points": "0",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1551,7 +1542,7 @@
     "name": "Nielsen",
     "team": "Standard de Liège",
     "position": "Middenvelder",
-    "points": "5",
+    "points": "8",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1560,7 +1551,7 @@
     "name": "Ravych",
     "team": "Cercle Brugge",
     "position": "Verdediger",
-    "points": "17",
+    "points": "24",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1605,7 +1596,7 @@
     "name": "Hrncar",
     "team": "FCV Dender EH",
     "position": "Verdediger",
-    "points": "13",
+    "points": "14",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1614,7 +1605,7 @@
     "name": "Lofolomo",
     "team": "Zulte Waregem",
     "position": "Middenvelder",
-    "points": "3",
+    "points": "4",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1623,7 +1614,7 @@
     "name": "Magnee",
     "team": "Cercle Brugge",
     "position": "Verdediger",
-    "points": "12",
+    "points": "19",
     "goals": "0",
     "assists": "1",
     "price": "6"
@@ -1695,8 +1686,8 @@
     "name": "Goto",
     "team": "STVV",
     "position": "Aanvaller",
-    "points": "6",
-    "goals": "1",
+    "points": "12",
+    "goals": "2",
     "assists": "0",
     "price": "6"
   },
@@ -1740,9 +1731,9 @@
     "name": "Patris",
     "team": "STVV",
     "position": "Verdediger",
-    "points": "18",
+    "points": "28",
     "goals": "0",
-    "assists": "0",
+    "assists": "1",
     "price": "6"
   },
   {
@@ -1767,7 +1758,7 @@
     "name": "Pau",
     "team": "RAAL La Louvière",
     "position": "Middenvelder",
-    "points": "12",
+    "points": "15",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1776,7 +1767,7 @@
     "name": "Guindo",
     "team": "RAAL La Louvière",
     "position": "Aanvaller",
-    "points": "4",
+    "points": "6",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1791,6 +1782,24 @@
     "price": "6"
   },
   {
+    "name": "Mituljikic",
+    "team": "Zulte Waregem",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
+    "name": "Adewumi",
+    "team": "Cercle Brugge",
+    "position": "Middenvelder",
+    "points": "7",
+    "goals": "1",
+    "assists": "0",
+    "price": "6"
+  },
+  {
     "name": "Fall",
     "team": "RAAL La Louvière",
     "position": "Aanvaller",
@@ -1800,19 +1809,10 @@
     "price": "6"
   },
   {
-    "name": "Belghali",
-    "team": "KV Mechelen",
-    "position": "Verdediger",
-    "points": "9",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
     "name": "Van Helden",
     "team": "STVV",
     "position": "Verdediger",
-    "points": "15",
+    "points": "21",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1821,8 +1821,8 @@
     "name": "Yamamoto",
     "team": "STVV",
     "position": "Middenvelder",
-    "points": "15",
-    "goals": "0",
+    "points": "27",
+    "goals": "1",
     "assists": "1",
     "price": "6"
   },
@@ -1839,7 +1839,7 @@
     "name": "Lahssaini",
     "team": "RAAL La Louvière",
     "position": "Middenvelder",
-    "points": "11",
+    "points": "15",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1857,7 +1857,7 @@
     "name": "Ujka",
     "team": "Zulte Waregem",
     "position": "Middenvelder",
-    "points": "14",
+    "points": "16",
     "goals": "1",
     "assists": "0",
     "price": "6"
@@ -1884,8 +1884,8 @@
     "name": "Ngoura",
     "team": "Cercle Brugge",
     "position": "Aanvaller",
-    "points": "10",
-    "goals": "1",
+    "points": "14",
+    "goals": "2",
     "assists": "0",
     "price": "6"
   },
@@ -1911,7 +1911,7 @@
     "name": "Hedl",
     "team": "Zulte Waregem",
     "position": "Aanvaller",
-    "points": "10",
+    "points": "7",
     "goals": "1",
     "assists": "0",
     "price": "6"
@@ -1935,19 +1935,10 @@
     "price": "6"
   },
   {
-    "name": "Dragsnes",
-    "team": "Sporting Charleroi",
-    "position": "Verdediger",
-    "points": "10",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
-  },
-  {
     "name": "Van Den Bosch",
     "team": "R. Antwerp FC",
     "position": "Verdediger",
-    "points": "6",
+    "points": "9",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -1992,18 +1983,9 @@
     "name": "Verstraeten",
     "team": "R. Antwerp FC",
     "position": "Middenvelder",
-    "points": "7",
+    "points": "11",
     "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Descotte",
-    "team": "Sporting Charleroi",
-    "position": "Aanvaller",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
+    "assists": "1",
     "price": "5.5"
   },
   {
@@ -2019,7 +2001,7 @@
     "name": "Goncalves",
     "team": "FCV Dender EH",
     "position": "Verdediger",
-    "points": "-2",
+    "points": "0",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2046,17 +2028,17 @@
     "name": "Diop",
     "team": "Cercle Brugge",
     "position": "Middenvelder",
-    "points": "8",
-    "goals": "0",
-    "assists": "0",
+    "points": "23",
+    "goals": "1",
+    "assists": "1",
     "price": "5.5"
   },
   {
     "name": "Utkus",
     "team": "Cercle Brugge",
     "position": "Verdediger",
-    "points": "13",
-    "goals": "0",
+    "points": "26",
+    "goals": "1",
     "assists": "0",
     "price": "5.5"
   },
@@ -2073,8 +2055,8 @@
     "name": "Pletinckx",
     "team": "Oud-Heverlee Leuven",
     "position": "Verdediger",
-    "points": "9",
-    "goals": "1",
+    "points": "21",
+    "goals": "2",
     "assists": "0",
     "price": "5.5"
   },
@@ -2082,7 +2064,7 @@
     "name": "Leysen",
     "team": "Union Saint-Gilloise",
     "position": "Verdediger",
-    "points": "26",
+    "points": "32",
     "goals": "1",
     "assists": "1",
     "price": "5.5"
@@ -2091,7 +2073,7 @@
     "name": "David",
     "team": "R. Antwerp FC",
     "position": "Aanvaller",
-    "points": "2",
+    "points": "3",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2109,7 +2091,7 @@
     "name": "Sahabo",
     "team": "Standard de Liège",
     "position": "Middenvelder",
-    "points": "5",
+    "points": "7",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2172,16 +2154,7 @@
     "name": "Diaby",
     "team": "Cercle Brugge",
     "position": "Middenvelder",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Pupe",
-    "team": "FCV Dender EH",
-    "position": "Verdediger",
-    "points": "11",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2208,7 +2181,7 @@
     "name": "Homawoo",
     "team": "Standard de Liège",
     "position": "Verdediger",
-    "points": "18",
+    "points": "22",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2226,7 +2199,7 @@
     "name": "Scherpen",
     "team": "Union Saint-Gilloise",
     "position": "Doelman",
-    "points": "6",
+    "points": "12",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2253,7 +2226,7 @@
     "name": "Kokubo",
     "team": "STVV",
     "position": "Doelman",
-    "points": "14",
+    "points": "21",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2280,7 +2253,7 @@
     "name": "Willen",
     "team": "Zulte Waregem",
     "position": "Verdediger",
-    "points": "2",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2289,7 +2262,7 @@
     "name": "Epolo",
     "team": "Standard de Liège",
     "position": "Doelman",
-    "points": "14",
+    "points": "15",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2298,7 +2271,7 @@
     "name": "Benitez",
     "team": "R. Antwerp FC",
     "position": "Middenvelder",
-    "points": "4",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2307,7 +2280,7 @@
     "name": "Verrips",
     "team": "FCV Dender EH",
     "position": "Doelman",
-    "points": "14",
+    "points": "17",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2316,7 +2289,7 @@
     "name": "Konate",
     "team": "KV Mechelen",
     "position": "Middenvelder",
-    "points": "2",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2334,7 +2307,7 @@
     "name": "De Wilde",
     "team": "Cercle Brugge",
     "position": "Middenvelder",
-    "points": "1",
+    "points": "2",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2343,7 +2316,7 @@
     "name": "Mbamba",
     "team": "FCV Dender EH",
     "position": "Middenvelder",
-    "points": "10",
+    "points": "12",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2370,7 +2343,7 @@
     "name": "Mendy",
     "team": "RAAL La Louvière",
     "position": "Middenvelder",
-    "points": "15",
+    "points": "17",
     "goals": "1",
     "assists": "0",
     "price": "5.5"
@@ -2442,7 +2415,7 @@
     "name": "Leysen",
     "team": "Oud-Heverlee Leuven",
     "position": "Doelman",
-    "points": "3",
+    "points": "10",
     "goals": "0",
     "assists": "0",
     "price": "5.5"
@@ -2532,7 +2505,7 @@
     "name": "Tanghe",
     "team": "Zulte Waregem",
     "position": "Verdediger",
-    "points": "4",
+    "points": "7",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2622,7 +2595,7 @@
     "name": "Lamego",
     "team": "RAAL La Louvière",
     "position": "Verdediger",
-    "points": "13",
+    "points": "21",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2676,7 +2649,7 @@
     "name": "Ferraro",
     "team": "FCV Dender EH",
     "position": "Verdediger",
-    "points": "15",
+    "points": "16",
     "goals": "0",
     "assists": "1",
     "price": "5"
@@ -2694,16 +2667,16 @@
     "name": "Nazinho",
     "team": "Cercle Brugge",
     "position": "Verdediger",
-    "points": "14",
+    "points": "24",
     "goals": "0",
-    "assists": "1",
+    "assists": "2",
     "price": "5"
   },
   {
     "name": "Bijl",
     "team": "R. Antwerp FC",
     "position": "Verdediger",
-    "points": "0",
+    "points": "2",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2712,7 +2685,7 @@
     "name": "Diouf",
     "team": "KV Mechelen",
     "position": "Verdediger",
-    "points": "-1",
+    "points": "0",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2721,7 +2694,7 @@
     "name": "Özdemir",
     "team": "KV Mechelen",
     "position": "Aanvaller",
-    "points": "4",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2784,7 +2757,7 @@
     "name": "Kadiri",
     "team": "FCV Dender EH",
     "position": "Aanvaller",
-    "points": "0",
+    "points": "1",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2802,7 +2775,7 @@
     "name": "Matsuzawa",
     "team": "STVV",
     "position": "Middenvelder",
-    "points": "3",
+    "points": "4",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2820,7 +2793,7 @@
     "name": "Kouyate",
     "team": "R. Antwerp FC",
     "position": "Verdediger",
-    "points": "0",
+    "points": "1",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2838,7 +2811,7 @@
     "name": "Krzysztof Koton",
     "team": "FCV Dender EH",
     "position": "Middenvelder",
-    "points": "3",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2847,7 +2820,7 @@
     "name": "Lemoine",
     "team": "Zulte Waregem",
     "position": "Verdediger",
-    "points": "13",
+    "points": "16",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2889,19 +2862,10 @@
     "price": "5"
   },
   {
-    "name": "Osifo",
-    "team": "Oud-Heverlee Leuven",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
     "name": "Giger",
     "team": "Union Saint-Gilloise",
     "position": "Aanvaller",
-    "points": "-1",
+    "points": "0",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2919,7 +2883,7 @@
     "name": "Peano",
     "team": "RAAL La Louvière",
     "position": "Doelman",
-    "points": "14",
+    "points": "24",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2955,7 +2919,7 @@
     "name": "Riou",
     "team": "RAAL La Louvière",
     "position": "Verdediger",
-    "points": "0",
+    "points": "1",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2964,7 +2928,7 @@
     "name": "Maisonneuve",
     "team": "RAAL La Louvière",
     "position": "Verdediger",
-    "points": "16",
+    "points": "23",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2973,7 +2937,7 @@
     "name": "Delanghe",
     "team": "Cercle Brugge",
     "position": "Doelman",
-    "points": "17",
+    "points": "24",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -2997,6 +2961,15 @@
     "price": "5"
   },
   {
+    "name": "Dussenne",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Verdediger",
+    "points": "8",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
     "name": "Achihi",
     "team": "R. Antwerp FC",
     "position": "Middenvelder",
@@ -3009,7 +2982,7 @@
     "name": "Gil",
     "team": "Oud-Heverlee Leuven",
     "position": "Verdediger",
-    "points": "4",
+    "points": "5",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3018,7 +2991,7 @@
     "name": "Maes",
     "team": "RAAL La Louvière",
     "position": "Middenvelder",
-    "points": "0",
+    "points": "2",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3045,7 +3018,7 @@
     "name": "Halhal",
     "team": "KV Mechelen",
     "position": "Verdediger",
-    "points": "12",
+    "points": "13",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3054,7 +3027,7 @@
     "name": "Vanwesemael",
     "team": "STVV",
     "position": "Verdediger",
-    "points": "25",
+    "points": "32",
     "goals": "1",
     "assists": "0",
     "price": "5"
@@ -3064,6 +3037,15 @@
     "team": "RSC Anderlecht",
     "position": "Middenvelder",
     "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Murru",
+    "team": "Oud-Heverlee Leuven",
+    "position": "Middenvelder",
+    "points": "1",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3090,7 +3072,7 @@
     "name": "Renders",
     "team": "R. Antwerp FC",
     "position": "Verdediger",
-    "points": "2",
+    "points": "4",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3108,7 +3090,7 @@
     "name": "Taniguchi",
     "team": "STVV",
     "position": "Verdediger",
-    "points": "5",
+    "points": "6",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3117,7 +3099,7 @@
     "name": "Gavriel",
     "team": "Zulte Waregem",
     "position": "Middenvelder",
-    "points": "3",
+    "points": "4",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3126,7 +3108,7 @@
     "name": "Hata",
     "team": "STVV",
     "position": "Verdediger",
-    "points": "17",
+    "points": "23",
     "goals": "0",
     "assists": "1",
     "price": "5"
@@ -3135,7 +3117,7 @@
     "name": "Ominami",
     "team": "Oud-Heverlee Leuven",
     "position": "Verdediger",
-    "points": "6",
+    "points": "12",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3144,7 +3126,7 @@
     "name": "Vlietinck",
     "team": "Oud-Heverlee Leuven",
     "position": "Verdediger",
-    "points": "1",
+    "points": "4",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3153,7 +3135,7 @@
     "name": "Claes",
     "team": "Zulte Waregem",
     "position": "Middenvelder",
-    "points": "6",
+    "points": "9",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3162,8 +3144,8 @@
     "name": "Koudou",
     "team": "KV Mechelen",
     "position": "Verdediger",
-    "points": "4",
-    "goals": "0",
+    "points": "12",
+    "goals": "1",
     "assists": "0",
     "price": "5"
   },
@@ -3198,7 +3180,7 @@
     "name": "Konate",
     "team": "Cercle Brugge",
     "position": "Verdediger",
-    "points": "0",
+    "points": "1",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3216,7 +3198,7 @@
     "name": "Musliu",
     "team": "STVV",
     "position": "Verdediger",
-    "points": "16",
+    "points": "25",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3225,7 +3207,7 @@
     "name": "Faye",
     "team": "RAAL La Louvière",
     "position": "Verdediger",
-    "points": "16",
+    "points": "23",
     "goals": "0",
     "assists": "1",
     "price": "5"
@@ -3261,7 +3243,7 @@
     "name": "Tsunashima",
     "team": "R. Antwerp FC",
     "position": "Verdediger",
-    "points": "6",
+    "points": "8",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3315,7 +3297,7 @@
     "name": "Fredrick",
     "team": "FCV Dender EH",
     "position": "Verdediger",
-    "points": "10",
+    "points": "13",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3324,7 +3306,7 @@
     "name": "Gabriel",
     "team": "Zulte Waregem",
     "position": "Doelman",
-    "points": "7",
+    "points": "6",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3468,7 +3450,7 @@
     "name": "De Fougerolles",
     "team": "FCV Dender EH",
     "position": "Verdediger",
-    "points": "4",
+    "points": "7",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3522,7 +3504,7 @@
     "name": "Zekri",
     "team": "KV Mechelen",
     "position": "Verdediger",
-    "points": "7",
+    "points": "9",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3567,7 +3549,7 @@
     "name": "Mitongo",
     "team": "Standard de Liège",
     "position": "Aanvaller",
-    "points": "1",
+    "points": "2",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3585,7 +3567,7 @@
     "name": "Bozhinov",
     "team": "R. Antwerp FC",
     "position": "Verdediger",
-    "points": "15",
+    "points": "19",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3639,7 +3621,7 @@
     "name": "Lutonda",
     "team": "RAAL La Louvière",
     "position": "Verdediger",
-    "points": "8",
+    "points": "14",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3657,7 +3639,7 @@
     "name": "George",
     "team": "Oud-Heverlee Leuven",
     "position": "Middenvelder",
-    "points": "6",
+    "points": "7",
     "goals": "0",
     "assists": "1",
     "price": "4.5"
@@ -3675,7 +3657,7 @@
     "name": "Cappelle",
     "team": "Zulte Waregem",
     "position": "Verdediger",
-    "points": "11",
+    "points": "14",
     "goals": "0",
     "assists": "1",
     "price": "4.5"
@@ -3684,7 +3666,7 @@
     "name": "Thoelen",
     "team": "R. Antwerp FC",
     "position": "Doelman",
-    "points": "0",
+    "points": "4",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3702,7 +3684,7 @@
     "name": "Okou",
     "team": "RAAL La Louvière",
     "position": "Verdediger",
-    "points": "2",
+    "points": "3",
     "goals": "0",
     "assists": "0",
     "price": "4.5"
@@ -3819,7 +3801,7 @@
     "name": "Marijnissen",
     "team": "FCV Dender EH",
     "position": "Verdediger",
-    "points": "13",
+    "points": "15",
     "goals": "0",
     "assists": "0",
     "price": "4"
@@ -3891,7 +3873,7 @@
     "name": "Paugain",
     "team": "Zulte Waregem",
     "position": "Verdediger",
-    "points": "12",
+    "points": "14",
     "goals": "0",
     "assists": "0",
     "price": "4"

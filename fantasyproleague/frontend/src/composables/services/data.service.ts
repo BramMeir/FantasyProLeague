@@ -7,6 +7,7 @@ interface PlayerState {
     player: Ref<Player | null>;
     players: Ref<Player[] | null>;
     getBestPerformingPlayers: (numberOfPlayers: number, position: string) => Promise<void>;
+    getBestPriceWisePlayers: (numberOfPlayers: number, position: string) => Promise<void>;
 }
 
 export function usePlayer(): PlayerState {
@@ -16,13 +17,18 @@ export function usePlayer(): PlayerState {
 
     async function getBestPerformingPlayers(numberOfPlayers: number, position: string): Promise<void> {
         const endpoint = endpoints.api.players.bestPerforming.replace('{position}', position).replace('{numberOfPlayers}', numberOfPlayers.toString());
-        console.log(endpoint);
         await getList<Player>(endpoint, players, Player.fromJSON);
     }
-    
+
+    async function getBestPriceWisePlayers(numberOfPlayers: number, position: string): Promise<void> {
+        const endpoint = endpoints.api.players.bestPriceWise.replace('{position}', position).replace('{numberOfPlayers}', numberOfPlayers.toString());
+        await getList<Player>(endpoint, players, Player.fromJSON);
+    }
+
     return {
         player,
         players,
-        getBestPerformingPlayers
+        getBestPerformingPlayers,
+        getBestPriceWisePlayers
     };
 }
