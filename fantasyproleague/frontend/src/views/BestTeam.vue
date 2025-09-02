@@ -13,6 +13,8 @@ const isLoading = ref(true);
 onMounted(async () => {
   try {
     await getBestSelection();
+    isLoading.value = false;
+    console.log(isLoading.value);
   } catch (error) {
     console.error("Could not fetch the best team:", error);
   } finally {
@@ -26,29 +28,47 @@ const defenders = computed(() => players.value.filter((p: Player) => p.position 
 const midfielders = computed(() => players.value.filter((p: Player) => p.position === 'Middenvelder'));
 const attackers = computed(() => players.value.filter((p: Player) => p.position === 'Aanvaller'));
 
+const totalCost = computed(() => {
+    return players.value.reduce((sum: number, player: Player) => sum + player.price, 0);
+});
+
+const totalPoints = computed(() => {
+    return players.value.reduce((sum: number, player: Player) => sum + player.points, 0);
+});
 </script>
 
 <template>
     <BaseLayout>
         <div class="card p-4">
+            <div class="stats-header">
+                <h1 class="text-2xl font-bold m-0">Optimale Selectie</h1>
+                <div class="totals-container">
+                    <div class="total-item">
+                        <span class="total-label">Totaal Punten</span>
+                        <span class="total-value points">{{ totalPoints.toLocaleString() }}</span>
+                    </div>
+                    <div class="total-item">
+                        <span class="total-label">Totaal Budget</span>
+                        <span class="total-value cost">€{{ totalCost }}M</span>
+                    </div>
+                </div>
+            </div>
+
             <div v-if="isLoading" class="flex justify-content-center p-8">
                 <ProgressSpinner />
             </div>
-            <div v-else class="flex justify-content-center">
+
+            <div v-else class="field-container">
                 <div class="football-field">
-                    <!-- Goalkeepers Row -->
                     <div class="player-row goalkeepers">
                         <PlayerCard v-for="player in goalkeepers" :key="player.name" :player="player" />
                     </div>
-                    <!-- Defenders Row -->
                     <div class="player-row defenders">
                         <PlayerCard v-for="player in defenders" :key="player.name" :player="player" />
                     </div>
-                    <!-- Midfielders Row -->
                     <div class="player-row midfielders">
                         <PlayerCard v-for="player in midfielders" :key="player.name" :player="player" />
                     </div>
-                    <!-- Attackers Row -->
                     <div class="player-row attackers">
                         <PlayerCard v-for="player in attackers" :key="player.name" :player="player" />
                     </div>
@@ -59,6 +79,52 @@ const attackers = computed(() => players.value.filter((p: Player) => p.position 
 </template>
 
 <style scoped>
+.stats-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0 1rem 1.5rem 1rem;
+    border-bottom: 1px solid var(--surface-border);
+    margin-bottom: 1.5rem;
+}
+
+.totals-container {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.total-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.total-label {
+    font-size: 0.85rem;
+    color: var(--text-color-secondary);
+}
+
+.total-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.total-value.points {
+    color: var(--primary-color);
+}
+
+.total-value.cost {
+    color: var(--green-500);
+}
+
+.field-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .football-field {
     max-width: 800px;
     width: 100%;

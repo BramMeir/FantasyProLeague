@@ -1,50 +1,66 @@
 {
     "ANT": {
-        "name": "R. Antwerp FC"
+        "name": "R. Antwerp FC",
+        "shortName": "ant"
     },
     "AND": {
-        "name": "RSC Anderlecht"
+        "name": "RSC Anderlecht",
+        "shortName": "and"
     },
     "CLU": {
-        "name": "Club Brugge"
+        "name": "Club Brugge",
+        "shortName": "clu"
     },
     "GNK": {
-        "name": "KRC Genk"
+        "name": "KRC Genk",
+        "shortName": "gnk"
     },
     "GNT": {
-        "name": "Gent"
+        "name": "Gent",
+        "shortName": "gnt"
     },
     "CER": {
-        "name": "Cercle Brugge"
+        "name": "Cercle Brugge",
+        "shortName": "cer"
     },
     "DEN": {
-        "name": "FCV Dender EH"
+        "name": "FCV Dender EH",
+        "shortName": "den"
     },
     "LAL": {
-        "name": "RAAL La Louvière"
+        "name": "RAAL La Louvière",
+        "shortName": "lal"
     },
     "KVM": {
-        "name": "KV Mechelen"
+        "name": "KV Mechelen",
+        "shortName": "kvm"
     },
     "WES": {
-        "name": "KVC Westerlo"
+        "name": "KVC Westerlo",
+        "shortName": "wes"
     },
     "OHL": {
-        "name": "Oud-Heverlee Leuven"
+        "name": "Oud-Heverlee Leuven",
+        "shortName": "ohl"
     },
     "USG": {
-        "name": "Union Saint-Gilloise"
+        "name": "Union Saint-Gilloise",
+        "shortName": "usg"
     },
     "CHA": {
-        "name": "Sporting Charleroi"
+        "name": "Sporting Charleroi",
+        "shortName": "cha"
     },
     "STA": {
-        "name": "Standard de Liège"
+        "name": "Standard de Liège",
+        "shortName": "sta"
     },
     "STV": {
-        "name": "STVV"
+        "name": "STVV",
+        "shortName": "stv"
     },
     "ZWA": {
-        "name": "Zulte Waregem"
+        "name": "Zulte Waregem",
+        "shortName": "zwa"
     }
 }

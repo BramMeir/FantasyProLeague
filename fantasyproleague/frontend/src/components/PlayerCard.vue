@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed } from 'vue';
+import { computed, onMounted } from 'vue';
 import Tag from 'primevue/tag';
 
 const props = defineProps({
@@ -11,10 +11,9 @@ const props = defineProps({
 
 const formattedPrice = computed(() => `€${props.player.price}M`);
 
-const imageUrl = computed(() => `https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-${props.player.team}.png`);
+const imageUrl = computed(() => `/images/players/${props.player.name.replace(/[^a-z0-9]/gi, '_').toLowerCase()}-${props.player.teamShortName}.png`);
 
 const onImageError = (event: Event) => {
-  // If a player image is not found, show a default silhouette
   (event.target as HTMLImageElement).src = 'https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png';
 };
 </script>
@@ -22,6 +21,8 @@ const onImageError = (event: Event) => {
 <template>
     <div class="player-card text-center">
         <div class="player-image-container">
+            <div class="player-points">{{ player.points }}</div>
+
             <img :src="imageUrl" :alt="player.name" @error="onImageError" class="player-image" />
         </div>
         <div class="player-info">
@@ -38,6 +39,33 @@ const onImageError = (event: Event) => {
     flex-direction: column;
     align-items: center;
     gap: 0.25rem;
+}
+
+.player-image-container {
+    position: relative;
+}
+
+.player-points {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+
+    background-color: white;
+    color: var(--primary-color-text);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    border: 2px solid white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transform: translate(5px, -5px);
 }
 
 .player-image {

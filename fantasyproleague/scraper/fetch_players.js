@@ -24,6 +24,7 @@ const main = async () => {
                 return {
                     name: columns[1]?.innerText.trim(),                 // Player Name
                     team: teams[columns[2]?.innerText.trim()].name,     // Team
+                    teamShortName: teams[columns[2]?.innerText.trim()].shortName, // Team Short Name
                     position: columns[3]?.innerText.trim(),             // Position
                     points: columns[4]?.innerText.trim(),               // Points
                     goals: columns[5]?.innerText.trim(),                // Goals
