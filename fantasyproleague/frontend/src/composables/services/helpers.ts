@@ -52,3 +52,36 @@ export async function getList<T>(
         return ref.value;
     }
 }
+
+
+/**
+ * Post data to an endpoint and get a list of items back.
+ *
+ * @param endpoint The API endpoint to post to.
+ * @param payload The data to send in the request body.
+ * @param ref The Vue ref to store the resulting list.
+ * @param fromJson The function to convert raw JSON objects to typed instances.
+ */
+export async function postList<T>(
+    endpoint: string,
+    payload: any,
+    ref: Ref<T[] | null>,
+    fromJson: (data: any) => T,
+): Promise<T[]> {
+    try {
+        const response = await apiClient.post(endpoint, payload);
+
+        if (response.data && response.data.length > 0) {
+            ref.value = response.data.map(fromJson);
+        } else if (response.data) {
+            ref.value = [fromJson(response.data)];
+        } else {
+            ref.value = [];
+        }
+    } catch (error: any) {
+        console.error(error); // Log the error for debugging
+        ref.value = [];
+    } finally {
+        return ref.value || [];
+    }
+}

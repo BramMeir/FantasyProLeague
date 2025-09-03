@@ -40,36 +40,36 @@
     "matchday": "8",
     "matches": [
       {
-        "home": "Club Brugge",
-        "away": "STVV"
-      },
-      {
         "home": "KAA Gent",
         "away": "FCV Dender EH"
       },
       {
-        "home": "KVC Westerlo",
-        "away": "Standard de Liège"
+        "home": "OH Leuven",
+        "away": "RAAL La Louvière"
       },
       {
         "home": "Sporting Charleroi",
         "away": "SV Zulte Waregem"
       },
       {
-        "home": "KV Mechelen",
-        "away": "Cercle Brugge"
+        "home": "RSC Anderlecht",
+        "away": "Royal Antwerp FC"
       },
       {
         "home": "KRC Genk",
         "away": "Union SG"
       },
       {
-        "home": "RSC Anderlecht",
-        "away": "Royal Antwerp FC"
+        "home": "KVC Westerlo",
+        "away": "Standard de Liège"
       },
       {
-        "home": "OH Leuven",
-        "away": "RAAL La Louvière"
+        "home": "Club Brugge",
+        "away": "STVV"
+      },
+      {
+        "home": "KV Mechelen",
+        "away": "Cercle Brugge"
       }
     ]
   },
@@ -77,16 +77,16 @@
     "matchday": "9",
     "matches": [
       {
-        "home": "Cercle Brugge",
-        "away": "KAA Gent"
-      },
-      {
         "home": "OH Leuven",
         "away": "RSC Anderlecht"
       },
       {
-        "home": "Sporting Charleroi",
-        "away": "KV Mechelen"
+        "home": "SV Zulte Waregem",
+        "away": "Royal Antwerp FC"
+      },
+      {
+        "home": "Standard de Liège",
+        "away": "Club Brugge"
       },
       {
         "home": "Union SG",
@@ -97,16 +97,16 @@
         "away": "KRC Genk"
       },
       {
+        "home": "Cercle Brugge",
+        "away": "KAA Gent"
+      },
+      {
+        "home": "Sporting Charleroi",
+        "away": "KV Mechelen"
+      },
+      {
         "home": "FCV Dender EH",
         "away": "RAAL La Louvière"
-      },
-      {
-        "home": "SV Zulte Waregem",
-        "away": "Royal Antwerp FC"
-      },
-      {
-        "home": "Standard de Liège",
-        "away": "Club Brugge"
       }
     ]
   },
@@ -118,16 +118,24 @@
         "away": "Sporting Charleroi"
       },
       {
-        "home": "RSC Anderlecht",
-        "away": "Standard de Liège"
-      },
-      {
         "home": "KV Mechelen",
         "away": "STVV"
       },
       {
+        "home": "RAAL La Louvière",
+        "away": "SV Zulte Waregem"
+      },
+      {
         "home": "Royal Antwerp FC",
         "away": "Cercle Brugge"
+      },
+      {
+        "home": "RSC Anderlecht",
+        "away": "Standard de Liège"
+      },
+      {
+        "home": "KRC Genk",
+        "away": "FCV Dender EH"
       },
       {
         "home": "Club Brugge",
@@ -136,14 +144,6 @@
       {
         "home": "KVC Westerlo",
         "away": "OH Leuven"
-      },
-      {
-        "home": "KRC Genk",
-        "away": "FCV Dender EH"
-      },
-      {
-        "home": "RAAL La Louvière",
-        "away": "SV Zulte Waregem"
       }
     ]
   },
@@ -151,32 +151,32 @@
     "matchday": "11",
     "matches": [
       {
-        "home": "Union SG",
-        "away": "Sporting Charleroi"
-      },
-      {
-        "home": "OH Leuven",
-        "away": "Club Brugge"
-      },
-      {
-        "home": "STVV",
-        "away": "RSC Anderlecht"
+        "home": "Standard de Liège",
+        "away": "Royal Antwerp FC"
       },
       {
         "home": "RAAL La Louvière",
         "away": "KVC Westerlo"
       },
       {
-        "home": "Standard de Liège",
-        "away": "Royal Antwerp FC"
+        "home": "OH Leuven",
+        "away": "Club Brugge"
+      },
+      {
+        "home": "Union SG",
+        "away": "Sporting Charleroi"
+      },
+      {
+        "home": "Cercle Brugge",
+        "away": "KRC Genk"
       },
       {
         "home": "FCV Dender EH",
         "away": "KV Mechelen"
       },
       {
-        "home": "Cercle Brugge",
-        "away": "KRC Genk"
+        "home": "STVV",
+        "away": "RSC Anderlecht"
       },
       {
         "home": "SV Zulte Waregem",
@@ -188,24 +188,12 @@
     "matchday": "12",
     "matches": [
       {
-        "home": "Union SG",
-        "away": "STVV"
-      },
-      {
-        "home": "Cercle Brugge",
-        "away": "SV Zulte Waregem"
-      },
-      {
-        "home": "KVC Westerlo",
-        "away": "FCV Dender EH"
-      },
-      {
         "home": "Sporting Charleroi",
         "away": "RSC Anderlecht"
       },
       {
-        "home": "Royal Antwerp FC",
-        "away": "Club Brugge"
+        "home": "KVC Westerlo",
+        "away": "FCV Dender EH"
       },
       {
         "home": "KV Mechelen",
@@ -216,8 +204,20 @@
         "away": "Standard de Liège"
       },
       {
+        "home": "Royal Antwerp FC",
+        "away": "Club Brugge"
+      },
+      {
+        "home": "Cercle Brugge",
+        "away": "SV Zulte Waregem"
+      },
+      {
         "home": "KRC Genk",
         "away": "RAAL La Louvière"
+      },
+      {
+        "home": "Union SG",
+        "away": "STVV"
       }
     ]
   },
@@ -225,12 +225,8 @@
     "matchday": "13",
     "matches": [
       {
-        "home": "RAAL La Louvière",
-        "away": "Cercle Brugge"
-      },
-      {
-        "home": "STVV",
-        "away": "Royal Antwerp FC"
+        "home": "Standard de Liège",
+        "away": "Sporting Charleroi"
       },
       {
         "home": "SV Zulte Waregem",
@@ -245,16 +241,20 @@
         "away": "KV Mechelen"
       },
       {
-        "home": "Standard de Liège",
-        "away": "Sporting Charleroi"
+        "home": "KVC Westerlo",
+        "away": "KRC Genk"
       },
       {
         "home": "OH Leuven",
         "away": "KAA Gent"
       },
       {
-        "home": "KVC Westerlo",
-        "away": "KRC Genk"
+        "home": "STVV",
+        "away": "Royal Antwerp FC"
+      },
+      {
+        "home": "RAAL La Louvière",
+        "away": "Cercle Brugge"
       }
     ]
   },
@@ -262,36 +262,36 @@
     "matchday": "14",
     "matches": [
       {
-        "home": "RSC Anderlecht",
-        "away": "Club Brugge"
-      },
-      {
-        "home": "Sporting Charleroi",
-        "away": "KVC Westerlo"
-      },
-      {
-        "home": "KAA Gent",
-        "away": "KRC Genk"
-      },
-      {
         "home": "FCV Dender EH",
         "away": "SV Zulte Waregem"
-      },
-      {
-        "home": "KV Mechelen",
-        "away": "Union SG"
-      },
-      {
-        "home": "STVV",
-        "away": "Standard de Liège"
       },
       {
         "home": "Cercle Brugge",
         "away": "OH Leuven"
       },
       {
+        "home": "Sporting Charleroi",
+        "away": "KVC Westerlo"
+      },
+      {
         "home": "Royal Antwerp FC",
         "away": "RAAL La Louvière"
+      },
+      {
+        "home": "RSC Anderlecht",
+        "away": "Club Brugge"
+      },
+      {
+        "home": "STVV",
+        "away": "Standard de Liège"
+      },
+      {
+        "home": "KAA Gent",
+        "away": "KRC Genk"
+      },
+      {
+        "home": "KV Mechelen",
+        "away": "Union SG"
       }
     ]
   },
@@ -299,36 +299,36 @@
     "matchday": "15",
     "matches": [
       {
-        "home": "Royal Antwerp FC",
-        "away": "FCV Dender EH"
+        "home": "Standard de Liège",
+        "away": "SV Zulte Waregem"
       },
       {
         "home": "Union SG",
         "away": "Cercle Brugge"
       },
       {
-        "home": "Standard de Liège",
-        "away": "SV Zulte Waregem"
-      },
-      {
-        "home": "OH Leuven",
-        "away": "STVV"
+        "home": "KVC Westerlo",
+        "away": "KAA Gent"
       },
       {
         "home": "Club Brugge",
         "away": "Sporting Charleroi"
       },
       {
-        "home": "KVC Westerlo",
-        "away": "KAA Gent"
+        "home": "KRC Genk",
+        "away": "KV Mechelen"
+      },
+      {
+        "home": "Royal Antwerp FC",
+        "away": "FCV Dender EH"
       },
       {
         "home": "RAAL La Louvière",
         "away": "RSC Anderlecht"
       },
       {
-        "home": "KRC Genk",
-        "away": "KV Mechelen"
+        "home": "OH Leuven",
+        "away": "STVV"
       }
     ]
   },
@@ -336,36 +336,36 @@
     "matchday": "16",
     "matches": [
       {
+        "home": "KV Mechelen",
+        "away": "Standard de Liège"
+      },
+      {
         "home": "FCV Dender EH",
         "away": "KVC Westerlo"
-      },
-      {
-        "home": "Sporting Charleroi",
-        "away": "RAAL La Louvière"
-      },
-      {
-        "home": "KRC Genk",
-        "away": "OH Leuven"
-      },
-      {
-        "home": "KAA Gent",
-        "away": "STVV"
       },
       {
         "home": "SV Zulte Waregem",
         "away": "Cercle Brugge"
       },
       {
-        "home": "RSC Anderlecht",
-        "away": "Union SG"
-      },
-      {
-        "home": "KV Mechelen",
-        "away": "Standard de Liège"
+        "home": "Sporting Charleroi",
+        "away": "RAAL La Louvière"
       },
       {
         "home": "Club Brugge",
         "away": "Royal Antwerp FC"
+      },
+      {
+        "home": "KRC Genk",
+        "away": "OH Leuven"
+      },
+      {
+        "home": "RSC Anderlecht",
+        "away": "Union SG"
+      },
+      {
+        "home": "KAA Gent",
+        "away": "STVV"
       }
     ]
   },
@@ -373,36 +373,36 @@
     "matchday": "17",
     "matches": [
       {
-        "home": "KV Mechelen",
-        "away": "Sporting Charleroi"
+        "home": "RAAL La Louvière",
+        "away": "FCV Dender EH"
       },
       {
         "home": "KVC Westerlo",
         "away": "RSC Anderlecht"
       },
       {
+        "home": "Union SG",
+        "away": "KAA Gent"
+      },
+      {
         "home": "STVV",
         "away": "Club Brugge"
+      },
+      {
+        "home": "KV Mechelen",
+        "away": "Sporting Charleroi"
       },
       {
         "home": "Cercle Brugge",
         "away": "Standard de Liège"
       },
       {
-        "home": "RAAL La Louvière",
-        "away": "FCV Dender EH"
+        "home": "Royal Antwerp FC",
+        "away": "KRC Genk"
       },
       {
         "home": "OH Leuven",
         "away": "SV Zulte Waregem"
-      },
-      {
-        "home": "Union SG",
-        "away": "KAA Gent"
-      },
-      {
-        "home": "Royal Antwerp FC",
-        "away": "KRC Genk"
       }
     ]
   },
@@ -410,36 +410,36 @@
     "matchday": "18",
     "matches": [
       {
-        "home": "KAA Gent",
-        "away": "Royal Antwerp FC"
-      },
-      {
         "home": "Standard de Liège",
         "away": "OH Leuven"
-      },
-      {
-        "home": "RSC Anderlecht",
-        "away": "STVV"
-      },
-      {
-        "home": "FCV Dender EH",
-        "away": "Club Brugge"
-      },
-      {
-        "home": "KRC Genk",
-        "away": "KVC Westerlo"
-      },
-      {
-        "home": "SV Zulte Waregem",
-        "away": "RAAL La Louvière"
       },
       {
         "home": "Cercle Brugge",
         "away": "KV Mechelen"
       },
       {
+        "home": "SV Zulte Waregem",
+        "away": "RAAL La Louvière"
+      },
+      {
+        "home": "RSC Anderlecht",
+        "away": "STVV"
+      },
+      {
+        "home": "KAA Gent",
+        "away": "Royal Antwerp FC"
+      },
+      {
+        "home": "FCV Dender EH",
+        "away": "Club Brugge"
+      },
+      {
         "home": "Sporting Charleroi",
         "away": "Union SG"
+      },
+      {
+        "home": "KRC Genk",
+        "away": "KVC Westerlo"
       }
     ]
   },
@@ -447,36 +447,36 @@
     "matchday": "19",
     "matches": [
       {
-        "home": "Club Brugge",
-        "away": "KAA Gent"
-      },
-      {
         "home": "Sporting Charleroi",
         "away": "KRC Genk"
-      },
-      {
-        "home": "KVC Westerlo",
-        "away": "RAAL La Louvière"
-      },
-      {
-        "home": "OH Leuven",
-        "away": "Cercle Brugge"
-      },
-      {
-        "home": "Royal Antwerp FC",
-        "away": "RSC Anderlecht"
-      },
-      {
-        "home": "STVV",
-        "away": "KV Mechelen"
       },
       {
         "home": "FCV Dender EH",
         "away": "Standard de Liège"
       },
       {
+        "home": "KVC Westerlo",
+        "away": "RAAL La Louvière"
+      },
+      {
         "home": "Union SG",
         "away": "SV Zulte Waregem"
+      },
+      {
+        "home": "Club Brugge",
+        "away": "KAA Gent"
+      },
+      {
+        "home": "STVV",
+        "away": "KV Mechelen"
+      },
+      {
+        "home": "Royal Antwerp FC",
+        "away": "RSC Anderlecht"
+      },
+      {
+        "home": "OH Leuven",
+        "away": "Cercle Brugge"
       }
     ]
   },
@@ -484,36 +484,36 @@
     "matchday": "20",
     "matches": [
       {
-        "home": "KV Mechelen",
-        "away": "FCV Dender EH"
-      },
-      {
-        "home": "RAAL La Louvière",
-        "away": "OH Leuven"
-      },
-      {
-        "home": "RSC Anderlecht",
-        "away": "Sporting Charleroi"
-      },
-      {
-        "home": "Standard de Liège",
-        "away": "STVV"
-      },
-      {
-        "home": "KAA Gent",
-        "away": "KVC Westerlo"
+        "home": "KRC Genk",
+        "away": "Club Brugge"
       },
       {
         "home": "Cercle Brugge",
         "away": "Union SG"
       },
       {
-        "home": "KRC Genk",
-        "away": "Club Brugge"
+        "home": "Standard de Liège",
+        "away": "STVV"
+      },
+      {
+        "home": "RSC Anderlecht",
+        "away": "Sporting Charleroi"
       },
       {
         "home": "Royal Antwerp FC",
         "away": "SV Zulte Waregem"
+      },
+      {
+        "home": "RAAL La Louvière",
+        "away": "OH Leuven"
+      },
+      {
+        "home": "KV Mechelen",
+        "away": "FCV Dender EH"
+      },
+      {
+        "home": "KAA Gent",
+        "away": "KVC Westerlo"
       }
     ]
   },

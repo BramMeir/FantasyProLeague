@@ -20,26 +20,6 @@
     "price": "11"
   },
   {
-    "name": "Tolu",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Aanvaller",
-    "points": "15",
-    "goals": "1",
-    "assists": "0",
-    "price": "11"
-  },
-  {
-    "name": "Dolberg",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Aanvaller",
-    "points": "8",
-    "goals": "1",
-    "assists": "0",
-    "price": "10.5"
-  },
-  {
     "name": "David",
     "team": "Union Saint-Gilloise",
     "teamShortName": "usg",
@@ -121,8 +101,8 @@
   },
   {
     "name": "Schoofs",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
+    "team": "Union Saint-Gilloise",
+    "teamShortName": "usg",
     "position": "Middenvelder",
     "points": "23",
     "goals": "2",
@@ -197,16 +177,6 @@
     "points": "13",
     "goals": "0",
     "assists": "0",
-    "price": "8.5"
-  },
-  {
-    "name": "Vanhoutte",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "18",
-    "goals": "0",
-    "assists": "1",
     "price": "8.5"
   },
   {
@@ -660,16 +630,6 @@
     "price": "7.5"
   },
   {
-    "name": "Leoni",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "7.5"
-  },
-  {
     "name": "Verlinden",
     "team": "Oud-Heverlee Leuven",
     "teamShortName": "ohl",
@@ -756,16 +716,6 @@
     "position": "Middenvelder",
     "points": "26",
     "goals": "2",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Castro-Montes",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "7",
-    "goals": "0",
     "assists": "0",
     "price": "7"
   },
@@ -985,6 +935,16 @@
     "teamShortName": "lal",
     "position": "Middenvelder",
     "points": "13",
+    "goals": "0",
+    "assists": "0",
+    "price": "7"
+  },
+  {
+    "name": "Erabi",
+    "team": "KRC Genk",
+    "teamShortName": "gnk",
+    "position": "Aanvaller",
+    "points": "0",
     "goals": "0",
     "assists": "0",
     "price": "7"
@@ -1330,16 +1290,6 @@
     "price": "6.5"
   },
   {
-    "name": "Mbemba",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Aanvaller",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
     "name": "Smith",
     "team": "Union Saint-Gilloise",
     "teamShortName": "usg",
@@ -1660,6 +1610,16 @@
     "price": "6"
   },
   {
+    "name": "Muja",
+    "team": "STVV",
+    "teamShortName": "stv",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "6"
+  },
+  {
     "name": "Bafdili",
     "team": "KV Mechelen",
     "teamShortName": "kvm",
@@ -1805,16 +1765,6 @@
     "teamShortName": "clu",
     "position": "Verdediger",
     "points": "15",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Petris",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "13",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -2025,16 +1975,6 @@
     "teamShortName": "lal",
     "position": "Middenvelder",
     "points": "18",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Lammens",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Doelman",
-    "points": "20",
     "goals": "0",
     "assists": "0",
     "price": "6"
@@ -2600,12 +2540,32 @@
     "price": "5.5"
   },
   {
+    "name": "Diakite",
+    "team": "Cercle Brugge",
+    "teamShortName": "cer",
+    "position": "Aanvaller",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
     "name": "Asante",
     "team": "Sporting Charleroi",
     "teamShortName": "cha",
     "position": "Middenvelder",
     "points": "0",
     "goals": "0",
+    "assists": "0",
+    "price": "5.5"
+  },
+  {
+    "name": "Mirisola",
+    "team": "KRC Genk",
+    "teamShortName": "gnk",
+    "position": "Aanvaller",
+    "points": "5",
+    "goals": "1",
     "assists": "0",
     "price": "5.5"
   },
@@ -3080,6 +3040,16 @@
     "price": "5"
   },
   {
+    "name": "Furo",
+    "team": "Club Brugge",
+    "teamShortName": "clu",
+    "position": "Aanvaller",
+    "points": "2",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
     "name": "Nkuba",
     "team": "KRC Genk",
     "teamShortName": "gnk",
@@ -3215,6 +3185,16 @@
     "teamShortName": "cha",
     "position": "Verdediger",
     "points": "10",
+    "goals": "0",
+    "assists": "0",
+    "price": "5"
+  },
+  {
+    "name": "Ake",
+    "team": "Zulte Waregem",
+    "teamShortName": "zwa",
+    "position": "Middenvelder",
+    "points": "0",
     "goals": "0",
     "assists": "0",
     "price": "5"
@@ -3770,6 +3750,16 @@
     "price": "4.5"
   },
   {
+    "name": "Babadi",
+    "team": "R. Antwerp FC",
+    "teamShortName": "ant",
+    "position": "Middenvelder",
+    "points": "0",
+    "goals": "0",
+    "assists": "0",
+    "price": "4.5"
+  },
+  {
     "name": "Kiilerich",
     "team": "Zulte Waregem",
     "teamShortName": "zwa",
@@ -4220,6 +4210,16 @@
     "price": "4"
   },
   {
+    "name": "Opoku",
+    "team": "Oud-Heverlee Leuven",
+    "teamShortName": "ohl",
+    "position": "Verdediger",
+    "points": "1",
+    "goals": "0",
+    "assists": "0",
+    "price": "4"
+  },
+  {
     "name": "Fortin",
     "team": "FCV Dender EH",
     "teamShortName": "den",
@@ -4283,16 +4283,6 @@
     "name": "Jochmans",
     "team": "Oud-Heverlee Leuven",
     "teamShortName": "ohl",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Van Damme",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
     "position": "Doelman",
     "points": "0",
     "goals": "0",

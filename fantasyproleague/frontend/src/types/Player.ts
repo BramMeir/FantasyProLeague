@@ -11,6 +11,8 @@ export interface PlayerJSON {
 
 // Player class similar to the one used in the backend
 export class Player {
+    public id: string;
+
     constructor(
         public name: string = "",
         public team: string = "",
@@ -20,7 +22,9 @@ export class Player {
         public price: number = 0,
         public goals: number = 0,
         public assists: number = 0,
-    ) {}
+    ) {
+        this.id = `${name}-${teamShortName}`;
+    }
 
     /**
      * Convert a player object to a player instance.

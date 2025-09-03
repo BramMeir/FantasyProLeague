@@ -3,37 +3,82 @@ import { ref, onMounted, computed } from 'vue';
 import BaseLayout from '@/views/layout/BaseLayout.vue';
 import PlayerCard from '@/components/PlayerCard.vue';
 import ProgressSpinner from 'primevue/progressspinner';
+import DataTable from 'primevue/datatable';
+import Column from 'primevue/column';
+import Button from 'primevue/button';
 import { Player } from '@/types/Player';
 import { usePlayer } from '@/composables/services/data.service';
+import InputText from 'primevue/inputtext';
+import IconField from 'primevue/iconfield';
+import InputIcon from 'primevue/inputicon';
 
-const { players, getBestSelection } = usePlayer();
+const { players, bestPlayers, getAllPlayers, getBestSelection } = usePlayer();
 
+// State for the UI
 const isLoading = ref(true);
+const isGenerating = ref(false);
 
+// State for user interaction
+const selectedPlayers = ref<Player[]>([]);
+const searchQuery = ref('');
+
+// Fetch initial data on component mount
 onMounted(async () => {
   try {
-    await getBestSelection();
-    isLoading.value = false;
-    console.log(isLoading.value);
+    // Fetch all the players
+    await getAllPlayers();
+    // Then, get an initial optimal team
+    await getBestSelection(100, []);
   } catch (error) {
-    console.error("Could not fetch the best team:", error);
+    console.error("Could not fetch initial data:", error);
   } finally {
     isLoading.value = false;
   }
 });
 
-// Use computed properties to automatically filter players by position
-const goalkeepers = computed(() => players.value.filter((p: Player) => p.position === 'Doelman'));
-const defenders = computed(() => players.value.filter((p: Player) => p.position === 'Verdediger'));
-const midfielders = computed(() => players.value.filter((p: Player) => p.position === 'Middenvelder'));
-const attackers = computed(() => players.value.filter((p: Player) => p.position === 'Aanvaller'));
+// This function is called when the user clicks the "Generate" button
+const generateOptimalTeam = async () => {
+    isGenerating.value = true;
+    try {
+        // Map the selected players to the format the API expects
+        const mustHave = selectedPlayers.value.map((p: Player) => ({
+            name: p.name,
+            teamShortName: p.teamShortName
+        }));
+        
+        // Call the API with the user's selection
+        await getBestSelection(100, mustHave);
 
-const totalCost = computed(() => {
-    return players.value.reduce((sum: number, player: Player) => sum + player.price, 0);
+    } catch (error) {
+        console.error("Failed to generate optimal team:", error);
+    } finally {
+        isGenerating.value = false;
+    }
+};
+
+const filteredPlayers = computed(() => {
+    // If there are no players or no search query, return the full list
+    if (!players.value) return [];
+    if (!searchQuery.value) return players.value;
+
+    // Filter the players array, case-insensitively
+    const lowerCaseQuery = searchQuery.value.toLowerCase();
+    return players.value.filter((player: Player) =>
+        player.name.toLowerCase().includes(lowerCaseQuery)
+    );
 });
 
+// Computed properties for the football field (based on `bestPlayers`)
+const goalkeepers = computed(() => bestPlayers.value.filter((p: Player) => p.position === 'Doelman'));
+const defenders = computed(() => bestPlayers.value.filter((p: Player) => p.position === 'Verdediger'));
+const midfielders = computed(() => bestPlayers.value.filter((p: Player) => p.position === 'Middenvelder'));
+const attackers = computed(() => bestPlayers.value.filter((p: Player) => p.position === 'Aanvaller'));
+
+const totalCost = computed(() => {
+    return bestPlayers.value.reduce((sum: number, player: Player) => sum + player.price, 0);
+});
 const totalPoints = computed(() => {
-    return players.value.reduce((sum: number, player: Player) => sum + player.points, 0);
+    return bestPlayers.value.reduce((sum: number, player: Player) => sum + player.points, 0);
 });
 </script>
 
@@ -58,19 +103,61 @@ const totalPoints = computed(() => {
                 <ProgressSpinner />
             </div>
 
-            <div v-else class="field-container">
-                <div class="football-field">
-                    <div class="player-row goalkeepers">
-                        <PlayerCard v-for="player in goalkeepers" :key="player.name" :player="player" />
+            <div v-else class="grid">
+                <!-- Left Column: Football Field -->
+                <div class="col-12 md:col-7 lg:col-8">
+                    <div class="football-field">
+                        <div class="player-row goalkeepers">
+                            <PlayerCard v-for="player in goalkeepers" :key="player.id" :player="player" />
+                        </div>
+                        <div class="player-row defenders">
+                            <PlayerCard v-for="player in defenders" :key="player.id" :player="player" />
+                        </div>
+                        <div class="player-row midfielders">
+                            <PlayerCard v-for="player in midfielders" :key="player.id" :player="player" />
+                        </div>
+                        <div class="player-row attackers">
+                            <PlayerCard v-for="player in attackers" :key="player.id" :player="player" />
+                        </div>
                     </div>
-                    <div class="player-row defenders">
-                        <PlayerCard v-for="player in defenders" :key="player.name" :player="player" />
-                    </div>
-                    <div class="player-row midfielders">
-                        <PlayerCard v-for="player in midfielders" :key="player.name" :player="player" />
-                    </div>
-                    <div class="player-row attackers">
-                        <PlayerCard v-for="player in attackers" :key="player.name" :player="player" />
+                </div>
+
+                <!-- Right Column: Player Selection Table -->
+                <div class="col-12 md:col-5 lg:col-4">
+                    <div class="player-list-container">
+                        <h2 class="text-xl font-semibold mb-3">Selecteer Spelers</h2>
+                        <Button
+                            label="Genereer Optimaal Team"
+                            icon="pi pi-cog"
+                            class="w-full mb-3"
+                            :loading="isGenerating"
+                            @click="generateOptimalTeam"
+                        />
+
+                        <IconField iconPosition="left" class="w-full mb-3">
+                            <InputIcon class="pi pi-search"></InputIcon>
+                            <InputText
+                                v-model="searchQuery"
+                                placeholder="Zoek op naam..."
+                                class="w-full"
+                            />
+                        </IconField>
+                        <DataTable
+                            :value="filteredPlayers"
+                            v-model:selection="selectedPlayers"
+                            dataKey="id"
+                            :paginator="true"
+                            :rows="10"
+                            size="small"
+                        >
+                            <Column selectionMode="multiple" headerStyle="width: 3rem"></Column>
+                            <Column field="name" header="Naam" sortable></Column>
+                            <Column field="price" header="Prijs" sortable>
+                                 <template #body="slotProps">
+                                    €{{ slotProps.data.price }}M
+                                </template>
+                            </Column>
+                        </DataTable>
                     </div>
                 </div>
             </div>
@@ -80,55 +167,19 @@ const totalPoints = computed(() => {
 
 <style scoped>
 .stats-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 1rem;
-    padding: 0 1rem 1.5rem 1rem;
-    border-bottom: 1px solid var(--surface-border);
+    display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;
+    gap: 1rem; padding: 0 1rem 1.5rem 1rem; border-bottom: 1px solid var(--surface-border);
     margin-bottom: 1.5rem;
 }
-
-.totals-container {
-    display: flex;
-    gap: 1.5rem;
-}
-
-.total-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-}
-
-.total-label {
-    font-size: 0.85rem;
-    color: var(--text-color-secondary);
-}
-
-.total-value {
-    font-size: 1.5rem;
-    font-weight: 700;
-}
-
-.total-value.points {
-    color: var(--primary-color);
-}
-
-.total-value.cost {
-    color: var(--green-500);
-}
-
-.field-container {
-    max-width: 800px;
-    margin: 0 auto;
-}
+.totals-container { display: flex; gap: 1.5rem; }
+.total-item { display: flex; flex-direction: column; align-items: center; text-align: center; }
+.total-label { font-size: 0.85rem; color: var(--text-color-secondary); }
+.total-value { font-size: 1.5rem; font-weight: 700; }
+.total-value.points { color: var(--primary-color); }
+.total-value.cost { color: var(--green-500); }
 
 .football-field {
-    max-width: 800px;
     width: 100%;
-
     background-color: #28a745;
     background-image:
         linear-gradient(to bottom, rgba(255, 255, 255, 0.1) 1px, transparent 1px),
@@ -142,12 +193,15 @@ const totalPoints = computed(() => {
     gap: 1.5rem;
     overflow-x: auto;
 }
-
 .player-row {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
+}
+
+.player-list-container {
+    height: 100%;
 }
 </style>

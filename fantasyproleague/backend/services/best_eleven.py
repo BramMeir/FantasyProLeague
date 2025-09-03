@@ -37,24 +37,6 @@ def best_performance_wise(n, position=None):
     return sorted_players[:n]
 
 
-def print_best(n, position=None, best_function=best_performance_wise):
-    """Print the best players based on their performance/price ratio."""
-    if position:
-        print(f"Best {n} based on their performance/price ratio (position = {position}):\n")
-    else:
-        print(f"Best {n} based on their performance/price ratio:\n")
-
-    best_players = best_function(n, position)
-
-    # Print headers for clarity
-    print(f"{'Name':<20} {'Points':<20} {'Price':<20} {'Performance/Price Ratio':>25}")
-    print("-" * 100)
-
-    for player in best_players:
-        # Format the player data with alignment and spacing
-        performance_price_ratio = float(player['points']) / float(player['price'])
-        print(f"{player['name']:<20} {player['points']:<20} {player['price']:<20} {performance_price_ratio:>25.2f}")
-
-
-if __name__ == "__main__":
-    print_best(20, "Aanvaller", best_performance_wise)
+def all_players():
+    """Return all players."""
+    return get_data("../data/players.json")
