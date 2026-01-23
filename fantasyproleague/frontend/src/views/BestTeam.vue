@@ -21,6 +21,7 @@ const isGenerating = ref(false);
 // State for user interaction
 const selectedPlayers = ref<Player[]>([]);
 const searchQuery = ref('');
+const maxBudget = ref(100);
 
 // Fetch initial data on component mount
 onMounted(async () => {
@@ -28,7 +29,7 @@ onMounted(async () => {
     // Fetch all the players
     await getAllPlayers();
     // Then, get an initial optimal team
-    await getBestSelection(100, []);
+    await getBestSelection(maxBudget.value, []);
   } catch (error) {
     console.error("Could not fetch initial data:", error);
   } finally {
@@ -47,7 +48,7 @@ const generateOptimalTeam = async () => {
         }));
         
         // Call the API with the user's selection
-        await getBestSelection(100, mustHave);
+        await getBestSelection(maxBudget.value, mustHave);
 
     } catch (error) {
         console.error("Failed to generate optimal team:", error);
@@ -94,7 +95,7 @@ const totalPoints = computed(() => {
                     </div>
                     <div class="total-item">
                         <span class="total-label">Totaal Budget</span>
-                        <span class="total-value cost">€{{ totalCost }}M</span>
+                        <span class="total-value cost">€{{ totalCost.toFixed(1) }}/{{ maxBudget }}M</span>
                     </div>
                 </div>
             </div>
@@ -124,6 +125,20 @@ const totalPoints = computed(() => {
 
                 <!-- Right Column: Player Selection Table -->
                 <div class="col-12 md:col-5 lg:col-4">
+                    <!-- Budget Input -->
+                    <div class="field mb-3">
+                        <label for="budget" class="block mb-2 font-medium">Maximaal Budget</label>
+                        <IconField iconPosition="left" class="w-full">
+                            <InputIcon class="pi pi-euro"></InputIcon>
+                            <InputText 
+                                id="budget"
+                                v-model.number="maxBudget" 
+                                type="number" 
+                                placeholder="Budget invoeren..."
+                            />
+                        </IconField>
+                    </div>
+
                     <div class="player-list-container">
                         <h2 class="text-xl font-semibold mb-3">Selecteer Spelers</h2>
                         <Button
