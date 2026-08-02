@@ -2,4321 +2,3480 @@
   {
     "name": "Vanaken",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "90",
-    "goals": "4",
-    "assists": "0",
-    "price": "11.9"
-  },
-  {
-    "name": "Tzolis",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "121",
-    "goals": "7",
-    "assists": "10",
-    "price": "11"
-  },
-  {
-    "name": "David",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Aanvaller",
-    "points": "76",
-    "goals": "9",
-    "assists": "0",
-    "price": "10.5"
-  },
-  {
-    "name": "Bertaccini",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Aanvaller",
-    "points": "38",
-    "goals": "3",
-    "assists": "1",
-    "price": "10"
-  },
-  {
-    "name": "Khalaili",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "68",
-    "goals": "2",
-    "assists": "0",
-    "price": "10"
+    "position": "MID",
+    "price": "11.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/107.png"
   },
   {
     "name": "Tresoldi",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Aanvaller",
-    "points": "66",
-    "goals": "5",
-    "assists": "2",
-    "price": "9.9"
+    "position": "AAN",
+    "price": "10.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79021.png"
+  },
+  {
+    "name": "David",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "10",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78753.png"
+  },
+  {
+    "name": "Khalaili",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "10",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78737.png"
   },
   {
     "name": "Zorgane",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "70",
-    "goals": "1",
-    "assists": "4",
-    "price": "9.5"
+    "team": "Union SG",
+    "position": "MID",
+    "price": "9.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76525.png"
   },
   {
-    "name": "Oh",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Aanvaller",
-    "points": "80",
-    "goals": "6",
-    "assists": "3",
-    "price": "9.5"
-  },
-  {
-    "name": "Janssen",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Aanvaller",
-    "points": "80",
-    "goals": "6",
-    "assists": "4",
-    "price": "9.5"
-  },
-  {
-    "name": "Steuckers",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "54",
-    "goals": "0",
-    "assists": "5",
-    "price": "9.4"
-  },
-  {
-    "name": "Schoofs",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "59",
-    "goals": "3",
-    "assists": "2",
-    "price": "9.4"
-  },
-  {
-    "name": "Florucz",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "94",
-    "goals": "7",
-    "assists": "3",
-    "price": "9.1"
-  },
-  {
-    "name": "Hazard",
+    "name": "Bertaccini",
     "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "88",
-    "goals": "6",
-    "assists": "5",
-    "price": "9"
-  },
-  {
-    "name": "Stankovic",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "74",
-    "goals": "2",
-    "assists": "1",
-    "price": "8.5"
-  },
-  {
-    "name": "Heynen",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "85",
-    "goals": "3",
-    "assists": "0",
-    "price": "8.5"
-  },
-  {
-    "name": "Schrijvers",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "31",
-    "goals": "0",
-    "assists": "1",
-    "price": "8.5"
-  },
-  {
-    "name": "Mechele",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Verdediger",
-    "points": "98",
-    "goals": "2",
-    "assists": "2",
-    "price": "8.1"
-  },
-  {
-    "name": "Heymans",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "48",
-    "goals": "3",
-    "assists": "1",
-    "price": "8.1"
-  },
-  {
-    "name": "Vermant",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Aanvaller",
-    "points": "67",
-    "goals": "7",
-    "assists": "2",
-    "price": "8.1"
-  },
-  {
-    "name": "Ait El Hadj",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "50",
-    "goals": "0",
-    "assists": "2",
-    "price": "8"
-  },
-  {
-    "name": "Scheidler",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Aanvaller",
-    "points": "72",
-    "goals": "4",
-    "assists": "2",
-    "price": "8"
-  },
-  {
-    "name": "Nsimba",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "88",
-    "goals": "6",
-    "assists": "3",
-    "price": "8"
-  },
-  {
-    "name": "Haspolat",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "76",
-    "goals": "0",
-    "assists": "2",
-    "price": "8"
+    "position": "AAN",
+    "price": "9",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78703.png"
   },
   {
     "name": "Karetsas",
     "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "61",
-    "goals": "0",
-    "assists": "6",
-    "price": "8"
+    "position": "MID",
+    "price": "9",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78723.png"
   },
   {
-    "name": "Delorge",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "47",
-    "goals": "0",
-    "assists": "2",
-    "price": "8"
+    "name": "Schoofs",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "9",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/82.png"
   },
   {
     "name": "Cvetkovic",
     "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Aanvaller",
-    "points": "41",
-    "goals": "3",
-    "assists": "2",
-    "price": "8"
+    "position": "AAN",
+    "price": "8.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79024.png"
+  },
+  {
+    "name": "Florucz",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "8.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79022.png"
   },
   {
     "name": "Guiagon",
     "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "90",
-    "goals": "6",
-    "assists": "2",
-    "price": "8"
+    "position": "MID",
+    "price": "8.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78630.png"
   },
   {
-    "name": "Kvet",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "63",
-    "goals": "3",
-    "assists": "0",
-    "price": "8"
-  },
-  {
-    "name": "Somers",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "70",
-    "goals": "3",
-    "assists": "0",
-    "price": "8"
-  },
-  {
-    "name": "Mohr",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "64",
-    "goals": "0",
-    "assists": "1",
-    "price": "8"
-  },
-  {
-    "name": "Kanga",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Aanvaller",
-    "points": "63",
-    "goals": "5",
-    "assists": "3",
-    "price": "8"
-  },
-  {
-    "name": "Eckert",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Aanvaller",
-    "points": "43",
-    "goals": "2",
-    "assists": "0",
-    "price": "7.9"
-  },
-  {
-    "name": "Henry",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Aanvaller",
-    "points": "48",
-    "goals": "3",
-    "assists": "2",
-    "price": "7.9"
-  },
-  {
-    "name": "Nilsson",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Aanvaller",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "7.8"
-  },
-  {
-    "name": "Erenbjerg",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "110",
-    "goals": "8",
-    "assists": "1",
-    "price": "7.8"
-  },
-  {
-    "name": "Dean",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Aanvaller",
-    "points": "10",
-    "goals": "1",
-    "assists": "1",
-    "price": "7.8"
-  },
-  {
-    "name": "Ito",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "104",
-    "goals": "6",
-    "assists": "1",
-    "price": "7.7"
-  },
-  {
-    "name": "Kadri",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "49",
-    "goals": "1",
-    "assists": "2",
-    "price": "7.5"
-  },
-  {
-    "name": "Ferrari",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Aanvaller",
-    "points": "35",
-    "goals": "3",
-    "assists": "1",
-    "price": "7.5"
-  },
-  {
-    "name": "Forbs",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Aanvaller",
-    "points": "57",
-    "goals": "2",
-    "assists": "3",
-    "price": "7.5"
-  },
-  {
-    "name": "Yow",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "44",
-    "goals": "3",
-    "assists": "0",
-    "price": "7.5"
-  },
-  {
-    "name": "Hong",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "7.5"
-  },
-  {
-    "name": "Sakamoto",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Aanvaller",
-    "points": "69",
-    "goals": "3",
-    "assists": "4",
-    "price": "7.5"
-  },
-  {
-    "name": "Kayembe",
+    "name": "Heymans",
     "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Verdediger",
-    "points": "38",
-    "goals": "0",
-    "assists": "1",
-    "price": "7.5"
+    "position": "MID",
+    "price": "8.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/6151.png"
   },
   {
-    "name": "Mrabti",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "46",
-    "goals": "2",
-    "assists": "2",
-    "price": "7.5"
+    "name": "Heynen",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "8.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/1141.png"
   },
   {
-    "name": "Mac Allister",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "92",
-    "goals": "1",
-    "assists": "1",
-    "price": "7.5"
-  },
-  {
-    "name": "Fossey",
+    "name": "Nsimba",
     "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "33",
-    "goals": "1",
-    "assists": "0",
-    "price": "7.5"
+    "position": "AAN",
+    "price": "8.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
   },
   {
-    "name": "Niang",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "57",
-    "goals": "2",
-    "assists": "3",
-    "price": "7.5"
-  },
-  {
-    "name": "Verlinden",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "37",
-    "goals": "2",
-    "assists": "1",
-    "price": "7.5"
-  },
-  {
-    "name": "Balikwisha",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "7.5"
-  },
-  {
-    "name": "Titraoui",
+    "name": "Scheidler",
     "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "70",
-    "goals": "3",
-    "assists": "0",
-    "price": "7.5"
+    "position": "AAN",
+    "price": "8.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78885.png"
   },
   {
-    "name": "Verschaeren",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "28",
-    "goals": "0",
-    "assists": "1",
-    "price": "7.5"
+    "name": "Steuckers",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "8.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76294.png"
   },
   {
-    "name": "Maziz",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "44",
-    "goals": "2",
-    "assists": "2",
-    "price": "7.5"
+    "name": "Haspolat",
+    "team": "KVC Westerlo",
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78657.png"
+  },
+  {
+    "name": "Ait El Hadj",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/71409.png"
   },
   {
     "name": "El Ouahdi",
     "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Verdediger",
-    "points": "58",
-    "goals": "4",
-    "assists": "2",
-    "price": "7.5"
+    "position": "VER",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78572.png"
   },
   {
-    "name": "Raman",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Aanvaller",
-    "points": "37",
-    "goals": "1",
-    "assists": "3",
-    "price": "7.4"
+    "name": "Erenbjerg",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-genk.png"
   },
   {
-    "name": "Reis",
+    "name": "Forbs",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "9",
-    "goals": "0",
-    "assists": "0",
-    "price": "7.4"
-  },
-  {
-    "name": "Ferri",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Aanvaller",
-    "points": "64",
-    "goals": "5",
-    "assists": "2",
-    "price": "7.4"
-  },
-  {
-    "name": "Llansana",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "20",
-    "goals": "0",
-    "assists": "0",
-    "price": "7.3"
-  },
-  {
-    "name": "Angulo",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "116",
-    "goals": "6",
-    "assists": "5",
-    "price": "7.2"
-  },
-  {
-    "name": "Burgess",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "96",
-    "goals": "0",
-    "assists": "3",
-    "price": "7.1"
-  },
-  {
-    "name": "Skoras",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "57",
-    "goals": "2",
-    "assists": "3",
-    "price": "7.1"
-  },
-  {
-    "name": "Abid",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "40",
-    "goals": "1",
-    "assists": "1",
-    "price": "7"
-  },
-  {
-    "name": "Bernier",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "64",
-    "goals": "3",
-    "assists": "1",
-    "price": "7"
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79176.png"
   },
   {
     "name": "Ito",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "75",
-    "goals": "3",
-    "assists": "2",
-    "price": "7"
-  },
-  {
-    "name": "Foulon",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Verdediger",
-    "points": "35",
-    "goals": "0",
-    "assists": "2",
-    "price": "7"
-  },
-  {
-    "name": "Praet",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "31",
-    "goals": "0",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Hammar",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "59",
-    "goals": "1",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Hairemans",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Van der Bruggen",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "50",
-    "goals": "0",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Sebaoui",
     "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "77",
-    "goals": "3",
-    "assists": "3",
-    "price": "7"
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78582.png"
   },
   {
-    "name": "Romsaas",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Aanvaller",
-    "points": "43",
-    "goals": "0",
-    "assists": "2",
-    "price": "7"
+    "name": "Kanga",
+    "team": "KAA Gent",
+    "position": "AAN",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78612.png"
   },
   {
-    "name": "Vossen",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Aanvaller",
-    "points": "23",
-    "goals": "2",
-    "assists": "0",
-    "price": "7"
+    "name": "Mac Allister",
+    "team": "Union SG",
+    "position": "VER",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78562.png"
   },
   {
-    "name": "Liongola",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "51",
-    "goals": "1",
-    "assists": "2",
-    "price": "7"
-  },
-  {
-    "name": "Ito",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "30",
-    "goals": "3",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Agyekum",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "54",
-    "goals": "0",
-    "assists": "2",
-    "price": "7"
-  },
-  {
-    "name": "Lopes",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "31",
-    "goals": "0",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Vazquez",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Aanvaller",
-    "points": "29",
-    "goals": "2",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Ilaimaharitra",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "43",
-    "goals": "2",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Stroeykens",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "31",
-    "goals": "1",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Maertens",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "39",
-    "goals": "1",
-    "assists": "2",
-    "price": "7"
-  },
-  {
-    "name": "Samoise",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "53",
-    "goals": "2",
-    "assists": "2",
-    "price": "7"
-  },
-  {
-    "name": "Smets",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Verdediger",
-    "points": "60",
-    "goals": "0",
-    "assists": "1",
-    "price": "7"
-  },
-  {
-    "name": "Sonko",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "25",
-    "goals": "0",
-    "assists": "1",
-    "price": "7"
-  },
-  {
-    "name": "Saliba",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "45",
-    "goals": "2",
-    "assists": "1",
-    "price": "7"
-  },
-  {
-    "name": "Sattlberger",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "18",
-    "goals": "0",
-    "assists": "1",
-    "price": "7"
-  },
-  {
-    "name": "Adedeji-Sternberg",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "26",
-    "goals": "0",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Pflucke",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "86",
-    "goals": "3",
-    "assists": "6",
-    "price": "7"
-  },
-  {
-    "name": "Said",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "65",
-    "goals": "3",
-    "assists": "2",
-    "price": "7"
-  },
-  {
-    "name": "Onyedika",
+    "name": "Mechele",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "37",
-    "goals": "1",
-    "assists": "0",
-    "price": "7"
+    "position": "VER",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/99.png"
   },
   {
-    "name": "Degreef",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "33",
-    "goals": "2",
-    "assists": "0",
-    "price": "7"
-  },
-  {
-    "name": "Verstraete",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "27",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.9"
-  },
-  {
-    "name": "Huerta",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "8",
-    "goals": "1",
-    "assists": "0",
-    "price": "6.9"
-  },
-  {
-    "name": "Kerk",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "43",
-    "goals": "2",
-    "assists": "3",
-    "price": "6.9"
-  },
-  {
-    "name": "Erabi",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Aanvaller",
-    "points": "18",
-    "goals": "1",
-    "assists": "0",
-    "price": "6.9"
-  },
-  {
-    "name": "Berte",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Aanvaller",
-    "points": "22",
-    "goals": "1",
-    "assists": "0",
-    "price": "6.9"
-  },
-  {
-    "name": "Sor",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Aanvaller",
-    "points": "34",
-    "goals": "1",
-    "assists": "1",
-    "price": "6.9"
-  },
-  {
-    "name": "Vanzeir",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Aanvaller",
-    "points": "8",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.8"
-  },
-  {
-    "name": "Fuseini",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Aanvaller",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.8"
-  },
-  {
-    "name": "Rodriguez",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Aanvaller",
-    "points": "81",
-    "goals": "7",
-    "assists": "1",
-    "price": "6.7"
-  },
-  {
-    "name": "Ouattara",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Aanvaller",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Jahanbakhsh",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Sayyadmanesh",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "53",
-    "goals": "3",
-    "assists": "1",
-    "price": "6.5"
-  },
-  {
-    "name": "Zeneli",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Reynolds",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Verdediger",
-    "points": "76",
-    "goals": "1",
-    "assists": "1",
-    "price": "6.5"
-  },
-  {
-    "name": "Terho",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "16",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Ikwuemesi",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Aanvaller",
-    "points": "28",
-    "goals": "1",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Erick",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "0",
-    "assists": "1",
-    "price": "6.5"
-  },
-  {
-    "name": "Camara",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "70",
-    "goals": "1",
-    "assists": "2",
-    "price": "6.5"
-  },
-  {
-    "name": "Smith",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Aanvaller",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Goore",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Aanvaller",
-    "points": "56",
-    "goals": "4",
-    "assists": "3",
-    "price": "6.5"
-  },
-  {
-    "name": "Karamoko",
+    "name": "Mohr",
     "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "28",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79025.png"
   },
   {
     "name": "Ordonez",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Verdediger",
-    "points": "39",
-    "goals": "1",
-    "assists": "0",
-    "price": "6.5"
+    "position": "VER",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78609.png"
   },
   {
-    "name": "Mijatovic",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Aanvaller",
-    "points": "24",
-    "goals": "0",
-    "assists": "1",
-    "price": "6.5"
+    "name": "Saliba",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79031.png"
   },
   {
-    "name": "Vanrafelghem",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
+    "name": "Schrijvers",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/152.png"
   },
   {
-    "name": "Lauberbach",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Aanvaller",
-    "points": "75",
-    "goals": "6",
-    "assists": "1",
-    "price": "6.5"
+    "name": "Sebaoui",
+    "team": "STVV",
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79028.png"
   },
   {
-    "name": "Viltard",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "50",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
+    "name": "Somers",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/73779.png"
+  },
+  {
+    "name": "Sommer",
+    "team": "Club Brugge",
+    "position": "DMN",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-club.png"
+  },
+  {
+    "name": "Titraoui",
+    "team": "Sporting Charleroi",
+    "position": "MID",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78732.png"
+  },
+  {
+    "name": "Vermant",
+    "team": "Club Brugge",
+    "position": "AAN",
+    "price": "8",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78530.png"
+  },
+  {
+    "name": "Adedeji-Sternberg",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78715.png"
+  },
+  {
+    "name": "Dean",
+    "team": "KAA Gent",
+    "position": "AAN",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78730.png"
+  },
+  {
+    "name": "Degreef",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78688.png"
   },
   {
     "name": "Diakhon",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "35",
-    "goals": "0",
-    "assists": "4",
-    "price": "6.5"
+    "position": "MID",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79229.png"
   },
   {
-    "name": "Sadick",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Verdediger",
-    "points": "59",
-    "goals": "2",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Rodes",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "39",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Mehssatou",
+    "name": "Eckert",
     "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "31",
-    "goals": "0",
-    "assists": "1",
-    "price": "6.5"
+    "position": "AAN",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78375.png"
   },
   {
-    "name": "Gerkens",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "72",
-    "goals": "4",
-    "assists": "0",
-    "price": "6.5"
+    "name": "Henry",
+    "team": "Standard de Liège",
+    "position": "AAN",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79162.png"
   },
   {
-    "name": "Gueulette",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "28",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Kaba",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Aanvaller",
-    "points": "48",
-    "goals": "4",
-    "assists": "1",
-    "price": "6.5"
-  },
-  {
-    "name": "Akimoto",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "43",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.5"
-  },
-  {
-    "name": "Vetlesen",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "29",
-    "goals": "2",
-    "assists": "1",
-    "price": "6.4"
-  },
-  {
-    "name": "Belkheir",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Aanvaller",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.4"
-  },
-  {
-    "name": "Oratmangoen",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "18",
-    "goals": "1",
-    "assists": "0",
-    "price": "6.4"
-  },
-  {
-    "name": "Opoku",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "63",
-    "goals": "2",
-    "assists": "3",
-    "price": "6.3"
-  },
-  {
-    "name": "Yamamoto",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "88",
-    "goals": "2",
-    "assists": "4",
-    "price": "6.2"
-  },
-  {
-    "name": "Coosemans",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Doelman",
-    "points": "70",
-    "goals": "0",
-    "assists": "0",
-    "price": "6.1"
-  },
-  {
-    "name": "Magnee",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "103",
-    "goals": "2",
-    "assists": "5",
-    "price": "6.1"
-  },
-  {
-    "name": "Bibout",
+    "name": "Ito",
     "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Aanvaller",
-    "points": "5",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
+    "position": "MID",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79223.png"
   },
   {
-    "name": "Traore",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Aanvaller",
-    "points": "17",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
+    "name": "Mertens",
+    "team": "SK Beveren",
+    "position": "AAN",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
   },
   {
-    "name": "Sissako",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "61",
-    "goals": "0",
-    "assists": "2",
-    "price": "6"
+    "name": "Mofokeng",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
   },
   {
-    "name": "Nhaili",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Aanvaller",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Ousou",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "59",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Omgba",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "8",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Muja",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "49",
-    "goals": "3",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Bafdili",
+    "name": "Raman",
     "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "39",
-    "goals": "1",
-    "assists": "2",
-    "price": "6"
+    "position": "AAN",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/341.png"
   },
   {
-    "name": "Antonio",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "19",
-    "goals": "0",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Meijer",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Verdediger",
-    "points": "53",
-    "goals": "0",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Kayo",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Nielsen",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "46",
-    "goals": "2",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Ravych",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "66",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Scott",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "37",
-    "goals": "1",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Hrncar",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "26",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Kyei",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Aanvaller",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Jurado",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "5",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Siquet",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Verdediger",
-    "points": "47",
-    "goals": "0",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Hautekiet",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "53",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Bangoura",
+    "name": "Smets",
     "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
+    "position": "VER",
+    "price": "7.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78485.png"
   },
   {
-    "name": "Camara",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "28",
-    "goals": "0",
-    "assists": "1",
-    "price": "6"
+    "name": "Abid",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79033.png"
   },
   {
-    "name": "Mbenza",
+    "name": "Ambrose",
+    "team": "KV Kortrijk",
+    "position": "AAN",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Balikwisha",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/65301.png"
+  },
+  {
+    "name": "Bernier",
     "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76472.png"
+  },
+  {
+    "name": "Burgess",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "Delorge",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78387.png"
+  },
+  {
+    "name": "Hammar",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78948.png"
+  },
+  {
+    "name": "Ito",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78895.png"
+  },
+  {
+    "name": "Kadri",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/77472.png"
+  },
+  {
+    "name": "Kayembe",
+    "team": "KRC Genk",
+    "position": "VER",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76524.png"
+  },
+  {
+    "name": "Llansana",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79156.png"
+  },
+  {
+    "name": "Niang",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78916.png"
+  },
+  {
+    "name": "Pflucke",
+    "team": "Sporting Charleroi",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78627.png"
+  },
+  {
+    "name": "Praet",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-mechelen.png"
+  },
+  {
+    "name": "Reis",
+    "team": "Club Brugge",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79023.png"
+  },
+  {
+    "name": "Roef",
+    "team": "KAA Gent",
+    "position": "DMN",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/374.png"
+  },
+  {
+    "name": "Sakamoto",
+    "team": "KVC Westerlo",
+    "position": "AAN",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78956.png"
+  },
+  {
+    "name": "Samoise",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76266.png"
+  },
+  {
+    "name": "Sattlberger",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78886.png"
   },
   {
     "name": "Seys",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Verdediger",
-    "points": "64",
-    "goals": "1",
-    "assists": "1",
-    "price": "6"
+    "position": "VER",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78781.png"
+  },
+  {
+    "name": "Stroeykens",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76293.png"
+  },
+  {
+    "name": "Van Brederode",
+    "team": "KV Mechelen",
+    "position": "AAN",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79250.png"
+  },
+  {
+    "name": "Van de Perre",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78762.png"
+  },
+  {
+    "name": "Van der Bruggen",
+    "team": "Cercle Brugge",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/335.png"
+  },
+  {
+    "name": "Vanzeir",
+    "team": "Cercle Brugge",
+    "position": "AAN",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/71311.png"
+  },
+  {
+    "name": "Verlinden",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78741.png"
+  },
+  {
+    "name": "Vetlesen",
+    "team": "Club Brugge",
+    "position": "MID",
+    "price": "7",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78539.png"
+  },
+  {
+    "name": "Agyekum",
+    "team": "Cercle Brugge",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78780.png"
+  },
+  {
+    "name": "Bafdili",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78507.png"
+  },
+  {
+    "name": "Bassette",
+    "team": "KVC Westerlo",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png"
+  },
+  {
+    "name": "Boersma",
+    "team": "KV Mechelen",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79298.png"
+  },
+  {
+    "name": "Bruls",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Coosemans",
+    "team": "RSC Anderlecht",
+    "position": "DMN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/404.png"
+  },
+  {
+    "name": "Lopes",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78940.png"
+  },
+  {
+    "name": "Olaru",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
+  },
+  {
+    "name": "Durosinmi",
+    "team": "KRC Genk",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-genk.png"
+  },
+  {
+    "name": "Ementa",
+    "team": "SV Zulte Waregem",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79216.png"
+  },
+  {
+    "name": "Ferraro",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png"
+  },
+  {
+    "name": "Fossey",
+    "team": "Standard de Liège",
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78478.png"
+  },
+  {
+    "name": "Foulon",
+    "team": "Royal Antwerp FC",
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/61898.png"
+  },
+  {
+    "name": "Frey",
+    "team": "Royal Antwerp FC",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
+  },
+  {
+    "name": "Fuseini",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78743.png"
+  },
+  {
+    "name": "Gerkens",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "Goore",
+    "team": "KAA Gent",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78978.png"
+  },
+  {
+    "name": "Hairemans",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/11745.png"
+  },
+  {
+    "name": "Nypan",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Huerta",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78950.png"
+  },
+  {
+    "name": "Ikwuemesi",
+    "team": "OH Leuven",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78859.png"
   },
   {
     "name": "Ito",
     "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "61",
-    "goals": "0",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Alcocer",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "58",
-    "goals": "3",
-    "assists": "3",
-    "price": "6"
-  },
-  {
-    "name": "Goto",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Aanvaller",
-    "points": "75",
-    "goals": "8",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Cools",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "41",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Vaesen",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Aanvaller",
-    "points": "25",
-    "goals": "1",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Patris",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "60",
-    "goals": "0",
-    "assists": "2",
-    "price": "6"
-  },
-  {
-    "name": "Augustinsson",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "60",
-    "goals": "0",
-    "assists": "2",
-    "price": "6"
-  },
-  {
-    "name": "Servais",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "59",
-    "goals": "1",
-    "assists": "2",
-    "price": "6"
-  },
-  {
-    "name": "Pau",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "37",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Sahi",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Aanvaller",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "N'Diaye",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "40",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Urinboev",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "van Brederode",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "58",
-    "goals": "3",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Adewumi",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "50",
-    "goals": "3",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Fall",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Aanvaller",
-    "points": "40",
-    "goals": "4",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Van Helden",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "77",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Lahssaini",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "64",
-    "goals": "1",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Ujka",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "32",
-    "goals": "1",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Campbell",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "15",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Saito",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Mignolet",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Doelman",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Ngoura",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Aanvaller",
-    "points": "65",
-    "goals": "4",
-    "assists": "3",
-    "price": "6"
-  },
-  {
-    "name": "Van den Keybus",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "34",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Hedl",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Aanvaller",
-    "points": "8",
-    "goals": "1",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Nnadi",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "38",
-    "goals": "0",
-    "assists": "1",
-    "price": "6"
-  },
-  {
-    "name": "Van Den Bosch",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Verdediger",
-    "points": "55",
-    "goals": "0",
-    "assists": "0",
-    "price": "6"
-  },
-  {
-    "name": "Colassin",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Aanvaller",
-    "points": "21",
-    "goals": "1",
-    "assists": "0",
-    "price": "5.9"
-  },
-  {
-    "name": "Sandra",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "1",
-    "assists": "0",
-    "price": "5.9"
-  },
-  {
-    "name": "Bayram",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Verdediger",
-    "points": "90",
-    "goals": "2",
-    "assists": "2",
-    "price": "5.9"
-  },
-  {
-    "name": "Leysen",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "79",
-    "goals": "1",
-    "assists": "1",
-    "price": "5.9"
-  },
-  {
-    "name": "Al-Sahafi",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "39",
-    "goals": "1",
-    "assists": "0",
-    "price": "5.9"
-  },
-  {
-    "name": "Guindo",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Aanvaller",
-    "points": "14",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.9"
-  },
-  {
-    "name": "Merlen",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "14",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.9"
-  },
-  {
-    "name": "Nkada",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Aanvaller",
-    "points": "23",
-    "goals": "1",
-    "assists": "1",
-    "price": "5.8"
-  },
-  {
-    "name": "Diop",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "76",
-    "goals": "3",
-    "assists": "1",
-    "price": "5.6"
-  },
-  {
-    "name": "Utkus",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "88",
-    "goals": "3",
-    "assists": "0",
-    "price": "5.6"
-  },
-  {
-    "name": "Scherpen",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Doelman",
-    "points": "79",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.6"
-  },
-  {
-    "name": "Peano",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Doelman",
-    "points": "97",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.6"
-  },
-  {
-    "name": "Jackers",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Doelman",
-    "points": "65",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.6"
-  },
-  {
-    "name": "Beka Beka",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "12",
-    "goals": "1",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Maamar",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "36",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79041.png"
   },
   {
     "name": "Jungdal",
     "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Doelman",
-    "points": "64",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
+    "position": "DMN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78965.png"
   },
   {
-    "name": "Verstraeten",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "0",
-    "assists": "1",
-    "price": "5.5"
-  },
-  {
-    "name": "Goncalves",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "30",
-    "goals": "0",
-    "assists": "2",
-    "price": "5.5"
-  },
-  {
-    "name": "Roef",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Doelman",
-    "points": "70",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Pletinckx",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "75",
-    "goals": "3",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Vandeplas",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Aanvaller",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Mortensen",
+    "name": "Karamoko",
     "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Sahabo",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Bande",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Teklab",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "14",
-    "goals": "1",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Diaby",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "13",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Pavlic",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Spileers",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Verdediger",
-    "points": "47",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Marsa",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Verdediger",
-    "points": "52",
-    "goals": "1",
-    "assists": "1",
-    "price": "5.5"
-  },
-  {
-    "name": "Homawoo",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "68",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Van de Perre",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "46",
-    "goals": "0",
-    "assists": "3",
-    "price": "5.5"
-  },
-  {
-    "name": "Sardella",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "48",
-    "goals": "0",
-    "assists": "1",
-    "price": "5.5"
-  },
-  {
-    "name": "Corbanie",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Sabbe",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Verdediger",
-    "points": "43",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78946.png"
   },
   {
     "name": "Kokubo",
     "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Doelman",
-    "points": "70",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
+    "position": "DMN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78733.png"
   },
   {
-    "name": "Hey",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "66",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Pirard",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Doelman",
-    "points": "9",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Willen",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "10",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Diawara",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "16",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Kireev",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Sylla",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Rasmussen",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Middenvelder",
-    "points": "52",
-    "goals": "2",
-    "assists": "1",
-    "price": "5.5"
-  },
-  {
-    "name": "Epolo",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Doelman",
-    "points": "69",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Benitez",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "60",
-    "goals": "3",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Verrips",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Doelman",
-    "points": "30",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "El Hankouri",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "26",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Konate",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "51",
-    "goals": "1",
-    "assists": "1",
-    "price": "5.5"
-  },
-  {
-    "name": "De Cat",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "61",
-    "goals": "1",
-    "assists": "1",
-    "price": "5.5"
-  },
-  {
-    "name": "Mbamba",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "58",
-    "goals": "0",
-    "assists": "1",
-    "price": "5.5"
-  },
-  {
-    "name": "De Wolf",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Doelman",
-    "points": "10",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Mendy",
+    "name": "Lahssaini",
     "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "41",
-    "goals": "1",
-    "assists": "0",
-    "price": "5.5"
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79040.png"
   },
   {
-    "name": "Diakite",
+    "name": "Amani",
     "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Aanvaller",
-    "points": "28",
-    "goals": "2",
-    "assists": "0",
-    "price": "5.5"
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-cercle.png"
   },
   {
-    "name": "Panduro",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Asante",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Mirisola",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Aanvaller",
-    "points": "24",
-    "goals": "1",
-    "assists": "1",
-    "price": "5.5"
-  },
-  {
-    "name": "Neustadter",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "10",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Sykes",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "72",
-    "goals": "1",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Van der Heyden",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "53",
-    "goals": "2",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Mitrovic",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Koudou",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Verdediger",
-    "points": "97",
-    "goals": "4",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Leysen",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Doelman",
-    "points": "76",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Lawal",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Doelman",
-    "points": "16",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Warleson",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Doelman",
-    "points": "22",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Gboua",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Aanvaller",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.5"
-  },
-  {
-    "name": "Lamego",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Verdediger",
-    "points": "81",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.4"
-  },
-  {
-    "name": "Szymczak",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "12",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.4"
-  },
-  {
-    "name": "Kuavita",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "11",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.4"
-  },
-  {
-    "name": "Faye",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Verdediger",
-    "points": "74",
-    "goals": "1",
-    "assists": "1",
-    "price": "5.4"
-  },
-  {
-    "name": "Tanghe",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "75",
-    "goals": "3",
-    "assists": "0",
-    "price": "5.3"
-  },
-  {
-    "name": "Piedfort",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Verdediger",
-    "points": "94",
-    "goals": "2",
-    "assists": "2",
-    "price": "5.3"
-  },
-  {
-    "name": "Bujupi",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Aanvaller",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.3"
-  },
-  {
-    "name": "Vanwesemael",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "54",
-    "goals": "1",
-    "assists": "1",
-    "price": "5.2"
-  },
-  {
-    "name": "Musliu",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "62",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.2"
-  },
-  {
-    "name": "Nozawa",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Doelman",
-    "points": "41",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.1"
-  },
-  {
-    "name": "Nsingi",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Aanvaller",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.1"
-  },
-  {
-    "name": "Halhal",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Verdediger",
-    "points": "49",
-    "goals": "0",
-    "assists": "1",
-    "price": "5.1"
-  },
-  {
-    "name": "Kimura",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Verdediger",
-    "points": "51",
-    "goals": "0",
-    "assists": "0",
-    "price": "5.1"
-  },
-  {
-    "name": "Claes",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "69",
-    "goals": "2",
-    "assists": "1",
-    "price": "5.1"
-  },
-  {
-    "name": "Palacios",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Verdediger",
-    "points": "16",
-    "goals": "0",
-    "assists": "1",
-    "price": "5"
-  },
-  {
-    "name": "Granados",
+    "name": "Lemarechal",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79293.png"
   },
   {
-    "name": "Ementa",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Aanvaller",
-    "points": "59",
-    "goals": "1",
-    "assists": "3",
-    "price": "5"
-  },
-  {
-    "name": "Valencia",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "14",
-    "goals": "1",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Barkarson",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Yokoyama",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Nyssen",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "49",
-    "goals": "2",
-    "assists": "1",
-    "price": "5"
-  },
-  {
-    "name": "Keita",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "67",
-    "goals": "1",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Makate",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Aanvaller",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Dierckx",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "50",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Bates",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Acquah",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Salifou",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "16",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Yeboah",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Dao",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Aanvaller",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Van Der Gouw",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Ferraro",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "65",
-    "goals": "0",
-    "assists": "3",
-    "price": "5"
-  },
-  {
-    "name": "Adekami",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "36",
-    "goals": "2",
-    "assists": "2",
-    "price": "5"
-  },
-  {
-    "name": "Nazinho",
+    "name": "Magnee",
     "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "59",
-    "goals": "1",
-    "assists": "3",
-    "price": "5"
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78267.png"
   },
   {
-    "name": "Gallon",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Doelman",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Özdemir",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Aanvaller",
-    "points": "9",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Van Crombrugge",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Doelman",
-    "points": "26",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Diabate",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Benachour",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Delpupo",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "5",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Duverne",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "20",
-    "goals": "0",
-    "assists": "1",
-    "price": "5"
-  },
-  {
-    "name": "Kadiri",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Aanvaller",
-    "points": "14",
-    "goals": "1",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Matsuzawa",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "22",
-    "goals": "1",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Van Langendonck",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Kouassi",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "10",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Krzysztof Koton",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Middenvelder",
-    "points": "8",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Lemoine",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "36",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Blum",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "30",
-    "goals": "0",
-    "assists": "1",
-    "price": "5"
-  },
-  {
-    "name": "Golic",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Paskotsi",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "71",
-    "goals": "3",
-    "assists": "1",
-    "price": "5"
-  },
-  {
-    "name": "Kana",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "43",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Nzita",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "56",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Ake",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "43",
-    "goals": "3",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Delavallee",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Doelman",
-    "points": "36",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Mateo Biondic",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Aanvaller",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Maisonneuve",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Verdediger",
-    "points": "45",
-    "goals": "0",
-    "assists": "1",
-    "price": "5"
-  },
-  {
-    "name": "Delanghe",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Doelman",
-    "points": "44",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Ilic",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Horemans",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Kone",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Doelman",
-    "points": "25",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Mituljikic",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "De Wilde",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Dussenne",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "52",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Achihi",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Gil",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "37",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Maes",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "30",
-    "goals": "0",
-    "assists": "1",
-    "price": "5"
-  },
-  {
-    "name": "Benaets",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Laalaoui",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Ntanda",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Sidibe",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "8",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Renders",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Verdediger",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Taniguchi",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "55",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Gavriel",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "31",
-    "goals": "0",
-    "assists": "1",
-    "price": "5"
-  },
-  {
-    "name": "Hata",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "57",
-    "goals": "0",
-    "assists": "2",
-    "price": "5"
-  },
-  {
-    "name": "Ominami",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "31",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Epailly",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Middenvelder",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Vlietinck",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "10",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Lutonda",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Verdediger",
-    "points": "71",
-    "goals": "1",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Araujo",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "49",
-    "goals": "1",
-    "assists": "3",
-    "price": "5"
-  },
-  {
-    "name": "Vandenberghe",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "St. Jago",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Verdediger",
-    "points": "38",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Damjanic",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Tsunashima",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Verdediger",
-    "points": "35",
-    "goals": "0",
-    "assists": "0",
-    "price": "5"
-  },
-  {
-    "name": "Lofolomo",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "16",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.9"
-  },
-  {
-    "name": "David",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Aanvaller",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.9"
-  },
-  {
-    "name": "Diakite",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "10",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.9"
-  },
-  {
-    "name": "De Vlieger",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.9"
-  },
-  {
-    "name": "Janssens",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.9"
-  },
-  {
-    "name": "Cappelle",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "69",
-    "goals": "1",
-    "assists": "1",
-    "price": "4.9"
-  },
-  {
-    "name": "Ozcan",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.9"
-  },
-  {
-    "name": "Smekens",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.8"
-  },
-  {
-    "name": "Adewusi",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Aanvaller",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.8"
+    "name": "Margaritha",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
   },
   {
     "name": "Miras",
     "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Doelman",
-    "points": "76",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.7"
+    "position": "DMN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78960.png"
+  },
+  {
+    "name": "Ngoura",
+    "team": "Cercle Brugge",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78944.png"
+  },
+  {
+    "name": "Nilsson",
+    "team": "Club Brugge",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78419.png"
+  },
+  {
+    "name": "Ousou",
+    "team": "Sporting Charleroi",
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78876.png"
+  },
+  {
+    "name": "Peano",
+    "team": "RAAL La Louvière",
+    "position": "DMN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79056.png"
+  },
+  {
+    "name": "Ravych",
+    "team": "Cercle Brugge",
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78220.png"
+  },
+  {
+    "name": "Rodriguez",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78637.png"
+  },
+  {
+    "name": "Romsaas",
+    "team": "Sporting Charleroi",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79032.png"
+  },
+  {
+    "name": "Sabbe",
+    "team": "Club Brugge",
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/77182.png"
+  },
+  {
+    "name": "Sadick",
+    "team": "KRC Genk",
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78276.png"
+  },
+  {
+    "name": "Salah",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Schoofs",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Scott",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78356.png"
+  },
+  {
+    "name": "Seuntjens",
+    "team": "Lommel SK",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Sikan",
+    "team": "RSC Anderlecht",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79288.png"
+  },
+  {
+    "name": "Sissako",
+    "team": "STVV",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79044.png"
+  },
+  {
+    "name": "Smith",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79224.png"
+  },
+  {
+    "name": "Sonko",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78690.png"
+  },
+  {
+    "name": "Sor",
+    "team": "KRC Genk",
+    "position": "AAN",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78492.png"
+  },
+  {
+    "name": "Tsawa",
+    "team": "Club Brugge",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-club.png"
+  },
+  {
+    "name": "Van Helden",
+    "team": "Royal Antwerp FC",
+    "position": "VER",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78390.png"
+  },
+  {
+    "name": "Verstraete",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78745.png"
+  },
+  {
+    "name": "Zeneli",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "6.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79275.png"
+  },
+  {
+    "name": "Ambros",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-anderlecht.png"
+  },
+  {
+    "name": "Antman",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-anderlecht.png"
+  },
+  {
+    "name": "Antonio",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78664.png"
+  },
+  {
+    "name": "Augustinsson",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/13982.png"
+  },
+  {
+    "name": "Bangoura",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78721.png"
+  },
+  {
+    "name": "Biancone",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-anderlecht.png"
+  },
+  {
+    "name": "Bibout",
+    "team": "KRC Genk",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79182.png"
+  },
+  {
+    "name": "Biondic",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79273.png"
+  },
+  {
+    "name": "Brughmans",
+    "team": "KRC Genk",
+    "position": "DMN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-genk.png"
+  },
+  {
+    "name": "Camara",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78648.png"
+  },
+  {
+    "name": "Campbell",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Corbanie",
+    "team": "KV Mechelen",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-mechelen.png"
+  },
+  {
+    "name": "De Vlieger",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78676.png"
+  },
+  {
+    "name": "Diaby",
+    "team": "Cercle Brugge",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79149.png"
+  },
+  {
+    "name": "Diouf",
+    "team": "STVV",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79286.png"
+  },
+  {
+    "name": "Epolo",
+    "team": "Standard de Liège",
+    "position": "DMN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76555.png"
+  },
+  {
+    "name": "Gueulette",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79036.png"
+  },
+  {
+    "name": "Hautekiet",
+    "team": "Standard de Liège",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78233.png"
+  },
+  {
+    "name": "Hedl",
+    "team": "SV Zulte Waregem",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79048.png"
+  },
+  {
+    "name": "Homawoo",
+    "team": "Standard de Liège",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79161.png"
+  },
+  {
+    "name": "Ilaimaharitra",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78962.png"
+  },
+  {
+    "name": "Ilic",
+    "team": "KV Kortrijk",
+    "position": "DMN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Keita",
+    "team": "Sporting Charleroi",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78776.png"
+  },
+  {
+    "name": "Koudou",
+    "team": "KV Mechelen",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79180.png"
+  },
+  {
+    "name": "Kovacs",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Kyei",
+    "team": "Standard de Liège",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "Leysen",
+    "team": "OH Leuven",
+    "position": "DMN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/73935.png"
+  },
+  {
+    "name": "Leysen",
+    "team": "Union SG",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78561.png"
+  },
+  {
+    "name": "Matsuzawa",
+    "team": "STVV",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79154.png"
+  },
+  {
+    "name": "Mehssatou",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Meijer",
+    "team": "Club Brugge",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78229.png"
+  },
+  {
+    "name": "Mirisola",
+    "team": "KRC Genk",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79241.png"
+  },
+  {
+    "name": "Musliu",
+    "team": "STVV",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78996.png"
+  },
+  {
+    "name": "N'Diaye",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78450.png"
+  },
+  {
+    "name": "Nielsen",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76572.png"
+  },
+  {
+    "name": "Nozawa",
+    "team": "Royal Antwerp FC",
+    "position": "DMN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79152.png"
+  },
+  {
+    "name": "Erick",
+    "team": "Cercle Brugge",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78669.png"
+  },
+  {
+    "name": "Ouattara",
+    "team": "Cercle Brugge",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78711.png"
+  },
+  {
+    "name": "Patrao",
+    "team": "KVC Westerlo",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79301.png"
+  },
+  {
+    "name": "Patris",
+    "team": "Union SG",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76309.png"
+  },
+  {
+    "name": "Petrot",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-anderlecht.png"
+  },
+  {
+    "name": "Sandra",
+    "team": "Club Brugge",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79222.png"
+  },
+  {
+    "name": "Simons",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-essevee.png"
+  },
+  {
+    "name": "Siquet",
+    "team": "Club Brugge",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78500.png"
+  },
+  {
+    "name": "Sutalo",
+    "team": "Standard de Liège",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "Sykes",
+    "team": "Union SG",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78377.png"
+  },
+  {
+    "name": "Taniguchi",
+    "team": "STVV",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78861.png"
+  },
+  {
+    "name": "Traore",
+    "team": "OH Leuven",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79169.png"
+  },
+  {
+    "name": "Tsunashima",
+    "team": "Royal Antwerp FC",
+    "position": "VER",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79215.png"
+  },
+  {
+    "name": "Vaesen",
+    "team": "OH Leuven",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79191.png"
+  },
+  {
+    "name": "Van den Keybus",
+    "team": "KVC Westerlo",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/73864.png"
+  },
+  {
+    "name": "Van Hecke",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Vancsa",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Vanrafelghem",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78964.png"
+  },
+  {
+    "name": "Vasovic",
+    "team": "Club Brugge",
+    "position": "AAN",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-club.png"
+  },
+  {
+    "name": "Wade",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "6",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Addai",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-ohl.png"
+  },
+  {
+    "name": "Adinany",
+    "team": "KV Kortrijk",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Ake",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79245.png"
+  },
+  {
+    "name": "Akpa-Chukwu",
+    "team": "SV Zulte Waregem",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-essevee.png"
+  },
+  {
+    "name": "Araki",
+    "team": "STVV",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-stvv.png"
+  },
+  {
+    "name": "Araujo",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78903.png"
+  },
+  {
+    "name": "Beka Beka",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79049.png"
+  },
+  {
+    "name": "Belkheir",
+    "team": "RAAL La Louvière",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79030.png"
+  },
+  {
+    "name": "Busi",
+    "team": "Royal Antwerp FC",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
+  },
+  {
+    "name": "Cisse",
+    "team": "KAA Gent",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79317.png"
+  },
+  {
+    "name": "Colassin",
+    "team": "Sporting Charleroi",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79170.png"
+  },
+  {
+    "name": "Coucke",
+    "team": "Cercle Brugge",
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-cercle.png"
+  },
+  {
+    "name": "De Schryver",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Delanghe",
+    "team": "Cercle Brugge",
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78543.png"
+  },
+  {
+    "name": "Delavallee",
+    "team": "Sporting Charleroi",
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78365.png"
+  },
+  {
+    "name": "Dewaele",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Diop",
+    "team": "KAA Gent",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79291.png"
+  },
+  {
+    "name": "Drammeh",
+    "team": "Standard de Liège",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "El Hankouri",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79208.png"
+  },
+  {
+    "name": "Faye",
+    "team": "RAAL La Louvière",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79057.png"
+  },
+  {
+    "name": "Filet",
+    "team": "RAAL La Louvière",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Fofana",
+    "team": "KVC Westerlo",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png"
   },
   {
     "name": "Gabriel",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Doelman",
-    "points": "60",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.6"
+    "team": "SV Zulte Waregem",
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79080.png"
   },
   {
-    "name": "Toshevski",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Aanvaller",
-    "points": "39",
-    "goals": "4",
-    "assists": "0",
-    "price": "4.6"
+    "name": "Gambor",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78694.png"
   },
   {
-    "name": "Kouyate",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Verdediger",
-    "points": "52",
-    "goals": "1",
-    "assists": "0",
-    "price": "4.6"
+    "name": "Gil",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78878.png"
   },
   {
-    "name": "Juklerod",
+    "name": "Godeau",
+    "team": "SK Beveren",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Goemaere",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "Guindo",
+    "team": "RAAL La Louvière",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79042.png"
+  },
+  {
+    "name": "Hata",
     "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "35",
-    "goals": "0",
-    "assists": "3",
-    "price": "4.6"
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79163.png"
   },
   {
-    "name": "Okou",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Verdediger",
-    "points": "72",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.6"
+    "name": "Havenaar",
+    "team": "Union SG",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
   },
   {
-    "name": "Bayo",
+    "name": "Heekeren",
+    "team": "RSC Anderlecht",
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79284.png"
+  },
+  {
+    "name": "Hey",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78968.png"
+  },
+  {
+    "name": "Jackers",
+    "team": "Club Brugge",
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/1140.png"
+  },
+  {
+    "name": "Jurado",
     "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Middenvelder",
-    "points": "5",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Calut",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "15",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Lapage",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Verdediger",
-    "points": "23",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Haidara",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Mpanzu",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Fredrick",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "28",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Bolingoli",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Gomis",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Benavides",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Verdediger",
-    "points": "32",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78993.png"
   },
   {
     "name": "Kakou",
     "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "25",
-    "goals": "1",
-    "assists": "0",
-    "price": "4.5"
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78932.png"
   },
   {
-    "name": "Soglo",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "26",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
+    "name": "Kana",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/72176.png"
   },
   {
-    "name": "De Meyer",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Kayo",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79155.png"
   },
   {
-    "name": "Kavlashvili",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Bijl",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Verdediger",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Diouf",
+    "name": "Kireev",
     "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Verdediger",
-    "points": "41",
-    "goals": "1",
-    "assists": "1",
-    "price": "4.5"
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79237.png"
   },
   {
-    "name": "Dietsch",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Doelman",
-    "points": "24",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Kone",
+    "team": "Sporting Charleroi",
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78775.png"
   },
   {
-    "name": "Essaouabi",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "11",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Kouassi",
+    "team": "Cercle Brugge",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79171.png"
+  },
+  {
+    "name": "Koyalipou",
+    "team": "KV Kortrijk",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Kricfalusi",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
+  },
+  {
+    "name": "Kuavita",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Lamego",
+    "team": "RAAL La Louvière",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79059.png"
   },
   {
     "name": "Lawrence",
     "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "40",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78727.png"
   },
   {
-    "name": "Lambotte",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Lawrence",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-ohl.png"
   },
   {
-    "name": "Struyf",
+    "name": "Marsa",
     "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Verdediger",
-    "points": "25",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78864.png"
   },
   {
-    "name": "Kanaté",
+    "name": "Merlen",
+    "team": "STVV",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79150.png"
+  },
+  {
+    "name": "Munz",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png"
+  },
+  {
+    "name": "Murray-Campbell",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Nguene",
+    "team": "Standard de Liège",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79283.png"
+  },
+  {
+    "name": "Nioule",
+    "team": "Sporting Charleroi",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-charleroi.png"
+  },
+  {
+    "name": "Nkada",
+    "team": "Standard de Liège",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79218.png"
+  },
+  {
+    "name": "Nyakossi",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78971.png"
+  },
+  {
+    "name": "Nzita",
+    "team": "Sporting Charleroi",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78777.png"
+  },
+  {
+    "name": "Omgba",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78917.png"
+  },
+  {
+    "name": "Onia Seke",
     "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Middenvelder",
-    "points": "19",
-    "goals": "1",
-    "assists": "0",
-    "price": "4.5"
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-anderlecht.png"
   },
   {
-    "name": "Babadi",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Panduro",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-essevee.png"
   },
   {
-    "name": "Mbalanda",
+    "name": "Paskotsi",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79212.png"
+  },
+  {
+    "name": "Pavlic",
+    "team": "Union SG",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79247.png"
+  },
+  {
+    "name": "Pieklak",
+    "team": "Lommel SK",
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Pletinckx",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/69162.png"
+  },
+  {
+    "name": "Pupe",
     "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Middenvelder",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78799.png"
   },
   {
-    "name": "Afriyie",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Aanvaller",
-    "points": "43",
-    "goals": "3",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Reyners",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
   },
   {
-    "name": "Coppens",
+    "name": "Rommens",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Saito",
+    "team": "KVC Westerlo",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79278.png"
+  },
+  {
+    "name": "Slegers",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Soelle Soelle",
     "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-stvv.png"
   },
   {
-    "name": "Ahoka",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Spileers",
+    "team": "Club Brugge",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78482.png"
   },
   {
-    "name": "Nkuba",
+    "name": "Tanghe",
+    "team": "SV Zulte Waregem",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79068.png"
+  },
+  {
+    "name": "Teklab",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78564.png"
+  },
+  {
+    "name": "Tolinsson",
+    "team": "Lommel SK",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Touzghar",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "Ujka",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79177.png"
+  },
+  {
+    "name": "Urinboev",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79164.png"
+  },
+  {
+    "name": "Van Crombrugge",
     "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "1",
-    "assists": "0",
-    "price": "4.5"
+    "position": "DMN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/3643.png"
   },
   {
     "name": "Van Den Kerkhof",
     "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "36",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79231.png"
   },
   {
-    "name": "Peersman",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Van der Heyden",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79197.png"
   },
   {
-    "name": "Bostyn",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Van Landschoot",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
   },
   {
-    "name": "De Fougerolles",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "35",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
+    "name": "Vandeplas",
+    "team": "Royal Antwerp FC",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78935.png"
   },
   {
-    "name": "Mbamba",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Verdediger",
-    "points": "12",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Vanwesemael",
+    "team": "STVV",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78596.png"
   },
   {
-    "name": "Lakomy",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "59",
-    "goals": "2",
-    "assists": "3",
-    "price": "4.5"
+    "name": "Vergara",
+    "team": "KAA Gent",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "Verstraeten",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78884.png"
+  },
+  {
+    "name": "Vlietinck",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/7344.png"
+  },
+  {
+    "name": "Yamada",
+    "team": "OH Leuven",
+    "position": "AAN",
+    "price": "5.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-ohl.png"
+  },
+  {
+    "name": "Abrahams",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Achihi",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79001.png"
+  },
+  {
+    "name": "Adekami",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78889.png"
+  },
+  {
+    "name": "Andersson",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Asare",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79304.png"
   },
   {
     "name": "Audoor",
     "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Middenvelder",
-    "points": "16",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79195.png"
   },
   {
-    "name": "Kikkenborg",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Banguera",
+    "team": "Lommel SK",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
   },
   {
-    "name": "Giger",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Aanvaller",
-    "points": "29",
-    "goals": "3",
-    "assists": "1",
-    "price": "4.5"
+    "name": "Benachour",
+    "team": "STVV",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79066.png"
   },
   {
-    "name": "Sambu",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "34",
-    "goals": "0",
-    "assists": "2",
-    "price": "4.5"
-  },
-  {
-    "name": "Fixelles",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Riou",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Verdediger",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Volckaert",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "19",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Boukamir M.",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "18",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "El Adfaoui",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Middenvelder",
-    "points": "9",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
-  },
-  {
-    "name": "Zekri",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Verdediger",
-    "points": "34",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Moutha-Sebtaoui",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "9",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Bohamdi-Kamoni",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Middenvelder",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Nyakossi",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "43",
-    "goals": "2",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Kotto",
-    "team": "Gent",
-    "teamShortName": "gnt",
-    "position": "Verdediger",
-    "points": "26",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Sydorchuk",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Verdediger",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Assengue",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Verdediger",
-    "points": "4",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Defourny",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Sergeant",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Middenvelder",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Cappelle",
+    "team": "SV Zulte Waregem",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79082.png"
   },
   {
     "name": "Chambaere",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Doelman",
-    "points": "10",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "team": "Union SG",
+    "position": "DMN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76387.png"
   },
   {
-    "name": "George",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Middenvelder",
-    "points": "23",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
+    "name": "Claes",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78794.png"
+  },
+  {
+    "name": "Conde",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Coulibaly",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Dao",
+    "team": "RSC Anderlecht",
+    "position": "AAN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78994.png"
+  },
+  {
+    "name": "De Wolf",
+    "team": "KV Mechelen",
+    "position": "DMN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78774.png"
+  },
+  {
+    "name": "Dejaegere",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Delos",
+    "team": "RAAL La Louvière",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Demuynck",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-essevee.png"
+  },
+  {
+    "name": "Diakite",
+    "team": "Cercle Brugge",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78764.png"
   },
   {
     "name": "Dierckx",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "13",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "team": "Standard de Liège",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78941.png"
   },
   {
-    "name": "Medina",
-    "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Verdediger",
-    "points": "30",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
+    "name": "Dierckx",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79267.png"
   },
   {
-    "name": "Thoelen",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Doelman",
-    "points": "18",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
+    "name": "Lokesa",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Diouf",
+    "team": "SK Beveren",
+    "position": "AAN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Dussenne",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79230.png"
+  },
+  {
+    "name": "El Adfaoui",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79196.png"
+  },
+  {
+    "name": "Flo",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png"
+  },
+  {
+    "name": "Giger",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78983.png"
+  },
+  {
+    "name": "Golic",
+    "team": "KV Mechelen",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79173.png"
+  },
+  {
+    "name": "Gourville",
+    "team": "RAAL La Louvière",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Gunnarsson",
+    "team": "KV Kortrijk",
+    "position": "DMN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
   },
   {
     "name": "Hamdaoui",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Middenvelder",
-    "points": "21",
-    "goals": "0",
-    "assists": "1",
-    "price": "4.5"
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78974.png"
   },
   {
-    "name": "Keita",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.5"
-  },
-  {
-    "name": "Konate",
+    "name": "Herrmann",
     "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Verdediger",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "4.3"
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79302.png"
   },
   {
-    "name": "Paugain",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "52",
-    "goals": "1",
-    "assists": "0",
-    "price": "4.2"
+    "name": "Hurtevent",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
   },
   {
-    "name": "Marijnissen",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Verdediger",
-    "points": "62",
-    "goals": "1",
-    "assists": "0",
-    "price": "4.1"
+    "name": "Jans",
+    "team": "SK Beveren",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
   },
   {
-    "name": "Diriken",
-    "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Verdediger",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Boukamir A.",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "10",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Dobbels",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Willockx",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Langenbick",
-    "team": "Cercle Brugge",
-    "teamShortName": "cer",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Vroninks",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "De Jaegere",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "6",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "De Schrevel",
-    "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Souanga",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "van den Heuvel",
-    "team": "Club Brugge",
-    "teamShortName": "clu",
-    "position": "Doelman",
-    "points": "16",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Opoku",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Verdediger",
-    "points": "24",
-    "goals": "0",
-    "assists": "1",
-    "price": "4"
-  },
-  {
-    "name": "Goure",
-    "team": "KVC Westerlo",
-    "teamShortName": "wes",
-    "position": "Aanvaller",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
-  },
-  {
-    "name": "Francois",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "1",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Janssens",
+    "team": "SK Beveren",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
   },
   {
     "name": "Kiilerich",
-    "team": "Zulte Waregem",
-    "teamShortName": "zwa",
-    "position": "Verdediger",
-    "points": "37",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "team": "SV Zulte Waregem",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79211.png"
   },
   {
-    "name": "Nam",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Middenvelder",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Kimura",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79219.png"
+  },
+  {
+    "name": "Kondo",
+    "team": "Cercle Brugge",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79299.png"
   },
   {
     "name": "Kongolo",
     "team": "KRC Genk",
-    "teamShortName": "gnk",
-    "position": "Verdediger",
-    "points": "7",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78729.png"
   },
   {
-    "name": "Gaudin",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "23",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Koren",
+    "team": "Club Brugge",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-club.png"
   },
   {
-    "name": "Fortin",
-    "team": "FCV Dender EH",
-    "teamShortName": "den",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Lakomy",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79236.png"
   },
   {
-    "name": "Monteiro",
+    "name": "Lambert",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Lapage",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78869.png"
+  },
+  {
+    "name": "Lathouwers",
+    "team": "KVC Westerlo",
+    "position": "DMN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png"
+  },
+  {
+    "name": "Lavalee",
+    "team": "Standard de Liège",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "Lawal",
+    "team": "KRC Genk",
+    "position": "DMN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79166.png"
+  },
+  {
+    "name": "Lemoine",
+    "team": "SV Zulte Waregem",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79069.png"
+  },
+  {
+    "name": "Lofolomo",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79045.png"
+  },
+  {
+    "name": "Lutonda",
     "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79217.png"
   },
   {
-    "name": "Barry",
-    "team": "Union Saint-Gilloise",
-    "teamShortName": "usg",
-    "position": "Verdediger",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Maamar",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78954.png"
   },
   {
-    "name": "Sow",
-    "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Verdediger",
-    "points": "3",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Makate",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
   },
   {
-    "name": "Decoene",
-    "team": "KV Mechelen",
-    "teamShortName": "kvm",
-    "position": "Middenvelder",
-    "points": "2",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Masui",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
   },
   {
-    "name": "Lendfers",
+    "name": "Mbamba",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79200.png"
+  },
+  {
+    "name": "Mbaye",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79310.png"
+  },
+  {
+    "name": "Mbe Soh",
     "team": "STVV",
-    "teamShortName": "stv",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79287.png"
   },
   {
-    "name": "Devalckeneer",
-    "team": "R. Antwerp FC",
-    "teamShortName": "ant",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Mbemba",
+    "team": "Sporting Charleroi",
+    "position": "AAN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79220.png"
+  },
+  {
+    "name": "Medina",
+    "team": "KRC Genk",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78953.png"
+  },
+  {
+    "name": "Mortensen",
+    "team": "Standard de Liège",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79279.png"
+  },
+  {
+    "name": "Ndala",
+    "team": "Cercle Brugge",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-cercle.png"
+  },
+  {
+    "name": "Ndjeungoue",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Ngom",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "Nsingi",
+    "team": "RAAL La Louvière",
+    "position": "AAN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79194.png"
+  },
+  {
+    "name": "Ogiwara",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-ohl.png"
+  },
+  {
+    "name": "Okou",
+    "team": "RAAL La Louvière",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79210.png"
+  },
+  {
+    "name": "Osifo",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76434.png"
+  },
+  {
+    "name": "Palacios",
+    "team": "KRC Genk",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78759.png"
+  },
+  {
+    "name": "Paugain",
+    "team": "SV Zulte Waregem",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79091.png"
+  },
+  {
+    "name": "Pereira Cardoso",
+    "team": "RAAL La Louvière",
+    "position": "DMN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Pierre",
+    "team": "KRC Genk",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-genk.png"
+  },
+  {
+    "name": "Pirard",
+    "team": "Standard de Liège",
+    "position": "DMN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/29.png"
+  },
+  {
+    "name": "Renders",
+    "team": "Royal Antwerp FC",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78933.png"
+  },
+  {
+    "name": "Rigo",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Ruyssen",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Salifou",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79251.png"
+  },
+  {
+    "name": "Sardella",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/72158.png"
+  },
+  {
+    "name": "Shinkawa",
+    "team": "STVV",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79282.png"
+  },
+  {
+    "name": "St. Jago",
+    "team": "KV Mechelen",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79053.png"
+  },
+  {
+    "name": "Sylla",
+    "team": "Union SG",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79274.png"
+  },
+  {
+    "name": "Tajaouart",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Teague",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79160.png"
+  },
+  {
+    "name": "Valencia",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78355.png"
+  },
+  {
+    "name": "Van den Heuvel",
+    "team": "OH Leuven",
+    "position": "DMN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78887.png"
+  },
+  {
+    "name": "Van Duiven",
+    "team": "Lommel SK",
+    "position": "AAN",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Van Meirvenne",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-mechelen.png"
+  },
+  {
+    "name": "Volckaert",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79266.png"
+  },
+  {
+    "name": "Wouters",
+    "team": "Lommel SK",
+    "position": "VER",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Krastev",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Ahoka",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79260.png"
+  },
+  {
+    "name": "Nkoa",
+    "team": "RAAL La Louvière",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Ando",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
+  },
+  {
+    "name": "Asselman",
+    "team": "KAA Gent",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "Assengue",
+    "team": "Standard de Liège",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79264.png"
+  },
+  {
+    "name": "Atrok",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-essevee.png"
+  },
+  {
+    "name": "Ayinde",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "Bayo",
+    "team": "Cercle Brugge",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78765.png"
+  },
+  {
+    "name": "Benaets",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Bijl",
+    "team": "Royal Antwerp FC",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79183.png"
+  },
+  {
+    "name": "Boets",
+    "team": "Union SG",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
+  },
+  {
+    "name": "Bohamdi-Kamoni",
+    "team": "KVC Westerlo",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79272.png"
+  },
+  {
+    "name": "Bojang",
+    "team": "Sporting Charleroi",
+    "position": "AAN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-charleroi.png"
+  },
+  {
+    "name": "Boone",
+    "team": "SK Beveren",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Borys",
+    "team": "KVC Westerlo",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png"
+  },
+  {
+    "name": "Bostyn",
+    "team": "SV Zulte Waregem",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79084.png"
+  },
+  {
+    "name": "Boukamir A.",
+    "team": "Sporting Charleroi",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78882.png"
+  },
+  {
+    "name": "Cooman",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "David",
+    "team": "Royal Antwerp FC",
+    "position": "AAN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79187.png"
+  },
+  {
+    "name": "De Jaegere",
+    "team": "SV Zulte Waregem",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79269.png"
+  },
+  {
+    "name": "De Smet Le.",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "De Smet Li.",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "De Vlaeminck",
+    "team": "KV Kortrijk",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "De Wannemacker",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-genk.png"
+  },
+  {
+    "name": "Dewaele",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Diouf",
+    "team": "KV Mechelen",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79159.png"
+  },
+  {
+    "name": "Evers",
+    "team": "KAA Gent",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "Eyoma",
+    "team": "Lommel SK",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Fofana",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
+  },
+  {
+    "name": "George",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78934.png"
   },
   {
     "name": "Gillot",
     "team": "RAAL La Louvière",
-    "teamShortName": "lal",
-    "position": "Verdediger",
-    "points": "31",
-    "goals": "1",
-    "assists": "1",
-    "price": "4"
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79075.png"
   },
   {
-    "name": "Engwanda",
-    "team": "RSC Anderlecht",
-    "teamShortName": "and",
-    "position": "Verdediger",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Godelaine",
+    "team": "Royal Antwerp FC",
+    "position": "AAN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
   },
   {
-    "name": "Jochmans",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Hens",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
   },
   {
-    "name": "Mitongo",
-    "team": "Standard de Liège",
-    "teamShortName": "sta",
-    "position": "Aanvaller",
-    "points": "5",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Isah",
+    "team": "RAAL La Louvière",
+    "position": "AAN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
   },
   {
-    "name": "Radelet",
-    "team": "Oud-Heverlee Leuven",
-    "teamShortName": "ohl",
-    "position": "Doelman",
-    "points": "0",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "name": "Ishiwatari",
+    "team": "STVV",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-stvv.png"
+  },
+  {
+    "name": "Ivezic",
+    "team": "Lommel SK",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Janssens",
+    "team": "STVV",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/6139.png"
+  },
+  {
+    "name": "Karim",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Keita",
+    "team": "Union SG",
+    "position": "AAN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
   },
   {
     "name": "Khalifi",
     "team": "Sporting Charleroi",
-    "teamShortName": "cha",
-    "position": "Middenvelder",
-    "points": "14",
-    "goals": "0",
-    "assists": "0",
-    "price": "4"
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79174.png"
+  },
+  {
+    "name": "Kohon",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Konate",
+    "team": "Cercle Brugge",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79151.png"
+  },
+  {
+    "name": "Laalaoui",
+    "team": "KVC Westerlo",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79254.png"
+  },
+  {
+    "name": "Lietaert",
+    "team": "Cercle Brugge",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78663.png"
+  },
+  {
+    "name": "Makanza",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-mechelen.png"
+  },
+  {
+    "name": "Mbalanda",
+    "team": "STVV",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78939.png"
+  },
+  {
+    "name": "Mituljikic",
+    "team": "SV Zulte Waregem",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79228.png"
+  },
+  {
+    "name": "Zekri",
+    "team": "KV Mechelen",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79010.png"
+  },
+  {
+    "name": "Mujangi Bia",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-anderlecht.png"
+  },
+  {
+    "name": "Murru",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-ohl.png"
+  },
+  {
+    "name": "Najim",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Nga Kana",
+    "team": "RSC Anderlecht",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-anderlecht.png"
+  },
+  {
+    "name": "Nkuba",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/76527.png"
+  },
+  {
+    "name": "Ogbuehi",
+    "team": "KV Kortrijk",
+    "position": "AAN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Opoku",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79239.png"
+  },
+  {
+    "name": "Osuji",
+    "team": "Club Brugge",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79292.png"
+  },
+  {
+    "name": "Ourega",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79289.png"
+  },
+  {
+    "name": "Özdemir",
+    "team": "KV Mechelen",
+    "position": "AAN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79186.png"
+  },
+  {
+    "name": "Peersman",
+    "team": "KAA Gent",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79199.png"
+  },
+  {
+    "name": "Podgoreanu",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Seven",
+    "team": "SV Zulte Waregem",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79290.png"
+  },
+  {
+    "name": "Solheid",
+    "team": "Sporting Charleroi",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-charleroi.png"
+  },
+  {
+    "name": "Soumare",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79294.png"
+  },
+  {
+    "name": "Struyf",
+    "team": "KV Mechelen",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79206.png"
+  },
+  {
+    "name": "Sydorchuk",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78643.png"
+  },
+  {
+    "name": "Tewelde",
+    "team": "Lommel SK",
+    "position": "AAN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Thoelen",
+    "team": "Royal Antwerp FC",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/1894.png"
+  },
+  {
+    "name": "Thompson",
+    "team": "SK Beveren",
+    "position": "VER",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Trouillet",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "Van Ingelgom",
+    "team": "KV Mechelen",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-mechelen.png"
+  },
+  {
+    "name": "Vandenberghe",
+    "team": "KAA Gent",
+    "position": "DMN",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78281.png"
+  },
+  {
+    "name": "Yokoyama",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "4.5",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79153.png"
+  },
+  {
+    "name": "Akpan",
+    "team": "KRC Genk",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-genk.png"
+  },
+  {
+    "name": "Amegnaglo",
+    "team": "KVC Westerlo",
+    "position": "AAN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-westerlo.png"
+  },
+  {
+    "name": "Appuah",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Boukamir M.",
+    "team": "RAAL La Louvière",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Boussadia",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Caicedo",
+    "team": "Cercle Brugge",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-cercle.png"
+  },
+  {
+    "name": "Chibani",
+    "team": "Union SG",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
+  },
+  {
+    "name": "Cisse Y.",
+    "team": "Sporting Charleroi",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79314.png"
+  },
+  {
+    "name": "Cisse I.",
+    "team": "Sporting Charleroi",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-charleroi.png"
+  },
+  {
+    "name": "Cremer",
+    "team": "Sporting Charleroi",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-charleroi.png"
+  },
+  {
+    "name": "Damjanic",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79179.png"
+  },
+  {
+    "name": "De Coninck",
+    "team": "KAA Gent",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "De Corte",
+    "team": "Club Brugge",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-club.png"
+  },
+  {
+    "name": "Deman",
+    "team": "SK Beveren",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "De Meyer",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78937.png"
+  },
+  {
+    "name": "De Schutter",
+    "team": "SK Beveren",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Decoene",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79268.png"
+  },
+  {
+    "name": "Dembaga",
+    "team": "Sporting Charleroi",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-charleroi.png"
+  },
+  {
+    "name": "Devalckeneer",
+    "team": "Royal Antwerp FC",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79002.png"
+  },
+  {
+    "name": "Diop",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Diriken",
+    "team": "STVV",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78867.png"
+  },
+  {
+    "name": "Dizdarević",
+    "team": "Standard de Liège",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "Dobbels",
+    "team": "SV Zulte Waregem",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79089.png"
+  },
+  {
+    "name": "Doucoure",
+    "team": "KRC Genk",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79305.png"
+  },
+  {
+    "name": "Engwanda",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78868.png"
+  },
+  {
+    "name": "Fofana",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Gordic",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Heremans",
+    "team": "OH Leuven",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-ohl.png"
+  },
+  {
+    "name": "Huygevelde",
+    "team": "Union SG",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-union.png"
+  },
+  {
+    "name": "Jochmans",
+    "team": "OH Leuven",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78906.png"
+  },
+  {
+    "name": "Kavlashvili",
+    "team": "Union SG",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79078.png"
+  },
+  {
+    "name": "Keita",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79079.png"
+  },
+  {
+    "name": "Kera",
+    "team": "Sporting Charleroi",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-charleroi.png"
+  },
+  {
+    "name": "Lalić",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Lama",
+    "team": "Lommel SK",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Lambotte",
+    "team": "STVV",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78871.png"
+  },
+  {
+    "name": "Langenbick",
+    "team": "Cercle Brugge",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78225.png"
+  },
+  {
+    "name": "Lenaerts",
+    "team": "KV Mechelen",
+    "position": "AAN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-mechelen.png"
+  },
+  {
+    "name": "Lendfers",
+    "team": "STVV",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78872.png"
+  },
+  {
+    "name": "Lusamba",
+    "team": "SK Beveren",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Makembo-Ntemo",
+    "team": "RAAL La Louvière",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Mawate",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Mejia",
+    "team": "Royal Antwerp FC",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
+  },
+  {
+    "name": "Mondele",
+    "team": "Cercle Brugge",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-cercle.png"
+  },
+  {
+    "name": "Montano",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Monteiro",
+    "team": "RAAL La Louvière",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79087.png"
+  },
+  {
+    "name": "Nam",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79234.png"
+  },
+  {
+    "name": "Narh",
+    "team": "Royal Antwerp FC",
+    "position": "AAN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
+  },
+  {
+    "name": "Ndembi",
+    "team": "KVC Westerlo",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79303.png"
+  },
+  {
+    "name": "Wirsiy Nsolo",
+    "team": "KV Kortrijk",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Okon-Engstler",
+    "team": "Club Brugge",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-club.png"
+  },
+  {
+    "name": "Ouahabi",
+    "team": "KV Mechelen",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-mechelen.png"
+  },
+  {
+    "name": "Oware",
+    "team": "Lommel SK",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Mununga",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Piron",
+    "team": "Sporting Charleroi",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-charleroi.png"
+  },
+  {
+    "name": "Radelet",
+    "team": "RAAL La Louvière",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Reumers",
+    "team": "Lommel SK",
+    "position": "AAN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Sall",
+    "team": "SV Zulte Waregem",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79296.png"
+  },
+  {
+    "name": "Schelfhout",
+    "team": "Royal Antwerp FC",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
+  },
+  {
+    "name": "S'Jongers",
+    "team": "SK Beveren",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-beveren.png"
+  },
+  {
+    "name": "Souanga",
+    "team": "OH Leuven",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78719.png"
+  },
+  {
+    "name": "Sow",
+    "team": "Sporting Charleroi",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/78936.png"
+  },
+  {
+    "name": "Spoden",
+    "team": "Standard de Liège",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-standard.png"
+  },
+  {
+    "name": "Talvitie",
+    "team": "Lommel SK",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Temperman",
+    "team": "KV Kortrijk",
+    "position": "MID",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-kortrijk.png"
+  },
+  {
+    "name": "Traore",
+    "team": "RAAL La Louvière",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-raal.png"
+  },
+  {
+    "name": "Tuypens",
+    "team": "Royal Antwerp FC",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-antwerp.png"
+  },
+  {
+    "name": "Vanden Driessche",
+    "team": "Club Brugge",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-club.png"
+  },
+  {
+    "name": "Vercauteren",
+    "team": "Lommel SK",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-lommel.png"
+  },
+  {
+    "name": "Vernemmen",
+    "team": "KAA Gent",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/dummy-gent.png"
+  },
+  {
+    "name": "Vroninks",
+    "team": "RSC Anderlecht",
+    "position": "VER",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79192.png"
+  },
+  {
+    "name": "Willockx",
+    "team": "KV Mechelen",
+    "position": "DMN",
+    "price": "4",
+    "imageUrl": "https://fanarena.s3.eu-west-1.amazonaws.com/players/79086.png"
   }
 ]

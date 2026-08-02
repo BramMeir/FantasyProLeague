@@ -36,8 +36,9 @@ class SelectionRequest(BaseModel):
     This model represents the entire JSON body of the request
     '''
     budget: float = 100.0
-    # The list of players is optional and will default to an empty list
+    # The lists of players that are must have or excluded are optional and will default to an empty list
     must_have_players: List[Player] = Field(default_factory=list)
+    excluded_players: List[Player] = Field(default_factory=list)
 
 
 @app.get("/players")
@@ -73,8 +74,10 @@ def get_best_selection(request: SelectionRequest):
     # Pydantic models need to be converted to dictionaries before passing them
     # to your service function.
     must_have_dicts = [player.model_dump() for player in request.must_have_players]
+    excluded_dicts = [player.model_dump() for player in request.excluded_players]
 
     return best_selection(
         budget=request.budget,
-        must_have_players=must_have_dicts
+        must_have_players=must_have_dicts,
+        excluded_players=excluded_dicts
     )

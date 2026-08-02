@@ -10,7 +10,11 @@ interface PlayerState {
     getAllPlayers: () => Promise<Player[]>;
     getBestPerformingPlayers: (numberOfPlayers: number, position: string) => Promise<Player[]>;
     getBestPriceWisePlayers: (numberOfPlayers: number, position: string) => Promise<Player[]>;
-    getBestSelection: (budget: number, mustHavePlayers: { name: string; teamShortName: string; }[]) => Promise<Player[]>;
+    getBestSelection: (
+        budget: number, 
+        mustHavePlayers: { name: string; teamShortName: string; }[],
+        excludedPlayers: { name: string; teamShortName: string; }[]
+    ) => Promise<Player[]>;
 }
 
 export function usePlayer(): PlayerState {
@@ -34,13 +38,21 @@ export function usePlayer(): PlayerState {
         return await getList<Player>(endpoint, players, Player.fromJSON);
     }
 
-    async function getBestSelection(budget: number, mustHavePlayers: { name: string; teamShortName: string; }[]): Promise<Player[]> {
+    async function getBestSelection(
+        budget: number, 
+        mustHavePlayers: { name: string; teamShortName: string; }[],
+        excludedPlayers: { name: string; teamShortName: string; }[]
+    ): Promise<Player[]> {
         const endpoint = endpoints.api.team.bestSelection;
 
         const payload = {
             budget: budget,
             // Convert players to objects that have just the name and teamShortName
             must_have_players: mustHavePlayers.map(player => ({
+                name: player.name,
+                teamShortName: player.teamShortName
+            })),
+            excluded_players: excludedPlayers.map(player => ({
                 name: player.name,
                 teamShortName: player.teamShortName
             }))

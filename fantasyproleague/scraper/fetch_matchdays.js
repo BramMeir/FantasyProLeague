@@ -17,8 +17,8 @@ const main = async () => {
 
         const matchData = await page.evaluate(() => {
             // Select the matchday
-            const matchday = document.querySelector("span.sc-df0c41ad-3.hDRsm.MkFootballModuleListCompetitionMatch__matchGroup__gameweekName")?.textContent.trim().split(" ")[1];
-
+            const matchday = document.querySelector("div.MkFootballModuleListCompetitionMatch__matchGroup__gameweekName")?.textContent.trim().split(" ")[1];
+    
             // Select all home teams
             const hometeams = document.querySelectorAll('div.MkFootballMatchCard--homeTeam');
     
@@ -35,13 +35,19 @@ const main = async () => {
                 return team.querySelector('span.MkFootballMatchCard__teamName')?.textContent.trim();
             });
 
-            return { "matchday": matchday, "matches": hometeams_names.map((team, index) => {
-                return { "home": team, "away": awayteams_names[index] };
+            // Make sure both home and away teams are unique
+            const uniqueHometeams = [...new Set(hometeams_names)];
+            const uniqueAwayteams = [...new Set(awayteams_names)];
+
+            return { "matchday": matchday, "matches": uniqueHometeams.map((team, index) => {
+                return { "home": team, "away": uniqueAwayteams[index] };
                 }) 
             };
         });
 
         matchdays.push(matchData); // Append new data
+
+        console.log(`Extracted matchday: ${matchData.matchday} with ${matchData.matches.length} matches.`);
 
         // Check if there is a "Next" button and if it's clickable
         hasNextPage = await page.evaluate(() => {
@@ -53,7 +59,7 @@ const main = async () => {
 
             // Get the current matchday before clicking
             const lastMatchday = await page.evaluate(() => {
-                const matchday = document.querySelector("span.sc-df0c41ad-3.hDRsm.MkFootballModuleListCompetitionMatch__matchGroup__gameweekName")?.textContent.trim();
+                const matchday = document.querySelector("div.MkFootballModuleListCompetitionMatch__matchGroup__gameweekName")?.textContent.trim().split(" ")[1];
                 return matchday;
             });
 
@@ -62,7 +68,7 @@ const main = async () => {
                 page.click("button.MkFootballModuleListCompetitionMatch__matchGroup__nextButton"), // Click the Next button
                 page.waitForFunction(
                     (lastMatchday) => {
-                        const matchday = document.querySelector("span.sc-df0c41ad-3.hDRsm.MkFootballModuleListCompetitionMatch__matchGroup__gameweekName")?.textContent.trim();
+                        const matchday = document.querySelector("div.MkFootballModuleListCompetitionMatch__matchGroup__gameweekName")?.textContent.trim().split(" ")[1];
                         return matchday !== lastMatchday;
                     },
                     {},

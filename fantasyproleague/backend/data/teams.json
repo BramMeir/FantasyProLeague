@@ -1,66 +1,74 @@
 {
-    "ANT": {
-        "name": "R. Antwerp FC",
+    "royal antwerp fc": {
+        "abbreviation": "ANT",
         "shortName": "ant"
     },
-    "AND": {
-        "name": "RSC Anderlecht",
+    "rsc anderlecht": {
+        "abbreviation": "AND",
         "shortName": "and"
     },
-    "CLU": {
-        "name": "Club Brugge",
+    "club brugge": {
+        "abbreviation": "CLU",
         "shortName": "clu"
     },
-    "GNK": {
-        "name": "KRC Genk",
+    "krc genk": {
+        "abbreviation": "GNK",
         "shortName": "gnk"
     },
-    "GNT": {
-        "name": "Gent",
+    "kaa gent": {
+        "abbreviation": "GNT",
         "shortName": "gnt"
     },
-    "CER": {
-        "name": "Cercle Brugge",
+    "cercle brugge": {
+        "abbreviation": "CER",
         "shortName": "cer"
     },
-    "DEN": {
-        "name": "FCV Dender EH",
-        "shortName": "den"
-    },
-    "LAL": {
-        "name": "RAAL La Louvière",
+    "raal la louvière": {
+        "abbreviation": "LAL",
         "shortName": "lal"
     },
-    "KVM": {
-        "name": "KV Mechelen",
+    "lommel sk": {
+        "abbreviation": "LOM",
+        "shortName": "lom"
+    },
+    "kv mechelen": {
+        "abbreviation": "KVM",
         "shortName": "kvm"
     },
-    "WES": {
-        "name": "KVC Westerlo",
+    "kvc westerlo": {
+        "abbreviation": "WES",
         "shortName": "wes"
     },
-    "OHL": {
-        "name": "Oud-Heverlee Leuven",
+    "oh leuven": {
+        "abbreviation": "OHL",
         "shortName": "ohl"
     },
-    "USG": {
-        "name": "Union Saint-Gilloise",
+    "union sg": {
+        "abbreviation": "USG",
         "shortName": "usg"
     },
-    "CHA": {
-        "name": "Sporting Charleroi",
+    "sporting charleroi": {
+        "abbreviation": "CHA",
         "shortName": "cha"
     },
-    "STA": {
-        "name": "Standard de Liège",
+    "standard de liège": {
+        "abbreviation": "STA",
         "shortName": "sta"
     },
-    "STV": {
-        "name": "STVV",
+    "stvv": {
+        "abbreviation": "STV",
         "shortName": "stv"
     },
-    "ZWA": {
-        "name": "Zulte Waregem",
+    "sv zulte waregem": {
+        "abbreviation": "ZWA",
         "shortName": "zwa"
+    },
+    "sk beveren": {
+        "abbreviation": "BEV",
+        "shortName": "bev"
+    },
+    "kv kortrijk": {
+        "abbreviation": "KOR",
+        "shortName": "kor"
     }
 }

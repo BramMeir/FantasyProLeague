@@ -11,6 +11,7 @@ import { usePlayer } from '@/composables/services/data.service';
 import InputText from 'primevue/inputtext';
 import IconField from 'primevue/iconfield';
 import InputIcon from 'primevue/inputicon';
+import Checkbox from 'primevue/checkbox';
 
 const { players, bestPlayers, getAllPlayers, getBestSelection } = usePlayer();
 
@@ -19,7 +20,8 @@ const isLoading = ref(true);
 const isGenerating = ref(false);
 
 // State for user interaction
-const selectedPlayers = ref<Player[]>([]);
+type PlayerState = 'neutral' | 'include' | 'exclude';
+const playerStates = ref<Record<number, PlayerState>>({});
 const searchQuery = ref('');
 const maxBudget = ref(100);
 
@@ -29,7 +31,7 @@ onMounted(async () => {
     // Fetch all the players
     await getAllPlayers();
     // Then, get an initial optimal team
-    await getBestSelection(maxBudget.value, []);
+    await getBestSelection(maxBudget.value, [], []);
   } catch (error) {
     console.error("Could not fetch initial data:", error);
   } finally {
@@ -37,18 +39,30 @@ onMounted(async () => {
   }
 });
 
+const togglePlayerState = (id: number) => {
+    const current = playerStates.value[id] ?? 'neutral';
+    playerStates.value[id] =
+        current === 'neutral' ? 'include'
+        : current === 'include' ? 'exclude'
+        : 'neutral';
+};
+
 // This function is called when the user clicks the "Generate" button
 const generateOptimalTeam = async () => {
     isGenerating.value = true;
     try {
         // Map the selected players to the format the API expects
-        const mustHave = selectedPlayers.value.map((p: Player) => ({
-            name: p.name,
-            teamShortName: p.teamShortName
-        }));
+        const mustHave = players.value
+            .filter((p: Player) => playerStates.value[p.id] === 'include')
+            .map((p: Player) => ({ name: p.name, teamShortName: p.teamShortName }));
+
+        // Map the excluded players to the format the API expects
+        const excluded = players.value
+            .filter((p: Player) => playerStates.value[p.id] === 'exclude')
+            .map((p: Player) => ({ name: p.name, teamShortName: p.teamShortName }));
         
         // Call the API with the user's selection
-        await getBestSelection(maxBudget.value, mustHave);
+        await getBestSelection(maxBudget.value, mustHave, excluded);
 
     } catch (error) {
         console.error("Failed to generate optimal team:", error);
@@ -165,7 +179,26 @@ const totalPoints = computed(() => {
                             :rows="10"
                             size="small"
                         >
-                            <Column selectionMode="multiple" headerStyle="width: 3rem"></Column>
+                            <Column header="Status" headerStyle="width: 3rem">
+                                <template #body="{ data }">
+                                    <Button
+                                        text
+                                        rounded
+                                        @click="togglePlayerState(data.id)"
+                                        :icon="
+                                            playerStates[data.id] === 'include' ? 'pi pi-check-circle'
+                                            : playerStates[data.id] === 'exclude' ? 'pi pi-times-circle'
+                                            : 'pi pi-minus-circle'
+                                        "
+                                        :severity="
+                                            playerStates[data.id] === 'include' ? 'success'
+                                            : playerStates[data.id] === 'exclude' ? 'danger'
+                                            : 'secondary'
+                                        "
+                                    />
+                                </template>
+                            </Column>
+
                             <Column field="name" header="Naam" sortable></Column>
                             <Column field="price" header="Prijs" sortable>
                                  <template #body="slotProps">

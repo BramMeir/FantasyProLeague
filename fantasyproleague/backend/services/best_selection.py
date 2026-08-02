@@ -2,7 +2,7 @@ from pulp import LpMaximize, LpProblem, LpVariable, lpSum
 from functions.help_functions import get_data
 
 
-def best_selection(budget=100, must_have_players=None):
+def best_selection(budget=100, must_have_players=None, excluded_players=None):
     """
     Build the best team of 15 players within the given budget,
     ensuring that a pre-selected list of players is included.
@@ -10,9 +10,12 @@ def best_selection(budget=100, must_have_players=None):
     Args:
         budget (int): The total budget for the team.
         must_have_players (list): A list of player dictionaries that must be in the final team.
+        excluded_players (list): A list of player dictionaries that may not be in the final team.
     """
     if must_have_players is None:
         must_have_players = []
+    if excluded_players is None:
+        excluded_players = []
 
     # Get players from the dataset
     players = get_data("players.json")
@@ -27,11 +30,15 @@ def best_selection(budget=100, must_have_players=None):
     # For efficient lookup, create a set of unique identifiers for the must-have players.
     # We use a tuple of (name, team) as a unique key for each player.
     must_have_set = {(p['name'], p['teamShortName']) for p in must_have_players}
+    excluded_set = {(p['name'], p['teamShortName']) for p in excluded_players}
 
-    # Add constraints to force the selection of these players
+    # Add constraints to force the selection/exclusion of these players
     for i, p in enumerate(players):
         if (p['name'], p['teamShortName']) in must_have_set:
-            problem += player_vars[i] == 1, f"Force_select_{p['name']}"
+            problem += player_vars[i] == 1, f"Force_select_{p['name']}_{p['teamShortName']}_{i}"
+
+        if (p['name'], p['teamShortName']) in excluded_set:
+            problem += player_vars[i] == 0, f"Force_exclude_{p['name']}_{p['teamShortName']}_{i}"
 
     # Objective function: Maximize total points
     problem += lpSum(player_vars[i] * float(p["points"]) for i, p in enumerate(players))
